@@ -1,0 +1,1585 @@
+	gene	locus_tag	product	protein_id	EC_number
+0	lacE	SMb21652	ABC transporter, periplasmic solute-binding 	CAC48401.1	NA
+1	lacF	SMb21653	ABC transporter, permease	CAC48402.1	NA
+2	lacG	SMb21654	ABC transporter, permease	CAC48403.1	NA
+3	lacZ1	SMb21655	Beta-galactosidase	CAC48404.1	3.2.1.23
+4	lacK1	SMb20002	ABC transporter, ATP-binding protein	CAC48405.1	NA
+5	NA	SMb20003	Pyrroline-5-carboxylate reductase	CAC48406.1	1.5.1.2
+6	gstR	SMb20004	Putative GstR-like transcriptional regulator	CAC48407.1	NA
+7	gst15	SMb20005	Putative glutathione S-transferase	CAC48408.1	2.5.1.18
+8	NA	SMb20006	Hypothetical protein	CAC48409.1	NA
+9	katC	SMb20007	Catalase	CAC48410.1	1.11.1.6
+10	NA	SMb20008	DNA ligase (ATP)	CAC48411.1	6.5.1.1
+11	NA	SMb20009	Putative transcriptional regulator	CAC48412.1	NA
+12	NA	SMb20010	Hypothetical protein	CAC48413.1	NA
+13	NA	SMb20011	Putative heavy-metal transporter	CAC48414.1	NA
+14	NA	SMb20012	Hypothetical protein	CAC48415.1	NA
+15	NA	SMb20013	Putative oxidoreductase	CAC48416.1	1.-.-.-
+16	NA	SMb20014	Probable transcriptional regulator	CAC48417.1	NA
+17	NA	SMb20015	Putative sugar ABC transporter	CAC48418.1	NA
+18	NA	SMb20016	Putative sugar ABC transporter	CAC48419.1	NA
+19	NA	SMb20017	Putative sugar ABC transporter ATP-binding 	CAC48420.1	NA
+20	NA	SMb20018	Probable sugar transport ATP-binding protein	CAC48421.1	NA
+21	sucB	SMb20019	Dihydrolipoyllysine-residue succinyltransferase	CAC48422.1	2.3.1.61
+22	pdh	SMb20020	Pyruvate dehydrogenase (acetyl-transferring)	CAC48423.1	1.2.4.1
+23	NA	SMb20021	Putative transcriptional regulator	CAC48424.1	NA
+24	NA	SMb20022	Conserved hypothetical protein	CAC48425.1	NA
+25	NA	SMb20023	Probable 5-oxoprolinase	CAC48426.1	3.5.2.9
+26	NA	SMb20024	Ribosomal large subunit pseudouridine synthase 	CAC48427.1	4.2.1.70
+27	NA	SMb20025	Conserved hypothetical protein	CAC48428.1	NA
+28	NA	SMb20026	Conserved hypothetical protein	CAC48429.1	NA
+29	NA	SMb20027	Conserved hypothetical protein	CAC48430.1	NA
+30	NA	SMb20028	Hypothetical protein	CAC48431.1	NA
+31	NA	SMb20029	Conserved hypothetical protein	CAC48432.1	NA
+32	rpoE9	SMb20030	RNA polymerase sigma factor, ECF subfamily 	CAC48433.1	NA
+33	NA	SMb20031	Hypothetical protein	CAC48434.1	NA
+34	NA	SMb20032	Hypothetical protein	CAC48435.1	NA
+35	NA	SMb20033	Hypothetical transcriptional regulator protein	CAC48436.1	NA
+36	NA	SMb20034	ABC transporter, permease	CAC48437.1	NA
+37	NA	SMb20035	ABC transporter, permease	CAC48438.1	NA
+38	NA	SMb20036	ABC transporter, periplasmic solute-binding 	CAC48439.1	NA
+39	aroE2	SMb20037	Putative shikimate 5-dehydrogenase	CAC48440.1	1.1.1.25
+40	NA	SMb20038	Hypothetical protein	CAC48441.1	NA
+41	NA	SMb20039	Aspartate transaminase	CAC48442.1	2.6.1.1
+42	NA	SMb20040	Hypothetical protein transmembrane	CAC48443.1	NA
+43	NA	SMb20041	Hypothetical protein	CAC48444.1	NA
+44	NA	SMb20042	Conserved hypothetical protein	CAC48445.1	NA
+45	NA	SMb20043	Hypothetical protein	CAC48446.1	NA
+46	incA1	SMb22026	Probable replication protein C	CAC48447.1	NA
+47	repB1	SMb20045	Probable replication protein B	CAC48448.1	NA
+48	repA1	SMb20046	Probable replication protein A	CAC48449.1	NA
+49	NA	SMb20047	Hypothetical protein	CAC48450.1	NA
+50	NA	SMb20048	Probable transcriptional regulator	CAC48451.1	NA
+51	fusA2	SMb20049	Putative elongation factor G	CAC48452.1	NA
+52	NA	SMb20050	Hypothetical transmembrane protein	CAC48453.1	NA
+53	cpo	SMb20054	Chloride peroxidase	CAC48454.1	1.11.1.10
+54	NA	SMb20055	Putative transcriptional regulator	CAC48455.1	NA
+55	btuF	SMb20056	ABC transporter, periplasmic solute-binding 	CAC48456.1	NA
+56	btuC	SMb20057	ABC transporter, permease	CAC48457.1	NA
+57	btuD	SMb20058	ABC transporter, ATP-binding protein	CAC48458.1	NA
+58	NA	SMb21610	SAM-dependent methyltransferase, may be involved 	CAC48459.1	2.1.1.-
+59	TRm5	SMb20060	Probable ISRm5 transposase	CAC48460.1	NA
+60	NA	SMb22003	Putative partial transposase	CAQ51276.1	NA
+61	NA	SMb20061	Hypothetical protein	CAC48461.1	NA
+62	NA	SMb20062	Conserved hypothetical protein	CAC48462.1	NA
+63	NA	SMb20063	Conserved hypothetical protein	CAC48463.1	NA
+64	NA	SMb20064	Putative transposase	CAC48464.1	NA
+65	NA	SMb20065	Hypothetical protein	CAC48465.1	NA
+66	NA	SMb20066	Hypothetical protein	CAC48466.1	NA
+67	NA	SMb20067	Hypothetical protein	CAC48467.1	NA
+68	NA	SMb20068	Hypothetical protein	CAC48468.1	NA
+69	NA	SMb20069	Probable Na+/aminoacid symporter	CAC48469.1	NA
+70	NA	SMb20070	Putative sulfate permease	CAC48470.1	NA
+71	NA	SMb20071	Putative efflux protein	CAC48471.1	NA
+72	NA	SMb20072	ABC transporter, periplasmic solute-binding 	CAC48472.1	NA
+73	NA	SMb20073	3-oxoacyl-[acyl-carrier-protein] reductase	CAC48473.1	1.1.1.100
+74	NA	SMb20074	Hypothetical protein	CAC48474.1	NA
+75	NA	SMb20075	Hypothetical protein	CAC48475.1	NA
+76	NA	SMb20076	3-oxoacyl-[acyl-carrier-protein] reductase	CAC48476.1	1.1.1.100
+77	NA	SMb20077	Putative sensor histidine kinase	CAC48477.1	NA
+78	NA	SMb20078	Probable response regulator	CAC48478.1	NA
+79	NA	SMb20079	Probable type I secretion target repeat protein	CAC48479.1	4.6.1.1
+80	NA	SMb20080	Formaldehyde dehydrogenase (glutathione)	CAC48480.2	NA
+81	NA	SMb20081	Conserved hypothetical protein	CAC48481.1	NA
+82	NA	SMb20082	Hypothetical protein	CAC48482.1	NA
+83	NA	SMb20083	Hypothetical protein	CAC48483.1	NA
+84	NA	SMb20084	Hypothetical protein transmembrane	CAC48484.1	NA
+85	NA	SMb20085	Hypothetical protein	CAC48485.1	NA
+86	NA	SMb20086	Hypothetical protein	CAC48486.1	NA
+87	NA	SMb20087	Conserved hypothetical protein	CAC48487.1	NA
+88	NA	SMb20088	Conserved hypothetical protein	CAC48488.1	2.1.1.77
+89	NA	SMb20089	Hypothetical protein	CAC48489.1	NA
+90	NA	SMb20090	Hypothetical protein	CAC48490.1	NA
+91	NA	SMb20091	Conserved hypothetical protein	CAC48491.1	NA
+92	NA	SMb20092	Conserved hypothetical protein	CAC48492.1	NA
+93	NA	SMb20093	Hypothetical protein	CAC48493.1	NA
+94	NA	SMb20094	Phospholipase D	CAC48494.1	3.1.4.4
+95	NA	SMb20095	Acetolactate synthase	CAC48495.1	2.2.1.6
+96	NA	SMb20096	Conserved hypothetical protein	CAC48496.1	NA
+97	NA	SMb20097	Hypothetical oxidoreductase protein	CAC48497.1	NA
+98	NA	SMb20098	Conserved hypothetical protein	CAC48498.1	NA
+99	NA	SMb20099	Maltose alpha-D-glucosyltransferase	CAC48499.1	5.4.99.16
+100	NA	SMb20100	Putative dehydrogenase	CAC48500.1	NA
+101	NA	SMb20101	Probable oxidoreductase	CAC48501.1	1.2.1.19
+102	acoR	SMb20102	Putative acetoin catabolism regulatory protein	CAC48502.1	NA
+103	NA	SMb20103	Probable FAD-dependent oxidoreductase	CAC48503.1	1.14.13.8
+104	NA	SMb20104	Hypothetical membrane protein	CAC48504.1	NA
+105	NA	SMb20105	Putative transcriptional regulator	CAC48505.1	NA
+106	NA	SMb20106	Putative transcriptional regulator	CAC48506.1	NA
+107	NA	SMb20107	Conserved hypothetical protein	CAC48507.1	4.2.1.52
+108	NA	SMb20108	Putative ABC transporter periplasmic 	CAC48508.1	NA
+109	NA	SMb20109	Putative oligopeptide ABC transporter permease	CAC48509.1	NA
+110	NA	SMb20110	Putative oligopeptide ABC transporter permease	CAC48510.1	NA
+111	NA	SMb20111	Putative oligopeptide ABC transporter 	CAC48511.1	NA
+112	NA	SMb20112	Hypothetical protein	CAC48512.1	NA
+113	NA	SMb20113	(R)-2-hydroxyacid dehydrogenase 	CAC48513.1	1.1.1.272
+114	NA	SMb20114	Hypothetical protein	CAC48514.1	NA
+115	ilvD4	SMb20115	Putative dihydroxy-acid dehydratase	CAC48515.1	4.2.1.9
+116	NA	SMb20116	Conserved hypothetical protein	CAC48516.1	NA
+117	NA	SMb20117	Hypothetical sugar transferase protein	CAC48517.1	NA
+118	NA	SMb20118	Conserved hypothetical protein	CAC48518.1	NA
+119	NA	SMb20119	Putative site-specific recombinase	CAC48519.1	NA
+120	NA	SMb22004	Probable plasmid stabilization system	CAQ51277.1	NA
+121	NA	SMb20121	Hypothetical protein	CAC48521.1	NA
+122	NA	SMb20122	Hypothetical protein	CAC48522.1	NA
+123	NA	SMb20123	Putative transcriptional regulator	CAC48523.1	NA
+124	NA	SMb20124	ABC transporter, ATP-binding protein	CAC48524.1	NA
+125	NA	SMb20125	ABC transporter, permease	CAC48525.1	NA
+126	NA	SMb20126	ABC transporter, permease	CAC48526.1	NA
+127	NA	SMb20127	ABC transporter, periplasmic solute-binding 	CAC48527.1	NA
+128	NA	SMb20128	Deaminase	CAC48528.1	NA
+129	NA	SMb20129	Putative transcriptional regulator	CAC48529.1	NA
+130	NA	SMb20130	Probable oxidoreductase	CAC48530.1	1.17.1.4
+131	NA	SMb20131	Probable oxidoreductase	CAC48531.1	1.2.99.2
+132	NA	SMb20132	Probable dehydrogenase	CAC48532.1	1.17.1.4
+133	NA	SMb20133	Conserved hypothetical protein	CAC48533.1	NA
+134	NA	SMb20134	Putative permease	CAC48534.1	NA
+135	NA	SMb20135	Putative 3-octaprenyl-4-hydroxybenzoate 	CAC48535.1	4.1.1.-
+136	NA	SMb20136	Conserved hypothetical protein	CAC48536.1	NA
+137	NA	SMb20137	Conserved hypothetical protein	CAC48537.1	NA
+138	NA	SMb20138	Conserved hypothetical protein	CAC48538.1	NA
+139	NA	SMb20139	Hypothetical protein	CAC48539.1	NA
+140	dapA2	SMb20140	Putative dihydrodipicolinate synthase	CAC48540.1	4.2.1.52
+141	NA	SMb20141	ABC transporter, ATP-binding protein	CAC48541.1	NA
+142	NA	SMb20142	ABC transporter, permease	CAC48542.1	NA
+143	NA	SMb20143	ABC transporter, permease	CAC48543.1	NA
+144	NA	SMb20144	ABC transporter, periplasmic solute-binding 	CAC48544.1	NA
+145	NA	SMb20145	Hypothetical protein	CAC48545.1	NA
+146	pdxA2	SMb20146	4-hydroxythreonine-4-phosphate dehydrogenase 2 , 	CAC48546.1	1.1.1.262
+147	NA	SMb20147	Alcohol dehydrogenase	CAC48547.1	1.1.1.1
+148	NA	SMb20148	Probable transcriptional regulator	CAC48548.1	NA
+149	NA	SMb20149	Hypothetical protein	CAC48549.1	NA
+150	NA	SMb20150	Inositol-phosphate phosphatase	CAC48550.1	3.1.3.25
+151	NA	SMb20151	Conserved hypothetical protein	CAC48551.1	NA
+152	NA	SMb20152	Hypothetical protein	CAC48552.1	NA
+153	NA	SMb20153	Hypothetical protein transmembrane	CAC48553.1	NA
+154	NA	SMb20154	Probable transcriptional regulator	CAC48554.1	NA
+155	NA	SMb20155	Putative ABC transporter permease	CAC48555.1	NA
+156	NA	SMb20156	Putative ABC transporter ATP-binding protein	CAC48556.1	NA
+157	NA	SMb20157	Hypothetical ABC transporter periplasmic 	CAC48557.1	NA
+158	NA	SMb20158	Hypothetical ABC transporter periplasmic 	CAC48558.1	NA
+159	NA	SMb20159	Inositol-phosphate phosphatase	CAC48559.1	3.1.3.25
+160	NA	SMb20160	Conserved hypothetical protein	CAC48560.1	NA
+161	NA	SMb22005	Conserved hypothetical protein	CAQ51278.1	NA
+162	NA	SMb20161	Hypothetical protein	CAC48561.1	NA
+163	NA	SMb20162	Probable transcriptional regulator	CAC48562.1	NA
+164	NA	SMb20163	Conserved hypothetical protein	CAC48563.1	NA
+165	NA	SMb20164	Probable two-component response regulator 	CAC48564.1	2.7.3.-
+166	NA	SMb20165	Hypothetical protein	CAC48565.1	NA
+167	NA	SMb20166	Conserved hypothetical protein	CAC48566.1	NA
+168	NA	SMb20167	Hypothetical protein	CAC48567.1	NA
+169	NA	SMb20168	Conserved hypothetical protein	CAC48568.1	NA
+170	NA	SMb20169	Hypothetical protein	CAC48569.1	NA
+171	fdh	SMb20170	Probable glutathione-dependent formaldehyde 	CAC48570.1	NA
+172	NA	SMb20171	Carboxylesterase	CAC48571.2	3.1.1.1
+173	NA	SMb20172	Putative cytochrome c	CAC48572.1	NA
+174	NA	SMb20173	Putative methanol dehydrogenase protein, large 	CAC48573.1	1.1.99.8
+175	NA	SMb20174	Putative cytochrome c	CAC48574.1	NA
+176	NA	SMb20175	Hypothetical protein	CAC48575.2	NA
+177	NA	SMb20176	Hypothetical protein	CAC48576.1	NA
+178	NA	SMb20177	Hypothetical protein	CAC48577.1	NA
+179	NA	SMb20178	Hypothetical protein	CAC48578.1	NA
+180	NA	SMb20179	Conserved hypothetical protein	CAC48579.1	NA
+181	NA	SMb20180	Hypothetical protein	CAC48580.1	NA
+182	NA	SMb20181	Putative ABC transporter periplasmic 	CAC48581.1	NA
+183	NA	SMb20182	Putative ABC transporter	CAC48582.1	NA
+184	NA	SMb20183	Putative ABC transporter ATP-binding protein	CAC48583.1	NA
+185	NA	SMb20184	Putative ABC transporter ATP-binding protein	CAC48584.1	NA
+186	NA	SMb20185	Probable ABC transporter	CAC48585.1	NA
+187	NA	SMb20186	Conserved hypothetical protein	CAC48586.1	NA
+188	NA	SMb20194	Conserved hypothetical protein	CAC48587.2	NA
+189	ppe	SMb20195	Ribulose-phosphate 3-epimerase	CAC48588.1	5.1.3.1
+190	cbbX	SMb20196	ATPase of the AAA+ class	CAC48589.1	NA
+191	cbbS	SMb20197	Putative ribulose-1,5-bisphosphate carboxylase 	CAC48590.1	4.1.1.39
+192	cbbL	SMb20198	Putative ribulose-1,5-bisphosphate carboxylase 	CAC48591.1	4.1.1.39
+193	cbbA	SMb20199	Putative fructose-1,6-bisphosphate aldolase	CAC48592.1	4.1.2.13
+194	cbbT	SMb20200	Putative transketolase	CAC48593.1	2.2.1.1
+195	cbbP	SMb20201	Putative phosphoribulokinase	CAC48594.1	2.7.1.19
+196	cbbF	SMb20202	Putative D-fructose-1,6-bisphosphatase	CAC48595.1	3.1.3.11
+197	cbbR	SMb20203	Probable transcriptional regulator	CAC48596.1	NA
+198	pqqA	SMb20204	Putative pyrroloquinoline quinone synthesis 	CAC48597.1	NA
+199	pqqB	SMb20205	Probable pyrroloquinoline quinone synthesis 	CAC48598.1	NA
+200	pqqC	SMb20206	Probable pyrroloquinoline quinone synthesis 	CAC48599.1	NA
+201	pqqD	SMb20207	Putative pyrroloquinoline quinone synthesis 	CAC48600.1	NA
+202	pqqE	SMb20208	Probable pyrroloquinoline quinone synthesis 	CAC48601.1	NA
+203	NA	SMb20209	Probable tautomerase	CAC48602.1	NA
+204	NA	SMb20210	Probable oxidoreductase	CAC48603.1	1.1.1.100
+205	NA	SMb20211	Putative transcriptional regulator	CAC48604.1	NA
+206	NA	SMb20212	Hypothetical protein	CAC48605.1	NA
+207	NA	SMb20213	Conserved hypothetical protein	CAC48606.1	NA
+208	NA	SMb20214	Probable oxidoreductase	CAC48607.1	1.1.1.100
+209	NA	SMb20215	Putative transcriptional regulator	CAC48608.1	NA
+210	NA	SMb20216	Epoxide hydrolase	CAC48609.1	NA
+211	NA	SMb20217	Hypothetical protein	CAC48610.1	NA
+212	NA	SMb20218	Putative sensor histidine kinase	CAC48611.1	NA
+213	NA	SMb20219	Putative response regulator	CAC48612.1	NA
+214	NA	SMb22002	Epoxide hydrolase	CAQ51279.1	NA
+215	NA	SMb20221	Epoxide hydrolase	CAC48613.1	NA
+216	NA	SMb20222	Hypothetical protein	CAC48614.2	NA
+217	NA	SMb22001	Conserved hypothetical protein	CAQ51280.1	NA
+218	smC22-1	SMb20225	probable osmotically inducible sensory protein	CAC48616.1	NA
+219	NA	SMb20226	Hypothetical protein	CAC48617.1	NA
+220	ndiA-1	SMb20227	Putative nutrient deprivation-induced protein	CAC48618.1	NA
+221	ndiA-2	SMb20228	Putative nutrient deprivation-induced protein	CAC48619.1	NA
+222	ndiB	SMb20229	Putative nutrient deprivation-induced protein	CAC48620.1	NA
+223	smC22-r	SMb20230	probable smc22-r protein	CAC48621.1	NA
+224	NA	SMb20231	Putative ABC transporter sugar-binding protein	CAC48622.1	NA
+225	NA	SMb20232	Putative suagr ABC transporter permease	CAC48623.1	NA
+226	NA	SMb20233	Putative sugar ABC transporter permease	CAC48624.1	NA
+227	NA	SMb20234	Hypothetical protein	CAC48625.1	NA
+228	NA	SMb20235	Putative sugar ABC transporter ATP-binding 	CAC48626.1	NA
+229	NA	SMb20236	Hypothetical protein	CAC48627.1	NA
+230	NA	SMb20238	3-demethylubiquinone-9 3-O-methyltransferase	CAC48628.1	2.1.1.64
+231	rmlB	SMb20239	Putative dTDP-glucose 4,6-dehydratase	CAC48629.1	4.2.1.46
+232	NA	SMb20240	Conserved hypothetical protein	CAC48630.1	NA
+233	NA	SMb20241	Conserved hypothetical protein	CAC48631.1	NA
+234	NA	SMb20242	Conserved hypothetical protein	CAC48632.1	NA
+235	NA	SMb20243	Putative glycosyltransferase	CAC48633.1	NA
+236	tyv	SMb20244	Putative CDP-tyvelose-2-epimerase	CAC48634.1	5.1.3.-
+237	NA	SMb20245	UDP-glucose 4-epimerase	CAC48635.1	5.1.3.2
+238	NA	SMb20246	Putative oxidoreductase	CAC48636.1	1.1.1.1
+239	NA	SMb20247	Probable oxidoreductase	CAC48637.1	1.-.-.-
+240	NA	SMb20248	Hypothetical protein	CAC48638.1	NA
+241	NA	SMb20249	Putative myo-inositol-1-phosphate synthase	CAC48639.1	5.5.1.4
+242	NA	SMb20250	Conserved hypothetical protein	CAC48640.1	NA
+243	NA	SMb20251	Hypothetical protein	CAC48641.1	NA
+244	NA	SMb20252	Putative oxidoreductase	CAC48642.1	1.12.98.1
+245	NA	SMb20253	Hypothetical protein	CAC48643.1	NA
+246	NA	SMb20254	Hypothetical protein	CAC48644.1	NA
+247	NA	SMb20255	Hypothetical protein	CAC48645.1	NA
+248	NA	SMb20256	Hypothetical protein	CAC48646.1	NA
+249	cyaM	SMb20257	Adenylate cyclase	CAC48647.1	4.6.1.1
+250	NA	SMb20258	Putative transcriptional regulator	CAC48648.1	NA
+251	NA	SMb20259	Dihydrodipicolinate synthase	CAC48649.1	4.2.1.52
+252	NA	SMb20260	Hypothetical protein	CAC48650.1	NA
+253	NA	SMb20261	Malate dehydrogenase	CAC48651.1	1.1.1.37
+254	NA	SMb20262	Aldehyde dehydrogenase (NADP+)	CAC48652.1	1.2.1.4
+255	NA	SMb20263	Putative ABC transporter periplasmic amino 	CAC48653.1	NA
+256	NA	SMb20264	Putative amino acid ABC transporter permease	CAC48654.1	NA
+257	NA	SMb20265	Putative amino acid ABC transporter permease	CAC48655.1	NA
+258	NA	SMb20266	Putative amino acid ABC transporter ATP-binding 	CAC48656.1	NA
+259	NA	SMb20267	Putative D-amino acid dehydrogenase	CAC48657.1	1.4.99.1
+260	NA	SMb20268	Putative proline racemase	CAC48658.1	NA
+261	NA	SMb20269	Conserved hypothetical protein	CAC48659.1	NA
+262	NA	SMb20270	Probable proline racemase	CAC48660.1	5.1.1.4
+263	NA	SMb20271	Hypothetical protein	CAC48661.1	NA
+264	NA	SMb20272	Putative transporter	CAC48662.1	NA
+265	NA	SMb20273	Hypothetical protein	CAC48663.1	NA
+266	NA	SMb20274	Hypothetical protein	CAC48664.1	NA
+267	NA	SMb20275	Conserved hypothetical protein	CAC48665.1	NA
+268	NA	SMb20276	Putative transcriptional regulator	CAC48666.1	NA
+269	NA	SMb20277	Glutamate-1-semialdehyde 2,1-aminomutase	CAC48667.1	5.4.3.8
+270	NA	SMb20278	Hypothetical protein	CAC48668.1	NA
+271	NA	SMb20279	Hypothetical protein	CAC48669.1	NA
+272	NA	SMb20280	Putative oxidoreductase	CAC48670.1	1.1.1.-
+273	NA	SMb20281	Probable spermidineputrescine ABC transporter 	CAC48671.1	NA
+274	NA	SMb20282	Probable spermidineputrescine ABC transporter 	CAC48672.1	NA
+275	NA	SMb20283	Probable spermidineputrescine ABC transporter 	CAC48673.1	NA
+276	NA	SMb20284	Putative ABC transporter periplasmic 	CAC48674.1	NA
+277	NA	SMb20285	Probable transcriptional regulator	CAC48675.1	NA
+278	NA	SMb20286	Opine dehydrogenase	CAC48676.1	1.5.1.28
+279	NA	SMb20287	Conserved hypothetical protein	CAC48677.1	NA
+280	NA	SMb20288	Putative hydrolase	CAC48678.1	3.8.1.8
+281	NA	SMb20289	Putative permease	CAC48679.1	NA
+282	NA	SMb20290	Putative transcriptional regulator	CAC48680.1	NA
+283	NA	SMb20291	Hypothetical protein transmembrane	CAC48681.1	NA
+284	NA	SMb20292	Hypothetical immunogenic protein	CAC48682.1	NA
+285	NA	SMb20293	Hypothetical protein	CAC48683.1	NA
+286	NA	SMb20294	Putative transcriptional regulator	CAC48684.1	NA
+287	NA	SMb20295	Putative ABC transporter	CAC48685.1	NA
+288	NA	SMb20296	Putative TRAP dicarboxylate transporter	CAC48686.1	NA
+289	NA	SMb20297	Putative TRAP dicarboxylate transporter	CAC48687.1	NA
+290	NA	SMb20298	Hypothetical protein	CAC48688.1	4.2.1.52
+291	nanA	SMb20299	N-acetylneuraminate lyase	CAC48689.1	4.1.3.3
+292	cyaF7	SMb20300	Putative adenylate cyclase	CAC48690.1	4.6.1.1
+293	NA	SMb20301	Putative oxidoreductase	CAC48691.1	NA
+294	NA	SMb20302	Conserved hypothetical protein	CAC48692.1	NA
+295	NA	SMb21616	Hypothetical protein	CAC48693.1	NA
+296	TRm2011-2C	SMb20304	Probable ISRm2011-2 transposase protein, 	CAC48694.2	NA
+297	TRm2011-2	SMb20306	Putative TRm2011-2 protein	CAC48695.1	NA
+298	TRm2011-2N	SMb20305	Probable ISRm2011-2 transposase protein, 	CAC48696.1	NA
+299	NA	SMb20307	Putative dihydroxyacetone kinase	CAC48697.1	NA
+300	NA	SMb20312	Probable dihydroxyacetone kinase	CAC48698.1	2.7.1.29
+301	NA	SMb20313	Glycerone kinase	CAC48699.2	2.7.1.29
+302	NA	SMb20314	Glycerone kinase	CAC48700.1	2.7.1.29
+303	NA	SMb20315	ABC transporter, permease	CAC48701.2	NA
+304	NA	SMb20316	ABC transporter, periplasmic solute-binding 	CAC48702.1	NA
+305	NA	SMb20317	ABC sugar transporter, ATP-binding protein	CAC48703.1	NA
+306	NA	SMb20318	ABC transporter, permease	CAC48704.1	NA
+307	NA	SMb20319	Conserved hypothetical protein	CAC48705.1	NA
+308	NA	SMb20320	Trap-type periplasmic solute-binding protein, 	CAC48706.1	NA
+309	NA	SMb20321	Trap-type large permease component, may be 	CAC48707.1	NA
+310	NA	SMb20322	Trap-type small permease component	CAC48708.1	NA
+311	NA	SMb20323	Putative transcriptional regulator	CAC48709.1	NA
+312	thuR	SMb20324	Transcriptional repressor, likely regulates 	CAC48710.1	NA
+313	thuE	SMb20325	ABC transporter, periplasmic solute-binding 	CAC48711.1	NA
+314	thuF	SMb20326	ABC transporter, permease component	CAC48712.1	NA
+315	thuG	SMb20327	ABC transporter, permease component	CAC48713.1	NA
+316	thuK	SMb20328	ABC transporter, ATP-binding protein	CAC48714.1	NA
+317	thuA	SMb20329	ThuA trehalose catabolism protein	CAC48715.1	NA
+318	thuB	SMb20330	Putative oxidoreductase, trehalose catabolism 	CAC48716.1	1.1.1.18
+319	NA	SMb20331	Hypothetical membrane spanning protein	CAC48717.1	NA
+320	NA	SMb20332	Putative arylsulfatase	CAC48718.1	3.1.6.1
+321	betT	SMb20333	Choline-glycine betaine transporter induced by 	CAC48719.2	NA
+322	NA	SMb20334	Hypothetical protein	CAC48720.1	NA
+323	NA	SMb20335	Conserved hypothetical protein	CAC48721.2	NA
+324	NA	SMb20336	Conserved hypothetical protein	CAC48722.1	NA
+325	NA	SMb20337	Putative transcriptional regulator	CAC48723.1	NA
+326	NA	SMb20338	Putative transporter	CAC48724.1	NA
+327	NA	SMb20339	Hypothetical transmembrane protein	CAC48725.1	NA
+328	NA	SMb20340	Hypothetical protein	CAC48726.1	NA
+329	NA	SMb20341	Hypothetical protein	CAC48727.1	NA
+330	NA	SMb20342	Putative isoquinoline 1-oxidoreductase	CAC48728.1	1.3.99.16
+331	NA	SMb20343	Putative isoquinoline 1-oxidoreductase	CAC48729.1	1.3.99.16
+332	NA	SMb20344	Putative transcriptional regulator	CAC48730.1	NA
+333	NA	SMb20345	Probable acriflavine family protein	CAC48731.1	NA
+334	NA	SMb20346	Putative efflux transmembrane protein	CAC48732.1	NA
+335	NA	SMb20347	Putative transcriptional regulator	CAC48733.1	NA
+336	NA	SMb20348	Hypothetical protein	CAC48734.1	NA
+337	NA	SMb20349	ABC transporter, periplasmic solute-binding 	CAC48735.1	NA
+338	NA	SMb20350	Hypothetical protein	CAC48736.1	NA
+339	NA	SMb20351	ABC transporter, ATP-binding protein	CAC48737.1	NA
+340	NA	SMb20352	ABC transporter, permease	CAC48738.1	NA
+341	NA	SMb20353	Putative oxidoreductase	CAC48739.1	NA
+342	NA	SMb20354	Hypothetical protein	CAC48740.1	NA
+343	NA	SMb20355	Conserved hypothetical protein	CAC48741.1	NA
+344	NA	SMb20356	Putative two-component sensor histidine kinase	CAC48742.1	2.7.3.-
+345	NA	SMb20357	Putative two-component response regulator	CAC48743.1	2.7.3.-
+346	cyaL	SMb20358	Guanylate cyclase	CAC48744.1	4.6.1.2
+347	NA	SMb20359	Hypothetical protein	CAC48745.1	NA
+348	NA	SMb20360	Hypothetical protein	CAC48746.1	NA
+349	NA	SMb20361	Putative ionic voltage-gated channel protein	CAC48747.1	NA
+350	NA	SMb20362	Inositol-phosphate phosphatase	CAC48748.1	3.1.3.25
+351	NA	SMb20363	Putative iron ABC transporter ATP-binding 	CAC48749.1	NA
+352	NA	SMb20364	Putative iron ABC transporter permease	CAC48750.2	NA
+353	NA	SMb20365	Putative ABC transporter iron-binding protein	CAC48751.1	NA
+354	NA	SMb20366	Putative transcriptional regulator	CAC48752.1	NA
+355	NA	SMb20367	Putative transcriptional regulator	CAC48753.1	NA
+356	NA	SMb20368	Putative efflux transporter	CAC48754.1	NA
+357	NA	SMb20369	Putative ABC transporter	CAC48755.1	NA
+358	NA	SMb20370	Putative ATP-binding transport protein	CAC48756.1	NA
+359	NA	SMb20371	Putative ribose-5-phosphate isomerase	CAC48757.1	5.3.1.6
+360	NA	SMb20372	Putative protein	CAC48758.1	NA
+361	NA	SMb20373	Putative TRAP dicarboxylate transporter	CAC48759.1	NA
+362	NA	SMb20374	Putative periplasmic substrate-binding protein	CAC48760.1	NA
+363	NA	SMb20375	Putative transcriptional regulator	CAC48761.1	NA
+364	NA	SMb20376	Hypothetical protein	CAC48762.1	NA
+365	NA	SMb20377	Putative translation initiation inhibitor	CAC48763.1	NA
+366	NA	SMb20378	Succinate-semialdehyde dehydrogenase [NAD(P)+]	CAC48764.1	1.2.1.16
+367	NA	SMb20379	Adenosylmethionine-8-amino-7-oxononanoate 	CAC48765.1	2.6.1.62
+368	NA	SMb20380	Polyamine-transporting ATPase	CAC48766.1	3.6.3.31
+369	NA	SMb20381	Putative ABC transporter permease	CAC48767.1	NA
+370	NA	SMb20382	Putative ABC transporter permease	CAC48768.1	NA
+371	NA	SMb20383	Putative ABC transporter	CAC48769.1	NA
+372	NA	SMb20384	Membrane dipeptidase	CAC48770.1	3.4.13.19
+373	NA	SMb20385	Hypothetical protein	CAC48771.1	NA
+374	NA	SMb20386	Hypothetical protein	CAC48772.1	NA
+375	NA	SMb20387	Putative transcriptional regulator	CAC48773.1	NA
+376	NA	SMb20388	Putative NADPH:quinone oxidoreductase	CAC48774.1	1.6.5.5
+377	NA	SMb20389	Diguanylate cyclase	CAC48775.1	NA
+378	NA	SMb20390	Hypothetical protein	CAC48776.1	NA
+379	NA	SMb20391	Cellulose synthase (UDP-forming)	CAC48777.1	2.4.1.12
+380	NA	SMb20392	Putative transcriptional regulator	CAC48778.1	NA
+381	rbcL	SMb20393	Putative ribulose bisphosphate 	CAC48779.1	4.1.1.39
+382	NA	SMb20394	Conserved hypothetical protein	CAC48780.1	NA
+383	NA	SMb20395	Putative dehydrogenase	CAC48781.1	1.17.1.4
+384	NA	SMb20396	Probable oxidoreductase	CAC48782.1	1.17.1.4
+385	NA	SMb20397	Probable oxidoreductase	CAC48783.1	NA
+386	NA	SMb20398	Conserved hypothetical protein	CAC48784.1	NA
+387	NA	SMb20399	Hypothetical protein	CAC48785.1	NA
+388	NA	SMb20400	Hypothetical protein	CAC48786.1	NA
+389	NA	SMb20401	Hypothetical protein	CAC48787.1	NA
+390	NA	SMb20402	Putative alcohol dehydrogenase cytochrome c 	CAC48788.1	NA
+391	NA	SMb20403	Putative oxidoreductase subunit	CAC48789.1	NA
+392	NA	SMb20404	Putative aldehyde dehydrogenase	CAC48790.1	NA
+393	NA	SMb20405	Putative transcriptional regulator	CAC48791.1	NA
+394	hyuA	SMb20406	5-oxoprolinase (ATP-hydrolysing)	CAC48792.1	3.5.2.9
+395	hyuB	SMb20407	5-oxoprolinase (ATP-hydrolysing)	CAC48793.1	3.5.2.9
+396	NA	SMb20408	Conserved hypothetical protein	CAC48794.1	NA
+397	NA	SMb20409	3-oxoacyl-[acyl-carrier-protein] reductase	CAC48795.1	1.1.1.100
+398	NA	SMb20410	ABC transporter, periplasmic solute-binding 	CAC48796.1	NA
+399	NA	SMb20411	Conserved hypothetical protein	CAC48797.1	NA
+400	NA	SMb20412	Conserved hypothetical protein	CAC48798.1	NA
+401	NA	SMb20413	Hypothetical protein	CAC48799.1	NA
+402	NA	SMb20414	Hypothetical protein	CAC48800.1	NA
+403	NA	SMb20415	Putative oxidoreductase	CAC48801.1	NA
+404	ugpB	SMb20416	Probable ABC transporter periplasmic 	CAC48802.1	NA
+405	ugpA	SMb20417	Probable glycerol-3-phosphate ABC transporter 	CAC48803.1	NA
+406	ugpE	SMb20418	Probable glycerol-3-phosphate ABC transporter 	CAC48804.1	NA
+407	ugpC	SMb20419	Glycerol-3-phosphate-transporting ATPase	CAC48805.1	3.6.3.20
+408	NA	SMb20420	Glutathione transferase	CAC48806.1	2.5.1.18
+409	TRm21	SMb20421	Putative Transposase for insertion sequence 	CAC48807.1	NA
+410	NA	SMb20422	Putative alcohol dehydrogenase	CAC48808.1	1.1.1.1
+411	NA	SMb20423	Adenosylmethionine-8-amino-7-oxononanoate 	CAC48809.1	2.6.1.62
+412	NA	SMb20424	Succinate-semialdehyde dehydrogenase [NAD(P)+]	CAC48810.1	1.2.1.16
+413	NA	SMb20425	Putative transcriptional regulator	CAC48811.1	NA
+414	NA	SMb20426	Aspartate transaminase	CAC48812.1	2.6.1.1
+415	ehuA	SMb20427	ABC-type ectoine/hydroxyectoine transport 	CAC48813.1	NA
+416	ehuB	SMb20428	Periplasmic ectoine/hydroxyectoine binding 	CAC48814.1	NA
+417	ehuC	SMb20429	ABC-type ectoine/hydroxyectoine transport 	CAC48815.1	NA
+418	ehuD	SMb20430	ABC-type ectoine/hydroxyectoine transport 	CAC48816.1	NA
+419	eutA	SMb20431	Putative arylmalonate decarboxylase or maleate 	CAC48817.1	4.1.1.76
+420	eutB	SMb20432	Putative threonine dehydratase, involved in 	CAC48818.1	4.3.1.19
+421	eutC	SMb20433	Probable ornithine cyclodeaminase, involved in 	CAC48819.1	4.3.1.12
+422	eutD	SMb20434	Probable Xaa-Pro dipeptidase, involved in 	CAC48820.1	3.4.13.9
+423	eutE	SMb20435	Probable succinylglutamate 	CAC48821.1	NA
+424	NA	SMb20436	Probable nitrate transporter	CAC48822.1	NA
+425	NA	SMb20441	Transcriptional regulator, GntR family, possible 	CAC48823.1	NA
+426	NA	SMb20442	Trap-type periplasmic solute-binding protein	CAC48824.1	NA
+427	NA	SMb20443	Trap-type small permease component	CAC48825.1	NA
+428	NA	SMb20444	Trap-type large permease component	CAC48826.1	NA
+429	NA	SMb20445	Zinc-binding deydrogenase	CAC48827.1	1.1.1.-
+430	uxuA	SMb20446	D-mannonate dehydratase	CAC48828.1	4.2.1.8
+431	NA	SMb20447	Diguanylate cyclase/phosphodiesterase	CAC48829.1	NA
+432	NA	SMb20448	Hypothetical protein	CAC48830.1	NA
+433	NA	SMb20449	Probable methyltransferase	CAC48831.1	2.1.1.-
+434	NA	SMb20450	Putative regulatory protein	CAC48832.1	NA
+435	NA	SMb20451	Conserved hypothetical protein	CAC48833.1	NA
+436	NA	SMb20452	Conserved hypothetical protein	CAC48834.1	NA
+437	NA	SMb20453	Putative gluconolactonase precursor protein	CAC48835.1	3.1.1.17
+438	NA	SMb20454	Conserved hypothetical protein	CAC48836.1	NA
+439	NA	SMb20455	Putative transcriptional regulator	CAC48837.1	NA
+440	NA	SMb20456	3-oxoacyl-[acyl-carrier-protein] reductase	CAC48838.1	1.1.1.100
+441	NA	SMb20457	Putative transcriptional regulator transcription 	CAC48839.1	NA
+442	NA	SMb20458	Putative dTDP-glucose 4,6-dehydratase	CAC48840.1	4.2.1.46
+443	NA	SMb20459	Putative UDP-glucose 4-epimerase	CAC48841.1	5.1.3.2
+444	NA	SMb20460	Cellulose synthase (UDP-forming)	CAC48842.1	2.4.1.12
+445	NA	SMb20461	Conserved hypothetical protein	CAC48843.1	NA
+446	NA	SMb20462	Probable endoglucanase H	CAC48844.1	3.2.1.4
+447	NA	SMb20463	Conserved hypothetical protein	CAC48845.1	NA
+448	NA	SMb20464	Hypothetical protein	CAC48846.1	NA
+449	NA	SMb20465	Probable glucokinase	CAC48847.1	NA
+450	NA	SMb20466	Probable cellulase	CAC48848.1	3.2.1.-
+451	NA	SMb20467	Putative sensor kinase	CAC48849.1	NA
+452	NA	SMb20468	Putative sensory transduction DNA-binding 	CAC48850.1	NA
+453	NA	SMb20469	Hypothetical protein	CAC48851.2	NA
+454	NA	SMb20470	Hypothetical protein	CAC48852.1	NA
+455	NA	SMb20471	Hypothetical protein	CAC48853.1	NA
+456	NA	SMb20472	Probable carbamoyltransferase	CAC48854.1	2.-.-.-
+457	NA	SMb20473	Hypothetical protein	CAC48855.1	NA
+458	NA	SMb20474	Hypothetical protein	CAC48856.1	NA
+459	NA	SMb20475	Conserved hypothetical protein	CAC48857.1	NA
+460	NA	SMb20476	Putative ABC transporter periplasmic 	CAC48858.1	NA
+461	NA	SMb20477	Putative didpeptide ABC transporter permease	CAC48859.1	NA
+462	NA	SMb20478	Putative dipeptide ABC transporter permease and 	CAC48860.1	NA
+463	NA	SMb20479	Putative dipeptide ABC transporter ATP-binding 	CAC48861.1	NA
+464	NA	SMb20480	Putative transcriptional regulator	CAC48862.1	NA
+465	asnO	SMb20481	Asparagine synthase	CAC48863.1	6.3.5.4
+466	NA	SMb20482	Probable D-alanine-D-alanine-ligase	CAC48864.1	6.-.-.-
+467	NA	SMb20483	Probable transcriptional regulator	CAC48865.1	NA
+468	NA	SMb20484	Putative ABC transporter periplasmic 	CAC48866.1	NA
+469	NA	SMb20485	Putative sugar ABC transporter ATP-binding 	CAC48867.1	NA
+470	NA	SMb20486	Probable sugar ABC transporter	CAC48868.1	NA
+471	NA	SMb20487	Probable sugar ABC transporter	CAC48869.1	NA
+472	NA	SMb20488	Probable D-tagatose 3-epimerase	CAC48870.1	5.3.1.-
+473	NA	SMb20489	Probable carbohydrate kinase	CAC48871.1	2.7.1.51
+474	fucA2	SMb20490	L-fuculose-phosphate aldolase	CAC48872.1	4.1.2.17
+475	NA	SMb22020	Conserved hypothetical protein	CAQ51281.1	NA
+476	NA	SMb20491	Conserved hypothetical protein	CAC48873.1	NA
+477	NA	SMb20492	3-oxoacyl-[acyl-carrier-protein] reductase	CAC48874.1	1.1.1.100
+478	NA	SMb20493	3-oxoacyl-[acyl-carrier-protein] reductase	CAC48875.1	1.1.1.100
+479	NA	SMb20494	Putative transcriptional regulator	CAC48876.1	NA
+480	NA	SMb20495	Conserved hypothetical protein	CAC48877.1	NA
+481	NA	SMb20496	Choline dehydrogenase	CAC48878.1	1.1.99.1
+482	lyx	SMb20497	Putative L-xylulose kinase	CAC48879.1	2.7.1.53
+483	NA	SMb20498	Fructose-bisphosphate aldolase	CAC48880.1	4.1.2.13
+484	NA	SMb20499	Putative glycerol-3-phosphate dehydrogenase	CAC48881.1	1.1.99.5
+485	NA	SMb20500	Putative aldoketo reductase	CAC48882.1	NA
+486	NA	SMb20501	Putative transcriptional regulator	CAC48883.2	NA
+487	NA	SMb20502	Probable sugar ABC transporter	CAC48884.1	NA
+488	NA	SMb20503	Putative sugar ABC transporter ATP-binding 	CAC48885.1	NA
+489	NA	SMb20504	Putative ABC transporter periplasmic 	CAC48886.1	NA
+490	tfxG	SMb20505	Putative trifolitoxin immunity protein	CAC48887.1	NA
+491	NA	SMb20506	Probable sugar ABC transporter	CAC48888.1	NA
+492	NA	SMb20507	Probable sugar ABC transporter, putative 	CAC48889.1	NA
+493	NA	SMb20508	Probable sugar ABC transporter, putative 	CAC48890.1	NA
+494	NA	SMb20509	Putative transcriptional regulator	CAC48891.1	NA
+495	dgoA	SMb20510	Probable galactonate dehydratase	CAC48892.1	4.2.1.6
+496	NA	SMb20511	Putative oxidoreductase	CAC48893.1	NA
+497	NA	SMb22021	Hypothetical protein predicted by 	CAQ51282.1	NA
+498	NA	SMb20513	Hypothetical protein	CAC48894.1	NA
+499	NA	SMb22022	Putative partial response regulator	CAQ51283.1	NA
+500	NA	SMb20514	Protein-glutamate methylesterase	CAC48895.1	3.1.1.61
+501	NA	SMb20515	Putative methyltransferase	CAC48896.1	2.1.1.80
+502	NA	SMb20516	Putative response regulator	CAC48897.1	NA
+503	NA	SMb20517	Hypothetical protein	CAC48898.1	NA
+504	NA	SMb20518	Hypothetical protein	CAC48899.1	3.2.1.14
+505	NA	SMb20519	Conserved hypothetical protein	CAC48900.1	NA
+506	NA	SMb20520	Hypothetical protein	CAC48901.1	NA
+507	NA	SMb20521	Probable multimeric flavodoxin WrbA	CAC48902.1	NA
+508	NA	SMb20522	Hypothetical protein	CAC48903.1	NA
+509	NA	SMb20523	Diguanylate cyclase signal peptide	CAC48904.1	NA
+510	NA	SMb20525	Putative transcriptional regulator	CAC48905.1	NA
+511	NA	SMb20527	Conserved hypothetical protein	CAC48906.1	NA
+512	NA	SMb20528	Hypothetical protein	CAC48907.1	NA
+513	NA	SMb20529	Conserved hypothetical protein	CAC48908.1	NA
+514	NA	SMb20530	Hypothetical protein	CAC48909.1	NA
+515	rpoE7	SMb20531	RNA polymerase sigma factor, ECF subfamily 	CAC48910.1	NA
+516	NA	SMb20532	Hypothetical protein	CAC48911.1	NA
+517	NA	SMb20533	Hypothetical protein	CAC48912.1	NA
+518	NA	SMb20534	Hypothetical protein	CAC48913.1	NA
+519	NA	SMb20535	Putative dehydrogenase	CAC48914.1	1.1.1.95
+520	NA	SMb20536	Hypothetical protein	CAC48915.1	NA
+521	NA	SMb20537	Probable transcriptional regulator	CAC48916.1	NA
+522	NA	SMb20538	Probable sugar ABC transporter	CAC48917.1	NA
+523	cyaF6	SMb20539	Probable adenylate cyclase	CAC48918.1	4.6.1.1
+524	NA	SMb20540	Hypothetical protein	CAC48919.1	NA
+525	NA	SMb22019	Putative partial transcriptional regulator	CAQ51284.1	NA
+526	NA	SMb20541	Putative transposase	CAC48920.1	NA
+527	NA	SMb20542	Putative protein in ISRm14	CAC48921.1	NA
+528	NA	SMb20544	Putative protein in ISRm14	CAC48922.1	NA
+529	NA	SMb20543	Putative transposase	CAC48923.1	NA
+530	NA	SMb20545	Hypothetical protein	CAC48924.1	NA
+531	NA	SMb20546	Conserved hypothetical protein	CAC48925.1	NA
+532	NA	SMb20547	Hypothetical protein	CAC48926.1	NA
+533	NA	SMb20548	Hypothetical protein	CAC48927.1	NA
+534	NA	SMb20549	Hypothetical protein	CAC48928.1	2.1.1.62
+535	NA	SMb20550	Conserved hypothetical protein	CAC48929.1	NA
+536	NA	SMb20551	Hypothetical protein	CAC48930.1	NA
+537	NA	SMb20552	Putative peptidase	CAC48931.1	3.1.2.-
+538	NA	SMb20553	Hypothetical protein	CAC48932.1	NA
+539	NA	SMb20554	Hypothetical protein	CAC48933.1	NA
+540	NA	SMb20555	Hypothetical protein	CAC48934.1	NA
+541	NA	SMb20556	Conserved hypothetical protein	CAC48935.2	NA
+542	NA	SMb22006	Hypothetical protein	CAQ51285.1	NA
+543	NA	SMb20557	Conserved hypothetical protein	CAC48936.1	NA
+544	NA	SMb20558	Hypothetical protein	CAC48937.2	NA
+545	NA	SMb20559	Hypothetical protein	CAC48938.2	NA
+546	NA	SMb20560	Conserved hypothetical protein	CAC48939.1	NA
+547	NA	SMb20561	Hypothetical protein	CAC48940.1	NA
+548	NA	SMb20562	Hypothetical protein	CAC48941.1	NA
+549	NA	SMb20563	Hypothetical protein	CAC48942.1	NA
+550	kdsB2	SMb20803	Probable 3-deoxy-manno-octulosonate 	CAC48943.1	2.7.7.38
+551	NA	SMb20804	Putative membrane-anchored protein	CAC48944.1	NA
+552	NA	SMb20805	Putative glycosyltransferase	CAC48945.1	NA
+553	NA	SMb20806	Hypothetical protein	CAC48946.1	NA
+554	NA	SMb20807	Putative membrane protein	CAC48947.1	NA
+555	NA	SMb20808	Putative membrane-anchored protein	CAC48948.1	NA
+556	kpsF1	SMb20809	Arabinose-5-phosphate isomerase	CAC48949.1	5.3.1.13
+557	NA	SMb20810	Putative O-acetyl transferase	CAC48950.1	2.3.1.-
+558	NA	SMb20811	Putative protein	CAC48951.1	NA
+559	NA	SMb20812	Conserved hypothetical protein, possibly 	CAC48952.1	NA
+560	NA	SMb20813	ABC transporter, ATP-binding and permease 	CAC48953.2	NA
+561	NA	SMb20814	Hypothetical protein	CAC48954.1	NA
+562	NA	SMb20815	Putative protein, similar to protein involved in 	CAC48955.1	NA
+563	NA	SMb20816	Hypothetical protein	CAC48956.1	NA
+564	NA	SMb20817	Putative transcriptional regulator, LacI family 	CAC48957.1	NA
+565	mocD	SMb20818	Hydrocarbon oxygenase, required for rhizopine 	CAC48958.2	NA
+566	mocE	SMb20819	Putative ferredoxin of the Rieseke type	CAC48959.1	1.-.-.-
+567	mocF	SMb20820	Putative ferredoxin reductase	CAC48960.1	1.18.1.3
+568	NA	SMb20821	Putative 3-methyl-2-oxobutanoate 	CAC48961.1	2.1.2.11
+569	rkpT2	SMb20822	Putative cell surface polysaccharide export 	CAC48962.1	NA
+570	rkpZ2	SMb20823	Lipopolysaccharide processing protein 	CAC48963.1	NA
+571	NA	SMb20824	Putative glycosyltransferase involved in capsule 	CAC48964.1	NA
+572	NA	SMb20825	Putative acetyltransferase, cysElacA/lpxA/nodL 	CAC48965.1	2.3.1.-
+573	NA	SMb20826	Hypothetical protein	CAC48966.1	NA
+574	NA	SMb20827	Putative transposase, probably encoded by an 	CAC48967.1	NA
+575	NA	SMb20828	Putative protein	CAC48968.1	NA
+576	NA	SMb21663	Putative secretion activating protein	CAC48969.1	NA
+577	NA	SMb21664	Hypothetical exported or membrane-anchored 	CAC48970.1	NA
+578	NA	SMb21665	Hypothetical protein	CAC48971.1	NA
+579	NA	SMb20829	Putative secreted calcium-binding protein	CAC48972.1	NA
+580	kpsF2	SMb20830	Arabinose-5-phosphate isomerase	CAC48973.1	5.3.1.13
+581	kpsE	SMb20831	Polysaccharide export inner-membrane protein	CAC48974.1	NA
+582	rkpS	SMb20832	Capsular-polysaccharide-transporting ATPase	CAC48975.1	3.6.3.38
+583	rkpT1	SMb20833	ABC-type polysaccharide export system, permease 	CAC48976.1	NA
+584	rkpZ1	SMb20834	Probable lipopolysaccharide processing protein	CAC48977.1	NA
+585	NA	SMb20835	Conserved hypothetical protein	CAC48978.1	NA
+586	NA	SMb20836	Hypothetical protein	CAC48979.1	NA
+587	NA	SMb20837	Hypothetical protein	CAC48980.1	NA
+588	NA	SMb20838	Calcium binding protein	CAC48981.1	NA
+589	NA	SMb20839	Hypothetical protein	CAC48982.1	NA
+590	NA	SMb20840	Conserved hypothetical protein	CAC48983.1	NA
+591	NA	SMb20841	Conserved hypothetical protein	CAC48984.2	NA
+592	NA	SMb22007	Acyl carrier protein	CAQ51286.1	NA
+593	NA	SMb20842	Hypothetical transmembrane protein	CAC48985.1	NA
+594	algI	SMb20843	Predicted membrane protein involved in D- 	CAC48986.1	2.3.1.-
+595	NA	SMb21013	Hypothetical protein	CAC48987.1	NA
+596	NA	SMb21014	Putative protein, similar to part of LpsZ, 	CAC48988.1	NA
+597	NA	SMb21015	Putative enzyme, similar to oxidoreductases 	CAC48989.1	NA
+598	NA	SMb21016	Putative sugar ABC transporter	CAC48990.1	NA
+599	NA	SMb21017	Putative sugar ABC transporter permease	CAC48991.1	NA
+600	NA	SMb21018	Putative sugar ABC transporter permease	CAC48992.1	NA
+601	NA	SMb21019	Putative sugar ABC transporter ATP-binding 	CAC48993.1	NA
+602	NA	SMb21021	Putative transcriptional regulator	CAC48994.1	NA
+603	NA	SMb21022	Probable sugar kinase, probably eggy family 	CAC48995.1	2.7.1.-
+604	NA	SMb21023	Hypothetical protein	CAC48996.1	NA
+605	NA	SMb21024	Hypothetical protein	CAC48997.1	NA
+606	NA	SMb21025	Hypothetical protein	CAC48998.1	NA
+607	NA	SMb21026	Hypothetical exopeptide protein	CAC48999.1	NA
+608	NA	SMb21027	Hypothetical membrane-anchored protein	CAC49000.1	NA
+609	NA	SMb21028	Conserved hypothetical protein, similar to 	CAC49001.1	NA
+610	NA	SMb21029	Putative protein	CAC49002.1	NA
+611	NA	SMb21030	Hypothetical protein	CAC49003.1	NA
+612	NA	SMb21031	Hypothetical membrane-anchored protein	CAC49004.2	NA
+613	NA	SMb21032	Hypothetical proline-rich protein	CAC49005.1	NA
+614	NA	SMb21034	Putative protein	CAC49006.1	NA
+615	NA	SMb21035	Hypothetical protein	CAC49007.1	NA
+616	NA	SMb21036	Hypothetical protein	CAC49008.1	NA
+617	NA	SMb21037	Putative oligopeptidemurein peptide ABC 	CAC49009.1	NA
+618	NA	SMb21038	Putative oligopeptidemurein peptide ABC 	CAC49010.1	NA
+619	NA	SMb21039	Putative oligopeptidemurein peptide ABC 	CAC49011.1	NA
+620	NA	SMb21040	Putative oligopeptidemurein peptide ABC 	CAC49012.1	NA
+621	NA	SMb21041	Conserved putative protein, possibly related to 	CAC49013.1	NA
+622	pepT	SMb21042	Release of the N-terminal residue from a 	CAC49014.1	3.4.11.4
+623	NA	SMb21043	Hypothetical protein	CAC49015.1	NA
+624	NA	SMb21044	Putative ATP-dependent DNA ligase	CAC49016.1	6.5.1.1
+625	NA	SMb22008	Hypothetical protein	CAQ51287.1	NA
+626	NA	SMb21695	Hypothetical protein	CAC49017.1	NA
+627	NA	SMb21698	Hypothetical protein	CAC49018.1	NA
+628	exoI2	SMb21662	Putative succinoglycan biosynthesis protein	CAC49019.1	NA
+629	NA	SMb21696	Hypothetical protein	CAC49020.1	NA
+630	NA	SMb21709	Conserved hypothetical protein	CAC49021.1	NA
+631	TRm10-1a	SMb21661	Putative transposase of insertion sequence 	CAC49022.2	NA
+632	TRm10-1b-1	SMb21711	Putative transposase of insertion sequence 	CAC49023.2	NA
+633	NA	SMb21710	RNA-directed DNA polymerase	CAC49024.1	2.7.7.49
+634	TRm10-1b-2	SMb21046	Putative transposase of insertion sequence 	CAC49025.2	NA
+635	NA	SMb22009	Acyl carrier protein (ACP).	CAQ51288.1	NA
+636	NA	SMb22010	Putative two component transcriptional 	CAQ51289.1	NA
+637	NA	SMb21047	Hypothetical protein	CAC49026.1	NA
+638	NA	SMb21048	Hypothetical membrane protein	CAC49027.1	NA
+639	NA	SMb21049	Hypothetical protein	CAC49028.1	NA
+640	wzx1	SMb21050	Putative succinoglycan biosynthesis transport 	CAC49029.1	NA
+641	NA	SMb21051	UDP-glucose 6-dehydrogenase	CAC49030.1	1.1.1.22
+642	NA	SMb21052	DTDP-glucose 4,6-dehydratase	CAC49031.1	4.2.1.46
+643	NA	SMb21053	Putative membrane-anchored glycosyltransferase	CAC49032.1	NA
+644	NA	SMb21054	Hypothetical protein	CAC49033.1	NA
+645	NA	SMb21055	Putative protein, slightly similar to 	CAC49034.1	NA
+646	NA	SMb21056	Hypothetical protein	CAC49035.1	NA
+647	NA	SMb21057	Conserved hypothetical protein	CAC49036.1	NA
+648	NA	SMb21058	Putative glucose-1-phosphate cytidyltransferase, 	CAC49037.1	2.7.7.33
+649	NA	SMb21059	Putative glucose-1-phosphate cytidyltransferase, 	CAC49038.1	2.7.7.33
+650	NA	SMb21060	UDP-glucose 4-epimerase	CAC49039.1	5.1.3.2
+651	NA	SMb21061	Putative NDP-hexose 3-C-methyltransferase	CAC49040.1	NA
+652	NA	SMb21062	Putative sugar nucleotide processing enzyme, 	CAC49041.1	NA
+653	NA	SMb21063	Hypothetical nucleotide-binding protein	CAC49042.1	NA
+654	NA	SMb21064	Hypothetical protein	CAC49043.1	NA
+655	NA	SMb21065	Hypothetical protein	CAC49044.1	NA
+656	NA	SMb21066	Putative glycosyltransferase	CAC49045.1	NA
+657	NA	SMb21067	Putative NDP-hexose methyltransferase	CAC49046.1	NA
+658	NA	SMb21068	Putative lipopolysaccharide 	CAC49047.1	2.4.1.44
+659	NA	SMb21069	Hypothetical protein	CAC49048.2	NA
+660	exoP2	SMb21070	Putative tyrosine-protein kinase	CAC49049.1	2.7.10.1
+661	NA	SMb21071	Putative undecaprenyl-phosphate 	CAC49050.1	2.7.8.6
+662	NA	SMb21072	Hypothetical protein	CAC49051.1	NA
+663	exoF2	SMb21073	Putative OMA family outer membrane saccharide 	CAC49052.1	NA
+664	NA	SMb21074	Putative glycosyltransferase	CAC49053.1	NA
+665	NA	SMb21075	Putative glycosyltransferase	CAC49054.1	NA
+666	NA	SMb21076	Putative glycosyltransferase	CAC49055.1	2.4.1.21
+667	NA	SMb21077	Putative protein	CAC49056.1	NA
+668	NA	SMb21078	Putative glycosyl transferase	CAC49057.1	2.4.1.21
+669	NA	SMb21079	Putative cAMP binding protein	CAC49058.1	NA
+670	NA	SMb21080	Putative response regulator	CAC49059.1	NA
+671	manB	SMb21081	Phosphomannomutase	CAC49060.1	5.4.2.8
+672	manA	SMb21082	Probable mannose-6-phosphate isomerase, 	CAC49061.1	2.7.7.22
+673	NA	SMb21083	Probable transposase	CAC49062.1	NA
+674	NA	SMb21084	Hypothetical protein encoded by ORF2 of ISRm14, 	CAC49063.1	NA
+675	NA	SMb21085	Putative transposase	CAC49064.1	NA
+676	NA	SMb21086	Hypothetical protein	CAC49065.1	4.6.1.1
+677	traA2	SMb21087	Putative conjugal transfer protein	CAC49066.1	NA
+678	NA	SMb21088	Hypothetical protein	CAC49067.1	NA
+679	NA	SMb21089	Carnitine dehydratase	CAC49068.1	4.2.1.89
+680	NA	SMb21090	Hypothetical protein	CAC49069.1	NA
+681	lysM	SMb21091	Lysozyme	CAC49070.1	3.2.1.17
+682	NA	SMb21092	Putative acetyltransferase	CAC49071.1	2.3.1.-
+683	NA	SMb21093	Putative transcriptional regulator, LysR family 	CAC49072.1	NA
+684	argH2	SMb21094	Probable argininosuccinate lyase	CAC49073.1	4.3.2.1
+685	NA	SMb21095	ABC transporter, permease	CAC49074.1	NA
+686	NA	SMb21096	ABC transporter, permease	CAC49075.2	NA
+687	NA	SMb21097	ABC transporter, periplasmic solute-binding 	CAC49076.1	NA
+688	NA	SMb21098	Hypothetical membrane-anchored protein	CAC49077.1	NA
+689	NA	SMb21099	Hypothetical protein	CAC49078.1	NA
+690	NA	SMb21100	Probable polysaccharide deacetylase	CAC49079.1	3.5.1.-
+691	NA	SMb21101	Conserved hypothetical membrane-anchored 	CAC49080.1	NA
+692	NA	SMb21102	Putative transcriptional regulator	CAC49081.1	NA
+693	NA	SMb21103	ABC sugar transporter, ATP-binding protein	CAC49082.1	NA
+694	NA	SMb21104	ABC sugar transporter, permease	CAC49083.2	NA
+695	NA	SMb21105	Putative sugar uptake ABC transporter permease	CAC49084.1	NA
+696	NA	SMb21106	Putative sugar uptake ABC transporter 	CAC49085.1	NA
+697	manR	SMb21107	Putative mandelate racemase or evolutionary 	CAC49086.1	5.1.2.2
+698	NA	SMb21108	Conserved hypothetical protein, similar to 	CAC49087.1	NA
+699	NA	SMb21109	Putative oxidoreductase	CAC49088.1	NA
+700	NA	SMb21110	Putative MaoC-like (monoamine oxidase-like) 	CAC49089.1	1.4.3.4
+701	NA	SMb21111	3-oxoacyl-[acyl-carrier-protein] reductase	CAC49090.1	1.1.1.100
+702	hpaG	SMb21112	Putative bifunctional enzyme 	CAC49091.1	NA
+703	NA	SMb21113	Probable racemase	CAC49092.2	5.1.2.2
+704	nrtA	SMb21114	NrtA nitrate transport protein	CAC49093.1	NA
+705	NA	SMb21115	Putative response regulator	CAC49094.1	NA
+706	NA	SMb21116	Hypothetical protein	CAC49095.1	NA
+707	NA	SMb21117	Putative transcriptional regulator	CAC49096.1	NA
+708	gntK	SMb21119	Gluconokinase	CAC49098.2	2.7.1.12
+709	NA	SMb21120	Hypothetical protein	CAC49099.1	NA
+710	ivdH	SMb21121	Putative isovaleryl-CoA dehydrogenase	CAC49100.1	1.3.99.10
+711	mccA	SMb21122	Putative methylcrotonoyl-CoA carboxylase 	CAC49101.1	6.4.1.4
+712	NA	SMb21123	Hypothetical membrane-anchored protein, similar 	CAC49102.1	NA
+713	mccB	SMb21124	Putative methylcrotonoyl-CoA carboxylase 	CAC49103.1	6.4.1.4
+714	hmgL	SMb21125	Probable hydroxymethylglutaryl-CoA lyase	CAC49104.1	4.1.3.4
+715	eccH2	SMb21126	Putative enoyl-CoA hydratase	CAC49105.1	4.2.1.17
+716	NA	SMb21127	Conserved hypothetical protein	CAC49106.1	NA
+717	NA	SMb21128	Conserved hypothetical membrane-anchored 	CAC49107.1	NA
+718	NA	SMb21129	Putative oxidoreductase	CAC49108.1	NA
+719	cysA2	SMb21130	Sulfate-transporting ATPase	CAC49109.1	3.6.3.25
+720	cysP2	SMb21131	ABC-type sulfate transport system, periplasmic 	CAC49110.1	NA
+721	NA	SMb21132	ABC transporter, permease	CAC49111.1	NA
+722	NA	SMb21133	ABC transporter, periplasmic solute-binding 	CAC49112.1	NA
+723	NA	SMb21134	Amino acid aldolase or racemase	CAC49113.1	5.1.1.1
+724	NA	SMb21135	ABC transporter, periplasmic solute-binding 	CAC49114.1	NA
+725	NA	SMb21136	ABC transporter, permease	CAC49115.1	NA
+726	NA	SMb21137	ABC transporter, permease	CAC49116.1	NA
+727	NA	SMb21138	ABC transporter, ATP-binding protein	CAC49117.1	NA
+728	NA	SMb21139	Endoribonuclease-domain protein	CAC49118.1	NA
+729	NA	SMb21140	Transcriptional regulator, IclR family	CAC49119.1	NA
+730	NA	SMb21216	ABC transporter, ATP-binding protein	CAC49120.1	NA
+731	NA	SMb21217	Sugar amine kinase	CAC49121.1	2.7.1.-
+732	NA	SMb21218	Conserved hypothetical protein, may play a role 	CAC49122.1	NA
+733	NA	SMb21219	ABC transporter, permease	CAC49123.1	NA
+734	NA	SMb21220	ABC transporter, permease	CAC49124.2	NA
+735	NA	SMb21221	ABC transporter, periplasmic solute-binding 	CAC49125.1	NA
+736	NA	SMb21222	Putative transcriptional regulator	CAC49126.1	NA
+737	nodP2	SMb21223	Putative sulfate adenylyltransferase subunit 2 	CAC49127.1	2.7.7.4
+738	nodQ2	SMb21224	Sulfate adenylyltransferase	CAC49128.1	2.7.7.4
+739	NA	SMb21225	Inositol-phosphate phosphatase	CAC49129.1	3.1.3.25
+740	NA	SMb21226	Hypothetical protein	CAC49130.1	NA
+741	NA	SMb21227	Hypothetical protein	CAC49131.1	6.3.5.5
+742	NA	SMb21228	Putative nucleotide sugar epimerase dehydratase	CAC49132.1	NA
+743	NA	SMb21229	Putative calcium-binding exported protein	CAC49133.1	NA
+744	NA	SMb21230	Putative glycosyltransferase	CAC49134.1	NA
+745	NA	SMb21231	Putative glycosyltransferase	CAC49135.1	NA
+746	NA	SMb21613	Putative nucleoside-diphosphate sugar epimerase	CAC49136.1	NA
+747	TRm1b	SMb21233	Probable transposase of insertion sequence ISRm1 	CAC49137.1	NA
+748	TRm1a	SMb21234	Probable transposase of insertion sequence ISRm1 	CAC49138.2	NA
+749	NA	SMb21235	Methionyl-tRNA formyltransferase	CAC49139.1	2.1.2.9
+750	NA	SMb21236	Hypothetical protein	CAC49140.1	NA
+751	NA	SMb21237	Putative enzyme, C-terminal domain similar to 	CAC49141.1	NA
+752	NA	SMb21238	Putative N-terminus of a pectate lyase, probably 	CAC49142.1	NA
+753	NA	SMb21239	Putative pectate lysase, possibly truncated due 	CAC49143.1	4.2.2.2
+754	NA	SMb21240	Putative MPA1 family auxiliary surface 	CAC49144.1	2.7.10.1
+755	NA	SMb21241	Hypothetical protein	CAC49145.1	NA
+756	NA	SMb21242	Putative glycosyltransferase	CAC49146.1	NA
+757	NA	SMb21243	Putative sulfotransferase	CAC49147.1	2.8.2.23
+758	NA	SMb21244	Hypothetical protein	CAC49148.1	NA
+759	exoF3	SMb21245	Putative polysaccharide export outer membrane 	CAC49149.1	NA
+760	NA	SMb21246	Undecaprenyl-phosphate galactose 	CAC49150.2	2.7.8.6
+761	NA	SMb21247	Conserved hypothetical protein, possibly 	CAC49151.1	NA
+762	NA	SMb21248	Probable pilin glycosylation protein	CAC49152.1	NA
+763	NA	SMb21249	Putative sulfotransferase	CAC49153.1	2.8.2.2
+764	NA	SMb21250	Putative glycosyltransferase	CAC49154.1	NA
+765	NA	SMb21251	Conserved hypothetical membrane protein, similar 	CAC49155.1	NA
+766	NA	SMb21252	Putative glycosyltransferase	CAC49156.1	NA
+767	NA	SMb21253	Hypothetical protein	CAC49157.1	NA
+768	NA	SMb21254	Conserved hypothetical protein	CAC49158.1	NA
+769	NA	SMb21255	Hypothetical protein	CAC49159.1	NA
+770	NA	SMb21256	Probable UDP-glucose/GDP-mannose dehydrogenase	CAC49160.1	1.1.1.22
+771	NA	SMb21257	Hypothetical adenylate cyclase, truncated 	CAC49161.1	NA
+772	NA	SMb21258	Hypothetical adenylate cyclase, truncated 	CAC49162.1	NA
+773	NA	SMb21259	Hypothetical exported protein precursor	CAC49163.1	NA
+774	NA	SMb21260	Putative mureinpeptideoligopeptide ABC 	CAC49164.1	NA
+775	NA	SMb21261	Putative mureinpeptideoligopeptide ABC 	CAC49165.1	NA
+776	NA	SMb21262	Putative mureinpeptideoligopeptide ABC 	CAC49166.1	NA
+777	NA	SMb21263	Putative mureinpeptideoligopeptide ABC 	CAC49167.1	NA
+778	redA	SMb21264	Putative membrane-anchored protein, slightly 	CAC49168.1	NA
+779	redB	SMb21265	Putative glycosyltransferase	CAC49169.1	NA
+780	NA	SMb21266	Putative glycosyl transferase	CAC49170.1	2.4.1.227
+781	NA	SMb22011	Conserved hypothetical protein	CAQ51290.1	NA
+782	NA	SMb21267	Hypothetical protein	CAC49171.1	NA
+783	NA	SMb21268	Putative ABC transporter	CAC49172.1	NA
+784	NA	SMb21269	Putative ABC transporter	CAC49173.1	NA
+785	NA	SMb21270	Putative cAMP-dependent protein kinase	CAC49174.1	NA
+786	NA	SMb21271	Putative methyltransferase	CAC49175.1	NA
+787	NA	SMb21272	Putative lacI family transcritional regulator	CAC49176.1	NA
+788	NA	SMb21273	ABC transporter, periplasmic solute-binding 	CAC49177.1	NA
+789	NA	SMb21274	ABC transporter, permease	CAC49178.1	NA
+790	NA	SMb21275	ABC transporter, permease	CAC49179.1	NA
+791	NA	SMb21277	Hydrolase	CAC49181.1	NA
+792	adeC2	SMb21278	Probable adenine deaminase	CAC49182.1	3.5.4.2
+793	NA	SMb21279	Putative amidohydrolase, similar to hippurate 	CAC49183.1	3.5.1.32
+794	NA	SMb21280	Putative protein, possibly a purinepyrimidine 	CAC49184.1	NA
+795	NA	SMb21281	Putative integral membrane transporter protein, 	CAC49185.1	NA
+796	NA	SMb22012	Hypothetical protein	CAQ51291.1	NA
+797	NA	SMb21283	Putative allantoicase	CAC49187.1	3.5.3.4
+798	NA	SMb21284	Probable chitooligosaccharide deacetylase	CAC49188.1	3.5.1.-
+799	NA	SMb21285	Conserved hypothetical protein, 	CAC49189.1	NA
+800	xdhA1	SMb21286	Probable xanthine dehydrogenase	CAC49190.1	1.17.1.4
+801	xdhB1	SMb21287	Putative xanthine dehydrogenase	CAC49191.1	1.17.1.4
+802	xdhC	SMb21288	Probable xanthine dehydrogenase	CAC49192.1	NA
+803	NA	SMb21289	Putative protein, may interact with ubiquitin	CAC49193.1	NA
+804	NA	SMb21290	Putative NADPH quinone oxidoreductase	CAC49194.1	1.6.5.5
+805	NA	SMb21291	Putative transcriptional regulator, lysR family 	CAC49195.1	NA
+806	NA	SMb21292	Conserved hypothetical membrane protein, 	CAC49196.1	NA
+807	guaD1	SMb21293	Putative guanine deaminase	CAC49197.1	3.5.4.3
+808	NA	SMb21294	Putative small heat shock protein, hsp20 family	CAC49198.1	NA
+809	NA	SMb21295	Putative small heat shock protein, hsp20 family	CAC49199.1	NA
+810	NA	SMb21296	Hypothetical protein	CAC49200.1	NA
+811	pbpC	SMb21297	Probable bifunctional penicillin-binding 	CAC49201.1	NA
+812	NA	SMb21298	Conserved hypothetical protein, possibly 	CAC49202.1	NA
+813	deoR	SMb21299	Putative transcriptional regulator, DeoR family 	CAC49203.1	NA
+814	deoC	SMb21300	Putative deoxyribose-phosphate aldolase	CAC49204.1	4.1.2.4
+815	NA	SMb21301	Aldehyde dehydrogenase (NAD+)	CAC49205.1	1.2.1.3
+816	NA	SMb21302	Putative fucose operon fucU protein	CAC49206.1	NA
+817	NA	SMb21303	Hypothetical membrane-anchored protein	CAC49207.1	NA
+818	NA	SMb21304	Putative NG,NG-dimethylarginine 	CAC49208.1	3.5.3.18
+819	merA2	SMb21143	Putative FAD-dependent pyridine 	CAC49209.1	1.16.1.1
+820	NA	SMb21144	Putative choline uptake ABC transporter 	CAC49210.1	NA
+821	NA	SMb21145	Putative choline uptake ABC transporter 	CAC49211.1	NA
+822	NA	SMb21146	Putative ABC transporter	CAC49212.1	3.6.3.25
+823	NA	SMb21147	Putative choline uptake ABC transporter 	CAC49213.1	NA
+824	NA	SMb21148	Probable oxidoreductase	CAC49214.1	1.-.-.-
+825	NA	SMb21149	ABC transporter, permease	CAC49215.1	NA
+826	NA	SMb21150	ABC transporter, permease	CAC49216.1	NA
+827	NA	SMb21151	ABC transporter, periplasmic solute-binding 	CAC49217.1	NA
+828	NA	SMb21152	ABC transporter, ATP-binding protein	CAC49218.1	NA
+829	NA	SMb21153	Putative acetyltransferase	CAC49219.1	NA
+830	NA	SMb21154	Hypothetical protein, bleomycin resistance 	CAC49220.1	NA
+831	NA	SMb21155	Conserved hypothetical protein	CAC49221.1	NA
+832	NA	SMb21156	Hypothetical protein	CAC49222.1	NA
+833	NA	SMb21157	Putative translation initiation inhibitor	CAC49223.1	NA
+834	NA	SMb21158	Putative transcriptional regulator, probably of 	CAC49224.1	NA
+835	NA	SMb21159	Putative short-chain dehydrogenase	CAC49225.1	1.1.1.100
+836	hexA	SMb21160	Beta-N-acetylhexosaminidase	CAC49226.1	3.2.1.52
+837	NA	SMb21161	Conserved hypothetical protein	CAC49227.1	NA
+838	NA	SMb21162	Putative MFS permease	CAC49228.1	NA
+839	hutU	SMb21163	Putative urocanate hydratase (urocanase)	CAC49229.1	4.2.1.49
+840	hutG	SMb21164	Putative formiminoglutamase	CAC49230.1	3.5.3.8
+841	hutH1	SMb21165	Putative histidine ammonia-lyase histidase	CAC49231.1	4.3.1.3
+842	hutI	SMb21166	Putative imidazolonepropionase	CAC49232.1	3.5.2.7
+843	NA	SMb21167	Reverse transcriptase	CAC49233.1	2.7.7.49
+844	NA	SMb21168	Putative integral membrane transporter	CAC49234.1	NA
+845	NA	SMb21169	Putative transcriptional regulator, arsR family 	CAC49235.1	NA
+846	nitR	SMb21170	Guanylate kinase, regulates hmgA	CAC49236.1	2.7.4.8
+847	phnM	SMb21171	Putative hydrolase	CAC49237.1	NA
+848	NA	SMb21172	Hypothetical protein	CAC49238.1	NA
+849	NA	SMb22025	Hypothetical protein	CAQ51292.1	NA
+850	NA	SMb21173	Hypothetical protein	CAC49239.1	NA
+851	phoT	SMb21174	Phosphate uptake ABC transporter permease	CAC49240.1	NA
+852	phoE	SMb21175	Phosphate uptake ABC transporter permease	CAC49241.1	NA
+853	phoD	SMb21176	Phosphate uptake ABC transporter periplasmic 	CAC49242.1	NA
+854	phoC	SMb21177	Phosphate uptake ABC transporter ATP-binding 	CAC49243.1	NA
+855	NA	SMb21178	Putative membrane protein, similar to 	CAC49244.1	NA
+856	NA	SMb21179	Putative FAD-dependent glycerol-3-phosphate 	CAC49245.1	1.1.99.-
+857	NA	SMb21180	Putative transcriptional regulator, LysR family 	CAC49246.1	NA
+858	NA	SMb21181	Putative glutaryl-CoA dehydrogenase	CAC49247.1	1.3.99.7
+859	NA	SMb21182	Carnitine dehydratase	CAC49248.1	4.2.1.89
+860	htpG	SMb21183	Probable chaperonine, heat shock hsp90 proteins 	CAC49249.1	NA
+861	ackA2	SMb21184	Putative acetate kinase (acetokinase)	CAC49250.1	2.7.2.1
+862	gabD2	SMb21185	Putative succinate-semialdehyde dehydrogenase 	CAC49251.1	1.2.1.16
+863	gabT	SMb21186	Putative 4-aminobutyrate aminotransferase	CAC49252.1	2.6.1.19
+864	NA	SMb21187	Putative protein, similar to transcriptional 	CAC49253.1	NA
+865	NA	SMb21188	Putative acyltransferase, possibly 	CAC49254.1	NA
+866	NA	SMb21189	Putative glycosyltransferase	CAC49255.1	NA
+867	NA	SMb21190	Putative glycosyltransferase	CAC49256.1	NA
+868	msbA2	SMb21191	ABC transporter, ATP-binding and permease 	CAC49257.1	NA
+869	cbbA2	SMb21192	Putative fructose-bisphosphate aldolase	CAC49258.1	4.1.2.13
+870	NA	SMb21196	ABC transporter, periplasmic solute-binding 	CAC49261.1	NA
+871	NA	SMb21197	ABC transporter, permease	CAC49262.1	NA
+872	NA	SMb21198	ABC transporter, permease	CAC49263.1	NA
+873	NA	SMb21199	ABC transporter, ATP-binding protein	CAC49264.1	NA
+874	NA	SMb21200	Putative two-component response regulator	CAC49265.1	NA
+875	NA	SMb21201	Putative two-component sensor histidine kinase	CAC49266.1	2.7.3.-
+876	NA	SMb21202	Probable dioxygenase	CAC49267.1	1.13.11.-
+877	NA	SMb21203	Putative esteraselipase/thioesterase	CAC49268.1	NA
+878	NA	SMb21666	Hypothetical protein	CAC49269.1	NA
+879	NA	SMb21204	Probable ABC transporter	CAC49270.1	NA
+880	NA	SMb21205	Probable inner-membrane ABC transporter	CAC49271.1	NA
+881	NA	SMb21206	Putative ABC transporter ATP-binding protein, 	CAC49272.1	NA
+882	NA	SMb21207	Putative protein secretion protein, HlyD family	CAC49273.1	NA
+883	NA	SMb21208	Putative transcriptional regulator, TetR family 	CAC49274.2	NA
+884	NA	SMb21209	Putative two-component sensor histidine kinase	CAC49275.1	2.7.3.-
+885	NA	SMb21210	Putative two-component response regulator	CAC49276.1	NA
+886	NA	SMb21211	Putative membrane protein	CAC49277.1	NA
+887	NA	SMb21212	Putative protein	CAC49278.1	NA
+888	NA	SMb21667	Hypothetical protein	CAC49279.1	NA
+889	pphA	SMb21213	Putative serinethreonine protein phosphatase	CAC49280.1	3.1.3.16
+890	orf24	SMb21214	2-deoxyglucose-6-phosphatase	CAC49281.1	3.1.3.68
+891	orf23	SMb21215	Putative dipeptide uptake ABC transporter 	CAC49282.1	NA
+892	wgeH	SMb21307	Hypothetical protein WgeH (formerly ExpE8)	CAC49283.1	NA
+893	wgeG	SMb21308	Putative glycosyltransferase, forming alpha 	CAC49284.1	NA
+894	wgeF	SMb21309	Putative membrane protein WgeF (formerly ExpE6)	CAC49285.1	NA
+895	wgeE	SMb21310	Putative membrane protein WgeE (formerly ExpE5)	CAC49286.1	NA
+896	wgeD	SMb21311	Putative glycosyltransferase, forming 	CAC49287.1	NA
+897	wgeC	SMb21312	Putative methyltransferase protein WgeC 	CAC49288.1	NA
+898	wgeB	SMb21313	Putative bifunctional glycosyltransferase, 	CAC49289.1	NA
+899	wgeA	SMb21314	RTX toxins and related Ca2+-binding proteins	CAC49290.1	NA
+900	wgdB	SMb21315	Membrane-fusion protein	CAC49291.1	NA
+901	wgdA	SMb21316	ABC transporter, type I secretion system ATPase, 	CAC49292.1	NA
+902	wggR	SMb21317	Transcriptional activator of exopolysaccharide 	CAC49293.1	NA
+903	wgcA	SMb21318	Putative glycosyltransferase, forming 	CAC49294.1	NA
+904	wgaA	SMb21319	Putative membrane protein WgaA (formerly ExpA1)	CAC49295.1	NA
+905	wgaB	SMb21320	Putative bifunctional glycosyltransferase, 	CAC49296.1	NA
+906	wgaD	SMb21321	Putative membrane-anchored protein WgaD 	CAC49297.1	NA
+907	wgaE	SMb21322	Putative membrane-anchored protein WgaE 	CAC49298.1	NA
+908	wgaF	SMb21323	Putative protein WgaF (formerly ExpA6), probably 	CAC49299.1	NA
+909	wgaG	SMb21324	Putative glucose-1-phosphate thymidyltransferase 	CAC49300.1	2.7.7.24
+910	wgaH	SMb21325	Putative dTDP-4-dehydrorhamnose 3,5-epimerase 	CAC49301.1	5.1.3.13
+911	wgaI	SMb21326	Putative dTDP-D-glucose 4,6-dehydratase protein 	CAC49302.1	4.2.1.46
+912	wgaJ	SMb21327	Putative dTDP-4-dehydrorhamnose reductase 	CAC49303.1	1.1.1.133
+913	NA	SMb21328	Putative protein deacetylase	CAC49304.1	NA
+914	NA	SMb21329	Hypothetical exported peptide protein	CAC49305.1	NA
+915	NA	SMb21330	Hypothetical protein with amino acid permeases 	CAC49306.2	NA
+916	NA	SMb21331	Hypothetical protein	CAC49307.1	NA
+917	NA	SMb21332	Hypothetical protein	CAC49308.1	NA
+918	NA	SMb21333	Hypothetical protein	CAC49309.1	NA
+919	NA	SMb21334	Hypothetical exported glutamine-rich protein	CAC49310.1	NA
+920	NA	SMb21335	Conserved putative membrane protein, possibly a 	CAC49311.1	NA
+921	NA	SMb21336	Putative transcriptional regulator, AraC family 	CAC49312.1	NA
+922	NA	SMb21337	Carbon-monoxide dehydrogenase (acceptor)	CAC49313.1	1.2.99.2
+923	NA	SMb21338	Putative molybdopterin binding protein, probably 	CAC49314.1	NA
+924	NA	SMb21339	Putative protein, similar to N-terminal part of 	CAC49315.1	NA
+925	NA	SMb21340	Putative protein	CAC49316.1	1.17.1.4
+926	NA	SMb21341	Hypothetical protein	CAC49317.1	NA
+927	NA	SMb21342	ABC transporter, permease, likely transports 	CAC49318.1	NA
+928	NA	SMb21343	ABC transporter, permease	CAC49319.1	NA
+929	NA	SMb21344	ABC transporter, ATP-binding protein, likely 	CAC49320.1	NA
+930	NA	SMb21345	ABC transporter, periplasmic solute-binding 	CAC49321.1	NA
+931	NA	SMb21346	Putative transcriptional regulator, LacI family 	CAC49322.1	NA
+932	NA	SMb21347	Putative pectin degradation protein	CAC49323.1	NA
+933	NA	SMb21348	Putative 2-deoxy-D-gluconate 3-dehydrogenase	CAC49324.1	1.1.1.125
+934	NA	SMb21349	Putative 4-deoxy-L-threo-5-hexulose-uronate 	CAC49325.1	5.3.1.17
+935	NA	SMb21350	Putative transcriptional regulator, GntR family 	CAC49326.1	NA
+936	NA	SMb21351	ABC transporter, permease	CAC49327.1	NA
+937	NA	SMb21352	ABC transporter, permease	CAC49328.1	NA
+938	NA	SMb21353	ABC transporter, periplasmic solute-binding 	CAC49329.1	NA
+939	uxaC	SMb21354	Putative glucuronate isomerase (uronic 	CAC49330.1	5.3.1.12
+940	NA	SMb21355	Putative oxidoreductase	CAC49331.1	1.1.99.28
+941	NA	SMb21356	Conserved hypothetical membrane protein	CAC49332.1	NA
+942	NA	SMb21357	Hypothetical membrane protein	CAC49333.1	NA
+943	NA	SMb21358	Putative isochorismatase	CAC49334.1	NA
+944	NA	SMb21359	Putative transcriptional activator, LysR family, 	CAC49335.1	NA
+945	NA	SMb21360	Putative transcriptional activator, LysR family, 	CAC49336.1	NA
+946	NA	SMb21361	Hypothetical membrane-anchored protein	CAC49337.1	NA
+947	NA	SMb21362	Hypothetical membrane-anchored protein	CAC49338.1	NA
+948	NA	SMb21668	Hypothetical protein	CAC49339.1	NA
+949	NA	SMb21363	Conserved hypothetical membrane protein	CAC49340.1	NA
+950	NA	SMb21364	Putative membrane-anchored oxidoreductase, 	CAC49341.1	NA
+951	NA	SMb21365	Hypothetical membrane protein	CAC49342.1	NA
+952	NA	SMb21669	Hypothetical protein	CAC49343.1	NA
+953	NA	SMb21366	Hypothetical membrane protein	CAC49344.1	NA
+954	cycA	SMb21367	Putative cytochrome c class I protein, probably 	CAC49345.1	NA
+955	NA	SMb21368	Putative cytochrome c oxidase chain II	CAC49346.1	1.9.3.1
+956	NA	SMb21369	Conserved hypothetical protein	CAC49347.1	NA
+957	NA	SMb21370	Probable cytochrome c oxidase	CAC49348.1	1.9.3.1
+958	NA	SMb21371	Putative membrane protein	CAC49349.1	NA
+959	NA	SMb21372	Putative transcriptional regulator, LacI family 	CAC49350.1	NA
+960	NA	SMb21373	Probable tagatose 6-phosphate kinase	CAC49351.1	2.7.1.144
+961	NA	SMb21374	Fructokinase	CAC49352.1	2.7.1.4
+962	NA	SMb21375	ABC transporter, permease, may be involved in 	CAC49353.1	NA
+963	NA	SMb21376	ABC transporter, ATP-binding protein, may be 	CAC49354.1	NA
+964	NA	SMb21377	ABC transporter, periplasmic solute-binding 	CAC49355.1	NA
+965	NA	SMb21378	Hypothetical protein	CAC49356.1	NA
+966	NA	SMb21379	Conserved hypothetical protein	CAC49357.1	NA
+967	NA	SMb21380	Catechol 1,2-dioxygenase	CAC49358.1	1.13.11.1
+968	NA	SMb21381	Hypothetical membrane protein	CAC49359.1	NA
+969	NA	SMb21382	Hypothetical protein	CAC49360.1	NA
+970	NA	SMb21383	3-oxoacyl-[acyl-carrier-protein] reductase	CAC49361.1	1.1.1.100
+971	NA	SMb21384	3-oxoacyl-[acyl-carrier-protein] reductase	CAC49362.1	1.1.1.100
+972	NA	SMb21385	Putative transcriptional regulator, AraC family 	CAC49363.1	NA
+973	NA	SMb21525	Aspartate transaminase	CAC49364.1	2.6.1.1
+974	tauA	SMb21526	ABC transporter, periplasmic solute-binding 	CAC49365.1	NA
+975	tauB	SMb21527	ABC transporter, ATP-binding protein	CAC49366.1	NA
+976	tauC	SMb21528	Putative taurine uptake ABC transporter 	CAC49367.1	NA
+977	NA	SMb21670	Conserved hypothetical protein	CAC49368.2	NA
+978	tauD	SMb21529	Taurine dehydrogenase	CAC49369.1	1.4.99.2
+979	NA	SMb21530	Sulfoacetaldehyde acetyltransferase	CAC49370.1	2.3.3.15
+980	NA	SMb21531	Putative membrane protein	CAC49371.1	NA
+981	pta	SMb21532	Putative phosphate acetyltransferase	CAC49372.1	2.3.1.8
+982	NA	SMb21533	Putative transcriptional regulator	CAC49373.1	NA
+983	NA	SMb21534	Dimethylglycine dehydrogenase	CAC49374.1	1.5.99.2
+984	NA	SMb21535	Putative transcriptional regulator, lysR family 	CAC49375.1	NA
+985	NA	SMb21536	Probable Na+/phosphate symporter	CAC49376.1	NA
+986	NA	SMb21537	2-aminoethylphosphonate-pyruvate transaminase	CAC49377.1	2.6.1.37
+987	phnA	SMb21538	Probable phosphonoacetate hydrolase	CAC49378.1	3.6.1.9
+988	NA	SMb21539	Aldehyde dehydrogenase (NAD+)	CAC49379.1	1.2.1.3
+989	NA	SMb21671	Hypothetical protein	CAC49380.1	NA
+990	NA	SMb21540	Putative iron uptake ABC transporter periplasmic 	CAC49381.1	NA
+991	NA	SMb21541	Putative iron ABC transporter ATP-binding 	CAC49382.1	NA
+992	NA	SMb21542	Putative iron uptake ABC transporter permease	CAC49383.1	NA
+993	NA	SMb21543	Putative hemolysin-adenlyate cyclase	CAC49384.1	4.6.1.1
+994	NA	SMb21544	Hypothetical exported protein	CAC49385.1	NA
+995	NA	SMb21545	Putative two-component response regulator	CAC49386.1	NA
+996	NA	SMb21546	Putative two-component sensor histidine kinase	CAC49387.1	NA
+997	NA	SMb21547	Hypothetical protein	CAC49388.1	NA
+998	NA	SMb21548	Hypothetical protein	CAC49389.1	NA
+999	thtR	SMb21549	Putative exported sulfurtransferase, Rhodanese 	CAC49390.1	2.8.1.1
+1000	NA	SMb21550	Conserved hypothetical protein	CAC49391.1	NA
+1001	NA	SMb21551	Hypothetical protein	CAC49392.1	NA
+1002	aacC4	SMb21552	Putative aminoglycoside 6'-N-acetyltransferase, 	CAC49393.1	2.3.1.82
+1003	NA	SMb22013	Hypothetical protein	CAQ51293.1	NA
+1004	NA	SMb21554	Hypothetical protein	CAC49394.1	NA
+1005	kefB2	SMb21555	Probable glutathione-regulated potassium-efflux 	CAC49395.1	NA
+1006	NA	SMb21556	Putative aldehyde or xanthine dehydrogenase	CAC49396.1	1.17.1.4
+1007	NA	SMb21557	Probable oxidoreductase	CAC49397.1	1.17.3.2
+1008	NA	SMb21558	Carbon-monoxide dehydrogenase (acceptor)	CAC49398.1	1.2.99.2
+1009	NA	SMb21559	Putative transcriptional regulator, araC family 	CAC49399.1	NA
+1010	NA	SMb21560	Putative two component sensor histidine kinase	CAC49400.1	NA
+1011	NA	SMb21561	Putative two-component response regulator	CAC49401.1	NA
+1012	NA	SMb21562	Hypothetical membrane-anchored protein	CAC49402.1	NA
+1013	NA	SMb21563	Putative transcriptional regulator	CAC49403.1	NA
+1014	NA	SMb21564	Hypothetical protein	CAC49404.1	NA
+1015	NA	SMb21565	Hypothetical protein	CAC49405.1	NA
+1016	groEL5	SMb21566	Putative heat shock protein GroEL	CAC49406.1	NA
+1017	groES5	SMb22023	10 kDa chaperonin	CAQ51294.1	NA
+1018	NA	SMb21568	Putative Usg protein	CAC49408.1	NA
+1019	NA	SMb21569	Hypothetical protein	CAC49409.1	NA
+1020	stcD	SMb21570	N-methylproline demethylase	CAC49410.1	1.-.-.-
+1021	NA	SMb21571	Putative transcriptional regulator TetR family 	CAC49411.1	NA
+1022	NA	SMb21572	Putative amino acid uptake ABC transporter 	CAC49412.1	NA
+1023	NA	SMb21573	Hypothetical exported protein	CAC49413.1	NA
+1024	NA	SMb21574	Putative protein similar to sensor histidine 	CAC49414.1	NA
+1025	NA	SMb21575	Putative major facilitator superfamily 	CAC49415.1	NA
+1026	NA	SMb21576	Putative regulatory protein, arsR family	CAC49416.1	NA
+1027	NA	SMb21577	Hypothetical protein	CAC49417.1	NA
+1028	atcU2	SMb21578	Cu2+-exporting ATPase	CAC49418.1	3.6.3.4
+1029	hmrR2	SMb21579	Putative transcriptional regulator, merR family 	CAC49419.1	NA
+1030	NA	SMb21580	Conserved hypothetical membrane protein	CAC49420.1	NA
+1031	NA	SMb21581	Putative glycosyltransferase, similar to 	CAC49421.1	NA
+1032	NA	SMb21582	Putative exoD-like membrane protein	CAC49422.1	NA
+1033	NA	SMb21583	Hypothetical protein	CAC49423.1	NA
+1034	NA	SMb21584	Hypothetical protein	CAC49424.1	NA
+1035	NA	SMb21585	Conserved hypothetical protein	CAC49425.2	NA
+1036	gshB2	SMb21586	Putative glutathione synthetase	CAC49426.1	6.3.2.3
+1037	NA	SMb21587	Sugar ABC transporter, periplasmic 	CAC49427.1	NA
+1038	NA	SMb21588	Sugar ABC transporter ATP-binding protein, may 	CAC49428.1	NA
+1039	NA	SMb21589	Sugar ABC transporter, permease	CAC49429.1	NA
+1040	NA	SMb21590	Sugar ABC transporter, permease	CAC49430.1	NA
+1041	NA	SMb21591	Putative transcriptional regulator, gntR family 	CAC49431.1	NA
+1042	NA	SMb21592	Putative sugar uptake ABC transporter 	CAC49432.1	NA
+1043	NA	SMb21593	Putative sugar uptake ABC transporter permease	CAC49433.1	NA
+1044	NA	SMb21594	Putative sugar uptake ABC transporter permease	CAC49434.1	NA
+1045	NA	SMb21595	Putative sugar uptake ABC transporter 	CAC49435.1	NA
+1046	NA	SMb21596	Conserved hypothetical protein	CAC49436.1	NA
+1047	NA	SMb21597	Putative oxidoreductase	CAC49437.1	1.1.99.28
+1048	NA	SMb21598	Putative transcriptional regulator	CAC49438.1	NA
+1049	NA	SMb21599	Hypothetical exported protein	CAC49439.1	NA
+1050	ampC	SMb21600	Putative exported beta-lactamase	CAC49440.1	3.5.2.6
+1051	NA	SMb21601	Putative transcriptional regulator	CAC49441.1	NA
+1052	NA	SMb21602	Putative sugar uptake ABC transporter permease	CAC49442.1	NA
+1053	NA	SMb21603	Putative sugar uptake ABC transporter permease	CAC49443.1	NA
+1054	NA	SMb21604	Putative sugar uptake ABC transporter 	CAC49444.1	NA
+1055	NA	SMb21605	Putative sugar uptake ABC transporter 	CAC49445.1	NA
+1056	abfA	SMb20924	Putative alpha-L-arabinofuranosidase	CAC49446.1	3.2.1.55
+1057	NA	SMb21672	Hypothetical protein	CAC49447.1	NA
+1058	NA	SMb20925	Conserved hypothetical membrane protein	CAC49448.1	NA
+1059	NA	SMb20926	Hypothetical exported protein	CAC49449.1	NA
+1060	NA	SMb20927	Hypothetical exported protein	CAC49450.1	NA
+1061	NA	SMb20928	Putative exported carboxyl-terminal protease	CAC49451.1	NA
+1062	NA	SMb20929	ABC transporter, permease	CAC49452.1	NA
+1063	NA	SMb20930	Putative sugar uptake ABC transporter 	CAC49453.1	3.6.3.17
+1064	NA	SMb20931	ABC transporter, periplasmic solute-binding 	CAC49454.1	NA
+1065	exsH	SMb20932	Glucan endo-1,3-beta-D-glucosidase	CAC49455.1	3.2.1.39
+1066	exsG	SMb20933	Putative two-component sensor histidine kinase	CAC49456.1	NA
+1067	exsF	SMb20934	Putative two-component response regulator	CAC49457.1	NA
+1068	exsI	SMb20935	Putative transcriptional regulator	CAC49458.1	NA
+1069	NA	SMb20936	Hypothetical protein	CAC49459.1	NA
+1070	exsE	SMb20937	Putative ABC transporter protein consisting of 	CAC49460.1	NA
+1071	exsD	SMb20938	Hypothetical conserved protein	CAC49461.1	NA
+1072	exsC	SMb20939	6-pyruvoyltetrahydropterin synthase	CAC49462.1	4.2.3.12
+1073	exsB	SMb20940	Probable succinoglycan biosynthesis regulator	CAC49463.1	NA
+1074	exsA	SMb20941	MsbA-like saccharide exporting ABC transporter 	CAC49464.1	NA
+1075	exoB	SMb20942	UDP glucose 4-epimerase	CAC49465.1	5.1.3.2
+1076	exoZ	SMb20943	Acetyltransferase	CAC49466.1	NA
+1077	exoQ	SMb20944	Putative polysaccharide polymerase, similar to 	CAC49467.1	NA
+1078	exoF1	SMb20945	Periplasmic protein involved in polysaccharide 	CAC49468.1	NA
+1079	exoY	SMb20946	Exopolysaccharide production protein, probable 	CAC49469.1	2.7.8.6
+1080	exoX	SMb20947	Post-transcriptional regulator, repressor 	CAC49470.1	NA
+1081	exoU	SMb20948	Glucosyltransferase	CAC49471.1	2.-.-.-
+1082	exoV	SMb20949	Putative pyruvyltransferase	CAC49472.1	NA
+1083	exoW	SMb21690	Glucosyltransferase	CAC49473.1	2.4.1.-
+1084	exoT	SMb20950	Probable exopolysaccharide transport protein	CAC49474.1	NA
+1085	NA	SMb21673	Hypothetical protein	CAC49475.1	NA
+1086	exoI	SMb20951	Probable exopolysaccharide biosynthesis protein	CAC49476.1	NA
+1087	NA	SMb20952	Hypothetical protein	CAC49477.1	NA
+1088	NA	SMb20953	Hypothetical exported protein	CAC49478.1	NA
+1089	exoH	SMb20954	Succinyltransferase	CAC49479.1	NA
+1090	exoK	SMb20955	Licheninase	CAC49480.1	3.2.1.73
+1091	exoL	SMb20956	Putative glucosyltransferase	CAC49481.1	NA
+1092	exoA	SMb20957	Glycosyltransferase, succinoglycan biosynthesis 	CAC49482.1	2.-.-.-
+1093	exoM	SMb20958	Probable succinoglycan biosynthesis protein	CAC49483.1	2.-.-.-
+1094	exoO	SMb20959	Probable exopolysaccharide biosynthesis protein 	CAC49484.1	2.-.-.-
+1095	exoN	SMb20960	UDPglucose pyrophosphorylase	CAC49485.1	2.7.7.9
+1096	exoP	SMb20961	Protein-tyrosine kinase	CAC49486.1	2.7.10.1
+1097	thiD	SMb20962	Probable phoshomethylpyrimidine kinase	CAC49487.1	2.7.4.7
+1098	NA	SMb20963	Hypothetical protein	CAC49488.1	NA
+1099	NA	SMb20964	Peroxidase	CAC49489.1	1.11.1.7
+1100	NA	SMb20965	Probable beta-lactamase	CAC49490.1	3.5.1.46
+1101	lacZ2	SMb20966	Putative beta-galactosidase	CAC49491.1	3.2.1.23
+1102	NA	SMb20967	Putative transcriptional regulator, lacI family 	CAC49492.1	NA
+1103	NA	SMb20968	Putative glycogen debranching enzyme	CAC49493.1	NA
+1104	NA	SMb20969	Putative sugar ABC transporter	CAC49494.1	NA
+1105	NA	SMb20970	Putative sugar uptake ABC transporter permease	CAC49495.1	NA
+1106	NA	SMb20971	Putative sugar uptake ABC transporter 	CAC49496.1	NA
+1107	NA	SMb20972	Putative sugar ABC transporter	CAC49497.1	NA
+1108	NA	SMb20973	4-aminobutyrate transaminase	CAC49498.1	2.6.1.19
+1109	NA	SMb20974	Putative oxidoreductase	CAC49499.1	NA
+1110	NA	SMb20975	Putative amino acid uptake ABC transporter 	CAC49500.1	NA
+1111	NA	SMb20976	Putative amino acid uptake ABC transporter 	CAC49501.1	NA
+1112	NA	SMb20977	Putative transcriptional regulator, lacI family 	CAC49502.1	NA
+1113	NA	SMb20978	Putative acyl dehydratase	CAC49503.1	1.4.3.4
+1114	NA	SMb20979	Putative TRAP dicarboxylate transporter	CAC49504.1	NA
+1115	NA	SMb20980	Putative small C4-dicarboxylate uptake permease	CAC49505.1	NA
+1116	NA	SMb20981	Putative C4-dicarboxylate transporter 	CAC49506.1	NA
+1117	NA	SMb20982	Hypothetical protein	CAC49507.1	NA
+1118	NA	SMb20983	Hypothetical protein	CAC49508.1	NA
+1119	nirB	SMb20984	Nitrite reductase [NAD(P)H]	CAC49509.1	1.7.1.4
+1120	nirD	SMb20985	Nitrite reductase [NAD(P)H]	CAC49510.1	1.7.1.4
+1121	narB	SMb20986	Putative nitrate reductase, large subunit	CAC49511.1	1.7.99.4
+1122	NA	SMb20987	Precorrin-2 dehydrogenase	CAC49512.1	1.3.1.76
+1123	NA	SMb20988	Conserved hypothetical protein	CAC49513.2	NA
+1124	NA	SMb20989	Putative stomatin-like protein	CAC49514.1	NA
+1125	nfeD	SMb20990	Probable membrane protein necessary for 	CAC49515.1	NA
+1126	NA	SMb20991	Conserved hypothetical protein, similar to 	CAC49516.1	NA
+1127	NA	SMb20992	Conserved hypothetical protein, similar to 	CAC49517.1	NA
+1128	NA	SMb21674	Hypothetical protein	CAC49518.1	NA
+1129	NA	SMb20993	Acyl-CoA dehydrogenase	CAC49519.1	1.3.99.3
+1130	NA	SMb20994	Conserved hypothetical protein	CAC49520.1	NA
+1131	engA	SMb20995	Putative GTP-binding protein	CAC49521.1	NA
+1132	NA	SMb20996	Hypothetical protein	CAC49522.1	NA
+1133	NA	SMb20997	Conserved hypothetical protein	CAC49523.1	NA
+1134	NA	SMb20998	Hypothetical exported protein	CAC49524.1	NA
+1135	bacA	SMb20999	Putative transport protein, essential for 	CAC49525.1	NA
+1136	NA	SMb21000	Putative transport protein	CAC49526.1	NA
+1137	NA	SMb21001	Hypothetical protein	CAC49527.1	NA
+1138	map2	SMb21002	Putative methionine aminopeptidase	CAC49528.1	3.4.11.18
+1139	NA	SMb21003	Probable oxidoreductase	CAC49529.1	NA
+1140	NA	SMb21004	Hypothetical protein	CAC49530.2	NA
+1141	NA	SMb21005	Hypothetical protein	CAC49531.1	NA
+1142	NA	SMb21006	Hypothetical membrane protein	CAC49532.1	NA
+1143	NA	SMb21007	Hypothetical protein	CAC49533.1	NA
+1144	NA	SMb21008	Putative transcriptional regulator, arsR family 	CAC49534.1	NA
+1145	glpK	SMb21009	Probable glycerol kinase, similar to sugar 	CAC49535.1	2.7.1.30
+1146	bdhA	SMb21010	D-beta-hydroxybutyrate dehydrogenase	CAC49536.1	1.1.1.30
+1147	xdhA2	SMb21011	Xanthine dehydrogenase	CAC49537.1	1.17.1.4
+1148	xdhB2	SMb20846	Probable xanthine dehydrogenase	CAC49538.1	1.17.1.4
+1149	NA	SMb21676	Hypothetical protein	CAC49539.1	NA
+1150	NA	SMb20847	Probable transcriptional regulator	CAC49540.2	NA
+1151	NA	SMb20848	Conserved hypothetical membrane protein, 	CAC49541.1	NA
+1152	guaD2	SMb20849	Putative guanine deaminase	CAC49542.1	3.5.4.3
+1153	lldD1	SMb20850	Putative L-lactate dehydrogenase (cytochrome) 	CAC49543.1	1.1.2.3
+1154	NA	SMb20851	Putative transcriptional regulator, sorC family 	CAC49544.1	NA
+1155	NA	SMb20852	Ribulokinase	CAC49545.1	2.7.1.16
+1156	NA	SMb20853	Galactitol 1-phosphate 5-dehydrogenase	CAC49546.1	1.1.1.251
+1157	NA	SMb20854	ABC transporter, permease	CAC49547.1	NA
+1158	NA	SMb20855	ABC transporter, ATP-binding protein	CAC49548.1	NA
+1159	NA	SMb20856	ABC transporter, periplasmic solute-binding 	CAC49549.1	NA
+1160	NA	SMb20857	Putative glucose-6-phosphate isomerase	CAC49550.1	5.3.1.9
+1161	NA	SMb20858	L-lactate dehydrogenase (cytochrome)	CAC49551.1	1.1.2.3
+1162	NA	SMb20859	Putative transcriptional regulator, araC family 	CAC49552.1	NA
+1163	NA	SMb21677	Hypothetical exported protein signal peptide	CAC49553.1	NA
+1164	NA	SMb20860	Probable non-heme chloroperoxidase	CAC49554.1	1.11.1.10
+1165	NA	SMb20861	Putative dehydrogenase, oxidoreductase FAD 	CAC49555.1	NA
+1166	NA	SMb20862	Hypothetical protein	CAC49556.1	NA
+1167	NA	SMb20863	Putative mechanosensitive ion channel	CAC49557.1	NA
+1168	NA	SMb20864	Conserved hypothetical exported protein	CAC49558.1	NA
+1169	NA	SMb20865	Conserved hypothetical protein	CAC49559.1	NA
+1170	NA	SMb20866	Conserved hypothetical protein	CAC49560.1	NA
+1171	NA	SMb20867	Hypothetical protein	CAC49561.1	NA
+1172	NA	SMb20868	Putative two-component sensor histidine kinase	CAC49562.1	2.7.3.-
+1173	NA	SMb22014	Putative two-component response regulator	CAQ51295.1	NA
+1174	NA	SMb20869	Putative two-component response regulator	CAC49563.1	NA
+1175	NA	SMb20870	Putative transcriptional regulator, lysR family 	CAC49564.1	NA
+1176	NA	SMb20871	3-oxoacyl-[acyl-carrier-protein] reductase	CAC49565.1	1.1.1.100
+1177	NA	SMb20872	Conserved hypothetical protein, 	CAC49566.1	NA
+1178	allA	SMb20873	Putative ureidoglycolate hydrolase	CAC49567.1	3.5.3.19
+1179	NA	SMb20874	Conserved hypothetical protein	CAC49568.1	NA
+1180	NA	SMb20875	Conserved hypothetical protein	CAC49569.1	NA
+1181	NA	SMb20876	Hypothetical protein	CAC49570.1	NA
+1182	NA	SMb20877	Putative oxidoreductase, possibly D-amino acid 	CAC49571.1	NA
+1183	NA	SMb20878	Conserved hypothetical protein	CAC49572.1	NA
+1184	NA	SMb20879	Putative protein required for attachment to host 	CAC49573.1	NA
+1185	rhlE2	SMb20880	Putative ATP-dependent RNA helicase	CAC49574.1	NA
+1186	NA	SMb20881	Conserved hypothetical exported protein	CAC49575.1	NA
+1187	NA	SMb20882	Putative heavy metal efflux pump	CAC49576.1	NA
+1188	NA	SMb20883	Hypothetical protein	CAC49577.1	NA
+1189	NA	SMb20884	Hypothetical protein	CAC49578.1	NA
+1190	NA	SMb20885	Conserved hypothetical membrane protein	CAC49579.1	NA
+1191	NA	SMb20886	Conserved hypothetical protein	CAC49580.1	NA
+1192	NA	SMb20887	Conserved hypothetical protein	CAC49581.1	NA
+1193	NA	SMb20888	Conserved hypothetical protein	CAC49582.1	NA
+1194	NA	SMb20889	Hypothetical glycine-rich protein	CAC49583.1	NA
+1195	araF	SMb20890	Dihydroxy-acid dehydratase	CAC49584.1	4.2.1.9
+1196	araE	SMb20891	2-oxoglutarate semialdehyde dehydrogenase	CAC49585.1	1.2.1.26
+1197	araD	SMb20892	Conserved hypothetical protein	CAC49586.1	NA
+1198	araC	SMb20893	ABC transporter, permease	CAC49587.1	NA
+1199	araB	SMb20894	ABC transporter, ATP-binding protein	CAC49588.1	NA
+1200	araA	SMb20895	ABC transporter, periplasmic solute-binding 	CAC49589.1	NA
+1201	gbpR	SMb20896	Probable transcriptional regulator, lysR family, 	CAC49590.1	NA
+1202	NA	SMb20897	Hypothetical protein	CAC49591.1	NA
+1203	NA	SMb20898	Hypothetical protein	CAC49592.1	NA
+1204	NA	SMb21678	Hypothetical protein	CAC49593.1	NA
+1205	idhA	SMb20899	Hypothetical myo-inositol dehydrogenase protein	CAC49594.1	1.1.1.18
+1206	NA	SMb20900	Diguanylate cyclase/phosphodiesterase	CAC49595.1	NA
+1207	NA	SMb21679	Hypothetical protein	CAC49596.1	NA
+1208	NA	SMb20901	Putative transcriptional regulator	CAC49597.1	NA
+1209	NA	SMb20902	ABC transporter, periplasmic solute-binding 	CAC49598.1	NA
+1210	NA	SMb20903	ABC sugar transporter, permease	CAC49599.1	NA
+1211	tRNA-ARG_CCG	SMb21712	ABC transporter, ATP-binding protein	CAC49600.1	NA
+1212	NA	SMb20905	Putative transposase	CAC49601.1	NA
+1213	NA	SMb20906	Hypothetical protein	CAC49602.1	NA
+1214	NA	SMb20907	Hypothetical protein	CAC49603.1	NA
+1215	NA	SMb20908	Hypothetical protein	CAC49604.1	NA
+1216	NA	SMb21680	Hypothetical protein	CAC49605.1	NA
+1217	NA	SMb21681	Hypothetical protein	CAC49606.1	NA
+1218	NA	SMb20909	Hypothetical protein	CAC49607.1	NA
+1219	NA	SMb20910	Hypothetical protein	CAC49608.1	NA
+1220	NA	SMb20911	Hypothetical protein	CAC49609.1	NA
+1221	NA	SMb20912	Putative ATP-dependent DNA ligase	CAC49610.1	6.5.1.1
+1222	NA	SMb20913	Hypothetical protein	CAC49611.1	NA
+1223	NA	SMb21682	Hypothetical protein	CAC49612.1	NA
+1224	NA	SMb20914	Hypothetical protein	CAC49613.1	NA
+1225	aslA1	SMb20915	Putative arylsulfatase	CAC49614.1	3.1.6.1
+1226	NA	SMb21615	Hypothetical protein	CAC49615.1	NA
+1227	TRm1a	SMb20918	Transposase of insertion sequence ISRm1 orfA 	CAC49616.1	NA
+1228	TRm1b	SMb20919	Transposase of insertion sequence ISRm1 orfB 	CAC49617.1	NA
+1229	NA	SMb20920	Hypothetical secreted protein	CAC49618.1	NA
+1230	NA	SMb20921	Hypothetical protein	CAC49619.1	NA
+1231	NA	SMb20922	Putative glycoside hydrolase	CAC49620.1	NA
+1232	NA	SMb21395	Hypothetical protein	CAC49621.1	NA
+1233	NA	SMb21396	Hypothetical protein	CAC49622.1	NA
+1234	NA	SMb21397	Hypothetical calcium-binding protein	CAC49623.1	NA
+1235	NA	SMb21398	Hypothetical protein	CAC49624.1	NA
+1236	NA	SMb21399	Hypothetical protein	CAC49625.1	NA
+1237	NA	SMb21683	Hypothetical protein	CAC49626.1	NA
+1238	NA	SMb21400	Hypothetical protein	CAC49627.1	NA
+1239	NA	SMb21401	Hypothetical protein	CAC49628.1	NA
+1240	NA	SMb21402	Hypothetical calcium binding protein	CAC49629.1	NA
+1241	NA	SMb21403	Hypothetical protein	CAC49630.1	NA
+1242	NA	SMb21404	Hypothetical protein	CAC49631.1	NA
+1243	NA	SMb21405	Putative amidase	CAC49632.1	NA
+1244	NA	SMb21406	Conserved hypothetical protein	CAC49633.1	NA
+1245	NA	SMb21407	Conserved hypothetical protein	CAC49634.1	NA
+1246	NA	SMb21408	Truncated putative transcriptional regulator, 	CAC49635.1	NA
+1247	NA	SMb22015	Truncated transcriptional regulator, LysR 	CAQ51296.1	NA
+1248	NA	SMb21410	Putative methyltransferase, 	CAC49637.1	2.1.1.-
+1249	NA	SMb21411	Hypothetical protein	CAC49638.1	NA
+1250	NA	SMb21412	Conserved hypothetical protein	CAC49639.1	NA
+1251	NA	SMb21413	Hypothetical protein	CAC49640.1	NA
+1252	NA	SMb21414	Aromatic-L-amino-acid decarboxylase	CAC49641.1	4.1.1.28
+1253	NA	SMb21415	Putative oxidoreductase, oxygen dependent, 	CAC49642.1	1.5.3.-
+1254	ddhA	SMb21416	Putative glucose-1-phosphate 	CAC49643.1	2.7.7.33
+1255	ddhB	SMb21417	Putative CDP-glucose 4,6-dehydratase	CAC49644.1	4.2.1.45
+1256	NA	SMb21418	Putative NDP-hexose 3-C-methyltransferase	CAC49645.1	NA
+1257	NA	SMb21419	Putative transcriptional regulator, araC family 	CAC49646.1	NA
+1258	NA	SMb21684	Hypothetical protein	CAC49647.1	NA
+1259	NA	SMb21420	Putative L-arabinose isomerase	CAC49648.1	NA
+1260	NA	SMb21421	ABC transporter, periplasmic solute-binding 	CAC49649.1	NA
+1261	NA	SMb21422	ABC transporter, ATP-binding protein	CAC49650.1	NA
+1262	NA	SMb21423	ABC sugar transporter, permease	CAC49651.1	NA
+1263	NA	SMb21424	Putative acyl esterase	CAC49652.1	NA
+1264	NA	SMb21425	Putative cephalosporin hydroxylase	CAC49653.1	NA
+1265	NA	SMb21426	Putative sugar nucleotide 	CAC49654.1	NA
+1266	NA	SMb21427	Putative acetyltransferase	CAC49655.1	NA
+1267	rmlC	SMb21428	Putative dTDP-4-dehydrorhamnose 3,5-epimerase	CAC49656.1	5.1.3.13
+1268	NA	SMb21429	Iron-chelate-transporting ATPase	CAC49657.1	3.6.3.34
+1269	NA	SMb21430	Putative iron ABC transporter permease	CAC49658.1	NA
+1270	NA	SMb21431	Hypothetical protein, possibly C terminus of 	CAC49659.1	NA
+1271	NA	SMb21432	Putative iron uptake ABC transporter periplasmic 	CAC49660.1	NA
+1272	NA	SMb21433	Putative methyl-transferase, 	CAC49661.1	NA
+1273	NA	SMb21685	Hypothetical protein	CAC49662.1	NA
+1274	NA	SMb21434	Putative transcriptional regulator, lysR family 	CAC49663.1	NA
+1275	NA	SMb21435	N-carbamoyl-L-amino-acid hydrolase	CAC49664.1	3.5.1.87
+1276	NA	SMb21436	ABC transporter, permease	CAC49665.1	NA
+1277	NA	SMb21437	ABC transporter, permease	CAC49666.2	NA
+1278	NA	SMb21438	ABC transporter, periplasmic solute-binding 	CAC49667.1	NA
+1279	NA	SMb21439	Conserved hypothetical protein	CAC49668.1	NA
+1280	NA	SMb21440	Hypothetical protein	CAC49669.1	NA
+1281	NA	SMb21441	Conserved hypothetical protein	CAC49670.2	NA
+1282	NA	SMb21442	Hypothetical protein	CAC49671.1	NA
+1283	NA	SMb21443	Hypothetical protein	CAC49672.1	NA
+1284	NA	SMb21444	Hypothetical protein	CAC49673.1	NA
+1285	NA	SMb21445	Putative DNA topoisomerase I	CAC49674.2	5.99.1.2
+1286	glgX2	SMb21446	Isoamylase	CAC49675.1	3.2.1.68
+1287	glgB2	SMb21447	4-alpha-D-{(1->4)-alpha-D-glucano}trehalose 	CAC49676.1	3.2.1.141
+1288	NA	SMb21448	Putative DNA polymerase related protein	CAC49677.1	2.7.7.7
+1289	gst12	SMb21449	Probable glutathione S-transferase	CAC49678.1	2.5.1.18
+1290	NA	SMb21450	Conserved hypothetical protein	CAC49679.1	NA
+1291	NA	SMb21452	Putative chaperone	CAC49680.1	NA
+1292	NA	SMb21454	Hypothetical protein	CAC49681.1	NA
+1293	NA	SMb21455	Conserved hypothetical protein	CAC49682.1	NA
+1294	NA	SMb21456	Hypothetical protein	CAC49683.1	NA
+1295	NA	SMb21458	Putative sugar uptake ABC transporter permease	CAC49684.1	NA
+1296	NA	SMb21459	Putative sugar uptake ABC transporter permease	CAC49685.1	NA
+1297	NA	SMb21460	Putative sugar uptake ABC transporter 	CAC49686.1	NA
+1298	NA	SMb21461	Putative sugar uptake ABC transporter 	CAC49687.1	NA
+1299	NA	SMb21462	Putative sugar kinase	CAC49688.1	2.7.1.-
+1300	NA	SMb21463	Alpha-galactosidase	CAC49689.1	3.2.1.22
+1301	NA	SMb21464	Putative transcriptional regulator, gntR family 	CAC49690.1	NA
+1302	prsE	SMb21465	Type I secretion membrane fusion protein, HlyD 	CAC49691.1	NA
+1303	prsD	SMb21466	ABC transporter, ATP-binding component, 	CAC49692.2	NA
+1304	NA	SMb21467	Hypothetical protein	CAC49693.1	NA
+1305	NA	SMb21468	Conserved hypothetical membrane protein	CAC49694.1	NA
+1306	NA	SMb21469	Hypothetical protein	CAC49695.1	NA
+1307	NA	SMb21470	Hypothetical protein	CAC49696.1	NA
+1308	NA	SMb21471	Hypothetical protein	CAC49697.1	NA
+1309	NA	SMb21472	Hypothetical protein	CAC49698.1	NA
+1310	NA	SMb21473	Conserved hypothetical protein	CAC49699.1	NA
+1311	NA	SMb21474	Putative dehydrogenase, possibly 	CAC49700.1	1.1.1.100
+1312	NA	SMb21475	Hypothetical protein	CAC49701.1	NA
+1313	NA	SMb21476	Hypothetical protein	CAC49702.1	NA
+1314	NA	SMb21477	RNA-directed DNA polymerase	CAC49703.1	2.7.7.49
+1315	NA	SMb21478	Conserved hypothetical protein	CAC49704.1	NA
+1316	NA	SMb21479	Hypothetical protein	CAC49705.1	NA
+1317	NA	SMb21480	Conserved hypothetical protein	CAC49706.1	NA
+1318	NA	SMb21481	Conserved hypothetical protein	CAC49707.1	1.1.1.205
+1319	NA	SMb21482	Hypothetical protein	CAC49708.1	NA
+1320	NA	SMb21483	Hypothetical protein	CAC49709.1	NA
+1321	NA	SMb21686	Hypothetical protein	CAC49710.1	NA
+1322	rpoE5	SMb21484	Putative RNA polymerase sigma-E factor 	CAC49711.1	NA
+1323	NA	SMb21687	Hypothetical protein	CAC49712.1	NA
+1324	NA	SMb21485	Hypothetical protein	CAC49713.1	NA
+1325	NA	SMb21486	Putative permease	CAC49714.2	NA
+1326	cyoA	SMb21487	Putative cytochrome o ubiquinol oxidase chain 	CAC49715.1	1.10.3.-
+1327	cyoB	SMb21488	Putative cytochrome o ubiquinol oxidase chain I	CAC49716.1	1.10.3.-
+1328	cyoC	SMb21489	Putative cytochrome o ubiquinol oxidase chain 	CAC49717.1	1.10.3.-
+1329	cyoD	SMb22024	Cytochrome o ubiquinol oxidase protein CyoD	CAQ51297.1	NA
+1330	NA	SMb21490	Putative SUR1-like protein, similar to 	CAC49719.1	NA
+1331	NA	SMb21491	Hypothetical exported protein	CAC49720.2	NA
+1332	NA	SMb21492	Hypothetical protein	CAC49721.1	NA
+1333	NA	SMb21493	Putative transcriptional regulator, asnC family 	CAC49722.1	NA
+1334	ocd	SMb21494	Putative ornithine cyclodeaminase	CAC49723.1	4.3.1.12
+1335	NA	SMb21689	Hypothetical protein	CAC49724.1	NA
+1336	NA	SMb21495	Hypothetical protein	CAC49725.1	NA
+1337	NA	SMb21496	Putative protease	CAC49726.1	3.4.24.40
+1338	acrE	SMb21497	Putative acriflavin resistance protein	CAC49727.1	NA
+1339	acrF	SMb21498	Putative acriflavin resistence protein	CAC49728.1	NA
+1340	NA	SMb21499	Hypothetical protein	CAC49729.1	NA
+1341	NA	SMb21500	Putative glycosyltransferase	CAC49730.1	NA
+1342	NA	SMb21501	Hypothetical membrane protein	CAC49731.1	NA
+1343	NA	SMb21502	Putative glycosyltransferase	CAC49732.1	NA
+1344	NA	SMb21503	Putative glycosyltransferase	CAC49733.1	NA
+1345	NA	SMb21504	Putative protein, slightly similar to 	CAC49734.1	NA
+1346	wzy	SMb21505	Putative membrane protein, similar to Wzy-like 	CAC49735.1	NA
+1347	NA	SMb21506	Probable exopolysaccharide transport protein	CAC49736.1	NA
+1348	NA	SMb21507	Putative amino acid exporter	CAC49737.1	NA
+1349	dapA3	SMb21508	Putative dihydrodipicolinate synthetase	CAC49738.1	4.2.1.52
+1350	NA	SMb21509	Putative plasmid stability protein	CAC49739.1	NA
+1351	NA	SMb21510	Putative plasmid stability protein	CAC49740.1	NA
+1352	NA	SMb21511	Putative plasmid stability protein	CAC49741.1	NA
+1353	NA	SMb21512	Hypothetical protein	CAC49742.1	NA
+1354	wzx2	SMb21513	Putative cell-surface polysaccharide exporter 	CAC49743.1	NA
+1355	hemK2	SMb21514	Putative modification methylase	CAC49744.1	NA
+1356	NA	SMb21515	Hypothetical protein	CAC49745.1	NA
+1357	NA	SMb21516	Conserved hypothetical protein	CAC49746.1	NA
+1358	NA	SMb21517	Hypothetical protein	CAC49747.1	NA
+1359	NA	SMb21518	Hypothetical protein	CAC49748.1	NA
+1360	NA	SMb21519	Putative two-component sensor histidine kinase	CAC49749.1	2.7.3.-
+1361	NA	SMb21520	Putative two-component response regulator	CAC49750.1	NA
+1362	NA	SMb21521	Hypothetical exported protein, glycine-rich	CAC49751.1	NA
+1363	minE	SMb21522	Putative cell division inhibitor	CAC49752.1	NA
+1364	minD	SMb21523	Putative cell division inhibitor	CAC49753.1	NA
+1365	minC	SMb21524	Putative cell division inhibitor	CAC49754.1	NA
+1366	NA	SMb20647	Hypothetical protein	CAC49755.1	NA
+1367	NA	SMb20648	Putative oxidoreductase	CAC49756.1	NA
+1368	nadE1	SMb20649	NAD+ synthase	CAC49757.1	6.3.1.5
+1369	NA	SMb20650	Long-chain-fatty-acid-CoA ligase	CAC49758.1	6.2.1.3
+1370	NA	SMb20651	Putative acyl carrier protein	CAC49759.1	NA
+1371	asnB	SMb20652	Putative asparagine synthetase	CAC49760.1	6.3.5.4
+1372	NA	SMb20654	Hypothetical protein	CAC49761.1	NA
+1373	NA	SMb20655	Conserved hypothetical protein	CAC49762.1	NA
+1374	NA	SMb20656	Putative oxidoreductase	CAC49763.1	NA
+1375	NA	SMb20657	Hypothetical protein	CAC49764.1	NA
+1376	NA	SMb20658	Putative sugar uptake ABC transporter permease	CAC49765.1	NA
+1377	NA	SMb20659	Putative sugar uptake ABC transporter permease	CAC49766.1	NA
+1378	NA	SMb20660	Putative sugar uptake ABC transporter 	CAC49767.1	NA
+1379	NA	SMb20661	Putative sugar uptake ABC transporter 	CAC49768.1	NA
+1380	NA	SMb20662	3-oxoacyl-[acyl-carrier-protein] reductase	CAC49769.1	1.1.1.100
+1381	NA	SMb20663	Conserved hypothetical protein	CAC49770.1	NA
+1382	NA	SMb20664	Putative transcriptional regulator, GntR family 	CAC49771.1	NA
+1383	NA	SMb21614	Putative partial transposase of insertion 	CAC49772.1	NA
+1384	NA	SMb20666	L-fuculose-phosphate aldolase	CAC49773.1	4.1.2.17
+1385	NA	SMb20667	Putative transcriptional repressor	CAC49774.1	NA
+1386	NA	SMb20668	Putative 3-hydroxyisobutyrate dehydrogenase	CAC49775.1	1.1.1.31
+1387	NA	SMb20669	Hydroxypyruvate isomerase	CAC49776.1	5.3.1.22
+1388	NA	SMb20670	Conserved hypothetical protein	CAC49777.1	NA
+1389	NA	SMb20671	Putative sugar uptake ABC transporter 	CAC49778.1	NA
+1390	NA	SMb20672	Putative sugar ABC transporter	CAC49779.1	NA
+1391	NA	SMb20673	Putative sugar uptake ABC transporter 	CAC49780.1	NA
+1392	NA	SMb20674	Putative transcriptional regulator, LacI family 	CAC49781.1	NA
+1393	NA	SMb20675	Conserved hypothetical protein	CAC49782.1	NA
+1394	NA	SMb20676	Hypothetical protein	CAC49783.1	NA
+1395	NA	SMb20677	Putative ureidoglycolate hydrolase	CAC49784.1	3.5.3.19
+1396	ttuD2	SMb20678	Putative hydroxypyruvate reductase	CAC49785.1	1.1.1.81
+1397	QglxR	SMb20679	Probable tartronic semialdehyde reductase	CAC49786.1	1.1.1.60
+1398	hyi	SMb20680	Putative hydroxypyruvate isomerase	CAC49787.1	5.3.1.22
+1399	gcl	SMb20681	Putative glyoxylate carboligase	CAC49788.1	4.1.1.47
+1400	iclR	SMb20682	Putative acetate operon repressor IclR protein	CAC49789.1	NA
+1401	NA	SMb20683	Putative transcriptional regulator, LysR family 	CAC49790.1	NA
+1402	NA	SMb20684	Conserved hypothetical protein	CAC49791.1	NA
+1403	NA	SMb20685	Putative DNA ligase	CAC49792.1	6.5.1.1
+1404	NA	SMb20686	Putative DNA ligase	CAC49793.1	6.5.1.2
+1405	NA	SMb20687	Probable O-linked GlcNAc transferase	CAC49794.1	NA
+1406	NA	SMb20688	Conserved hypothetical protein	CAC49795.1	NA
+1407	xthA4	SMb20689	Probable exodeoxyribonuclease III	CAC49796.1	3.1.11.2
+1408	NA	SMb20690	Hypothetical protein	CAC49797.1	NA
+1409	NA	SMb20691	Hypothetical protein	CAC49798.1	NA
+1410	idnO1	SMb20692	Putative 5-keto-D-gluconate 5-reductase	CAC49799.1	1.1.1.69
+1411	NA	SMb20694	Putative choline dehydrogenase	CAC49801.1	1.1.99.1
+1412	NA	SMb20695	Hypothetical protein	CAC49802.1	NA
+1413	NA	SMb20696	Hypothetical protein	CAC49803.1	NA
+1414	NA	SMb20697	Putative amino acid degradation protein	CAC49804.1	NA
+1415	NA	SMb20698	Putative transport protein, similar to E. coli 	CAC49805.1	NA
+1416	NA	SMb20699	Putative multidrug resistance efflux protein	CAC49806.1	NA
+1417	NA	SMb20700	Conserved hypothetical exported protein	CAC49807.1	NA
+1418	NA	SMb20701	Conserved hypothetical protein	CAC49808.1	NA
+1419	NA	SMb20702	Putative regulatory protein, possibly 	CAC49809.1	NA
+1420	NA	SMb20703	Conserved hypothetical protein	CAC49810.1	NA
+1421	glgA2	SMb20704	Putative glycogen synthase	CAC49811.1	2.4.1.21
+1422	NA	SMb20705	Conserved hypothetical membrane protein	CAC49812.1	NA
+1423	NA	SMb20706	Putative amino acid uptake ABC transporter 	CAC49813.1	NA
+1424	cyaG2	SMb20707	Putative adenylate cyclase	CAC49814.1	4.6.1.1
+1425	NA	SMb20708	Putative methylated-DNA--protein-cysteine 	CAC49815.1	2.1.1.63
+1426	NA	SMb20709	Putative 3-methyladenine DNA glycosylase	CAC49816.1	3.2.2.21
+1427	NA	SMb20710	3-hydroxyisobutyrate dehydrogenase	CAC49817.1	1.1.1.31
+1428	NA	SMb20711	Epimerase/isomerase	CAC49818.1	NA
+1429	NA	SMb20712	ABC transporter, periplasmic solute-binding 	CAC49819.1	NA
+1430	NA	SMb20713	ABC transporter, ATP binding protein	CAC49820.2	NA
+1431	NA	SMb20714	ABC transporter, permease	CAC49821.1	NA
+1432	NA	SMb20715	Putative transcriptional regulator, LysR family 	CAC49822.1	NA
+1433	NA	SMb20716	Conserved hypothetical membrane protein	CAC49823.1	NA
+1434	NA	SMb20717	Putative transcriptional regulator, LacI family 	CAC49824.1	NA
+1435	NA	SMb20718	Putative sugar uptake ABC transporter 	CAC49825.1	NA
+1436	NA	SMb20719	Putative sugar ABC transporter	CAC49826.1	NA
+1437	NA	SMb20720	Putative sugar uptake ABC transporter 	CAC49827.1	NA
+1438	NA	SMb20721	Putative two-component sensor histidine kinase	CAC49828.1	2.7.3.-
+1439	NA	SMb20722	Putative two-component response regulator	CAC49829.1	NA
+1440	NA	SMb20723	Putative iron ABC transporter periplasmic 	CAC49830.1	NA
+1441	NA	SMb20724	Conserved hypothetical exported protein	CAC49831.1	NA
+1442	NA	SMb20725	Hypothetical membrane protein	CAC49832.1	NA
+1443	NA	SMb20726	Conserved hypothetical membrane protein	CAC49833.1	NA
+1444	NA	SMb20727	Hypothetical protein	CAC49834.1	NA
+1445	NA	SMb20728	Hypothetical protein	CAC49835.1	NA
+1446	NA	SMb20729	Conserved hypothetical protein	CAC49836.1	NA
+1447	NA	SMb22016	Hypothetical protein	CAQ51298.1	NA
+1448	glnII	SMb20745	Glutamate-ammonia ligase	CAC49837.1	6.3.1.2
+1449	gstI	SMb20746	Glutamine synthetase translation inhibitor	CAC49838.1	NA
+1450	NA	SMb20747	Hypothetical enzyme, haloacid 	CAC49839.1	NA
+1451	pssF	SMb20748	Putative glycosyltransferase	CAC49840.1	NA
+1452	uxuB	SMb20749	Probable mannitol dehydrogenase	CAC49841.1	1.1.1.57
+1453	NA	SMb20750	Gluconate 5-dehydrogenase	CAC49842.1	1.1.1.69
+1454	NA	SMb20751	Putative 3-hydroxyisobutyrate dehydrogenase	CAC49843.1	1.1.1.31
+1455	NA	SMb20752	Putative enoyl-CoA hydratase	CAC49844.1	4.2.1.17
+1456	NA	SMb20753	Acyl-CoA dehydrogenase	CAC49845.1	1.3.99.3
+1457	NA	SMb20754	Probable transcriptional regulator	CAC49846.1	NA
+1458	pccB	SMb20755	Putative propionyl-CoA carboxylase beta chain	CAC49847.1	6.4.1.3
+1459	pccA	SMb20756	Putative propionyl-CoA carboxylase alpha chain	CAC49848.1	6.4.1.3
+1460	bhbA	SMb20757	Methylmalonyl-CoA mutase	CAC49849.1	5.4.99.2
+1461	NA	SMb20758	Putative transcriptional regulator, GntR or ArsR 	CAC49850.2	NA
+1462	phnG	SMb20759	Probable protein PhnG	CAC49851.1	NA
+1463	phnH	SMb20760	Probable protein PhnH	CAC49852.1	NA
+1464	phnI	SMb20761	Uncharacterized enzyme of phosphonate 	CAC49853.1	NA
+1465	phnJ	SMb20762	Uncharacterized enzyme of phosphonate 	CAC49854.1	NA
+1466	phnK	SMb20763	Putative phosphonate uptake ABC transporter 	CAC49855.1	NA
+1467	phnL	SMb20764	Putative phosphonate uptake ABC transporter 	CAC49856.1	NA
+1468	NA	SMb21609	Chloramphenicol O-acetyltransferase	CAC49857.1	2.3.1.28
+1469	TRm22	SMb20766	Putative transposase of insertion sequence 	CAC49858.1	NA
+1470	dak	SMb20767	Putative dihydroxyacetone (glycerone) kinase	CAC49859.1	2.7.1.29
+1471	NA	SMb20768	Hypothetical protein	CAC49860.1	NA
+1472	NA	SMb20769	Conserved hypothetical membrane protein	CAC49861.1	NA
+1473	NA	SMb20770	Conserved hypothetical membrane protein	CAC49862.1	NA
+1474	NA	SMb20771	Conserved hypothetical protein	CAC49863.1	NA
+1475	pdxA2	SMb20772	Probable pyridoxal phosphate biosynthetic 	CAC49864.1	1.1.1.262
+1476	NA	SMb20773	Putative transcriptional regulator, GntR family 	CAC49865.1	NA
+1477	NA	SMb20774	Hypothetical protein	CAC49866.1	NA
+1478	NA	SMb20775	Hypothetical exported protein, TonB-dependent 	CAC49867.1	NA
+1479	cyaK	SMb21608	Putative adenylate cyclase	CAC49868.1	4.6.1.1
+1480	TRm19	SMb21705	Putative transposase of insertion sequence 	CAC49869.1	NA
+1481	TRm2011-2b-2	SMb20778	Putative transposase of insertion sequence 	CAC49870.2	NA
+1482	NA	SMb20779	Hypothetical protein of ISRm2011-2, orfC 	CAC49871.2	NA
+1483	NA	SMb20780	RNA-directed DNA polymerase	CAC49872.1	2.7.7.49
+1484	TRm2011-2b-1	SMb21702	Putative transposase of insertion sequence 	CAC49874.2	NA
+1485	NA	SMb21703	Hypothetical protein of ISRm2011-2, orfC 	CAC49873.2	NA
+1486	TRm2011-2a	SMb20783	Putative transposase of insertion sequence 	CAC49875.1	NA
+1487	NA	SMb20784	Putative branched-chain amino acid uptake ABC 	CAC49876.1	NA
+1488	NA	SMb20785	ABC transporter, ATP-binding protein	CAC49877.1	NA
+1489	NA	SMb20786	ABC transporter, permease	CAC49878.1	NA
+1490	NA	SMb20787	ABC transporter, permease	CAC49879.1	NA
+1491	NA	SMb20568	ABC transporter, periplasmic solute-binding 	CAC49880.1	NA
+1492	NA	SMb20569	ABC transporter, ATP-binding protein	CAC49881.1	NA
+1493	NA	SMb20570	ABC transporter, periplasmic solute-binding 	CAC49882.1	NA
+1494	NA	SMb20571	ABC transporter, permease	CAC49883.1	NA
+1495	NA	SMb21691	Alkanesulfonate monooxygenase	CAC49884.1	1.14.14.5
+1496	NA	SMb20573	FMN reductase	CAC49885.1	1.5.1.29
+1497	NA	SMb20574	(1->4)-alpha-D-glucan 1-alpha-D-glucosylmutase	CAC49886.1	5.4.99.15
+1498	pcaB	SMb20575	3-carboxy-cis,cis-muconate cycloisomerase	CAC49887.1	5.5.1.2
+1499	pcaG	SMb20576	Protocatechuate 3,4-dioxygenase alpha chain	CAC49888.1	1.13.11.3
+1500	pcaH	SMb20577	Protocatechuate 3,4-dioxygenase beta chain	CAC49889.1	1.13.11.3
+1501	pcaC	SMb20578	Gamma carboxymuconolactone decarboxylase	CAC49890.1	4.1.1.44
+1502	pcaD	SMb20579	Beta-ketoadipate enol-lactone hydrolase	CAC49891.1	3.1.1.24
+1503	pcaQ	SMb20580	PcaQ transcriptional activator	CAC49892.1	NA
+1504	NA	SMb20581	Putative 4-hydroxyphenylpyruvate dioxygenase	CAC49893.1	1.13.11.27
+1505	NA	SMb20582	Putative transcriptional regulator, LysR family 	CAC49894.1	NA
+1506	pobA	SMb20583	Putative 4-hydroxybenzoate hydroxylase	CAC49895.1	1.14.13.2
+1507	NA	SMb20584	Putative oxidoreductase	CAC49896.2	1.7.1.1
+1508	ggt	SMb20585	Putative gamma-glutamyltranspeptidase	CAC49897.1	2.3.2.2
+1509	pcaR	SMb20586	Transcriptional regulator	CAC49898.1	NA
+1510	pcaI	SMb20587	Beta-ketoadipate succinyl-CoA transferase	CAC49899.1	2.8.3.6
+1511	pcaJ	SMb20588	Beta-ketoadipate succinyl-CoA transferase	CAC49900.1	2.8.3.6
+1512	pcaF	SMb20589	Acetyl-CoA C-acyltransferase	CAC49901.1	2.3.1.16
+1513	NA	SMb20590	Putative acylphosphatase	CAC49902.1	3.6.1.7
+1514	NA	SMb20591	Hypothetical protein	CAC49903.1	NA
+1515	rpoE8	SMb20592	RNA polymerase sigma factor, ECF subfamily 	CAC49904.1	NA
+1516	NA	SMb20593	Hypothetical protein	CAC49905.1	NA
+1517	amcY	SMb20594	Putative amicyanin precursor protein	CAC49906.1	NA
+1518	ftsK2	SMb20595	Putative cell division protein FtsK like 	CAC49907.1	NA
+1519	NA	SMb20596	Conserved hypothetical protein	CAC49908.1	NA
+1520	NA	SMb20597	Putative membrane protein	CAC49909.1	NA
+1521	repA3	SMb20598	Probable replication protein	CAC49910.1	NA
+1522	repB3	SMb20599	Putative smb01f11-replication protein	CAC49911.1	NA
+1523	NA	SMb20600	Hypothetical protein	CAC49912.1	NA
+1524	NA	SMb21707	ABC transporter, ATP-binding protein	CAC49913.1	NA
+1525	NA	SMb20602	ABC transporter, ATP-binding protein	CAC49914.1	NA
+1526	NA	SMb20603	ABC transporter, permease	CAC49915.1	NA
+1527	NA	SMb20604	ABC transporter, permease	CAC49916.1	NA
+1528	NA	SMb20605	ABC transporter, periplasmic solute-binding 	CAC49917.1	NA
+1529	NA	SMb20606	Hypothetical protein	CAC49918.1	NA
+1530	NA	SMb20607	Conserved hypothetical protein	CAC49919.1	NA
+1531	NA	SMb20608	Putative transcriptional regulator, ArsR family 	CAC49920.1	NA
+1532	NA	SMb20609	Putative two-component sensor histidine kinase	CAC49921.1	NA
+1533	NA	SMb20610	Putative two-component response regulator	CAC49922.1	NA
+1534	dctA	SMb20611	C4-dicarboxylate transport protein	CAC49923.1	NA
+1535	dctB	SMb20612	C4-dicarboxylate transport sensor protein	CAC49924.1	2.7.3.-
+1536	dctD	SMb20613	C4-dicarboxylate transport transcriptional 	CAC49925.1	NA
+1537	NA	SMb20614	Hypothetical protein	CAC49926.1	NA
+1538	thiC	SMb20615	Putative thiamine biosynthesis protein	CAC49927.1	NA
+1539	thiO	SMb20616	Putative thiamine biosynthesis oxidoreductase	CAC49928.1	NA
+1540	thiG	SMb20617	Putative thiamine biosynthesis protein	CAC49929.1	NA
+1541	thiE	SMb20618	Putative thiamine-phosphate pyrophosphorylase	CAC49930.1	2.5.1.3
+1542	NA	SMb20619	Probable transcriptional regulator	CAC49931.1	2.7.1.29
+1543	NA	SMb20620	Putative sugar ABC transporter	CAC49932.1	NA
+1544	NA	SMb20621	Putative sugar uptake ABC transporter permease	CAC49933.1	NA
+1545	NA	SMb20622	Putative sugar uptake ABC transporter 	CAC49934.1	NA
+1546	NA	SMb20623	S-methyl-5-thioribose kinase	CAC49935.1	2.7.1.100
+1547	NA	SMb20624	Probable translation initiation factor subunit	CAC49936.1	5.3.1.23
+1548	NA	SMb20625	Putative sugar efflux transporter	CAC49937.1	NA
+1549	NA	SMb20626	Putative transcriptional regulator, AraC family 	CAC49938.1	NA
+1550	NA	SMb20627	Conserved hypothetical protein	CAC49939.1	NA
+1551	NA	SMb20628	Conserved hypothetical protein	CAC49940.1	NA
+1552	NA	SMb20629	Hypothetical protein	CAC49941.1	NA
+1553	NA	SMb20630	Putative sugar uptake ABC transporter 	CAC49942.1	NA
+1554	NA	SMb20631	Conserved hypothetical protein	CAC49943.1	NA
+1555	NA	SMb20632	Putative sugar uptake ABC transporter permease	CAC49944.1	NA
+1556	NA	SMb20633	Putative sugar uptake ABC transporter permease	CAC49945.1	NA
+1557	NA	SMb20634	Putative sugar uptake ABC transporter 	CAC49946.1	NA
+1558	NA	SMb22017	Mutated LacI family transcriptional regulator	CAQ51299.1	NA
+1559	NA	SMb21607	Putative transcriptional regulator, LacI family 	CAC49947.1	NA
+1560	TRm19	SMb20636	Putative transposase of insertion sequence 	CAC49948.2	NA
+1561	NA	SMb21630	Conserved hypothetical protein	CAC49949.1	NA
+1562	nspC	SMb21631	Putative carboxynorspermidine decarboxylase	CAC49950.1	4.1.1.-
+1563	NA	SMb21632	Putative 3-hydroxyacyl-CoA dehydrogenase	CAC49951.1	1.1.1.35
+1564	paaG	SMb21633	Putative enoyl-CoA hydratase	CAC49952.1	4.2.1.17
+1565	NA	SMb21634	ADP-dependent short-chain-acyl-CoA hydrolase 	CAC49953.1	3.1.2.18
+1566	paaZ	SMb21635	Aldehyde dehydrogenase (NAD+)	CAC49954.2	1.2.1.3
+1567	paaE	SMb21636	Probable phenylacetic acid degradation 	CAC49955.1	1.-.-.-
+1568	paaD	SMb21637	Putative phenylacetic acid degradation protein	CAC49956.1	NA
+1569	paaC	SMb21638	Putative phenylacetic acid degradation protein	CAC49957.1	NA
+1570	paaB	SMb21639	Putative phenylacetic acid degradation protein	CAC49958.1	NA
+1571	paaA	SMb21640	Putative phenylacetic acid degradation protein	CAC49959.1	NA
+1572	paaX	SMb21641	Putative regulator of phenylacetic acid 	CAC49960.1	NA
+1573	NA	SMb21642	Hypothetical exported protein	CAC49961.1	NA
+1574	agaL2	SMb21643	Probable alpha-galactosidase (melibiase)	CAC49962.1	3.2.1.22
+1575	agpD	SMb21644	ABC-type alpha-galactoside transport system, 	CAC49963.1	NA
+1576	agpC	SMb21645	ABC-type alpha-galactoside transport system, 	CAC49964.1	NA
+1577	agpB	SMb21646	ABC-type alpha-galactoside transport system, 	CAC49965.1	NA
+1578	agpA	SMb21647	Periplasmic alpha-galactoside binding protein	CAC49966.1	NA
+1579	melA	SMb21648	Alpha-galactosidase, melibiase	CAC49967.1	3.2.1.22
+1580	agpT	SMb21649	AraC-type transcription activator of the 	CAC49968.1	NA
+1581	lacR	SMb21650	Putative lacI-type transcriptional regulator	CAC49969.1	NA
+1582	NA	SMb21651	Putative plasmid stability protein	CAC49970.1	NA
+1583	NA	SMb22018	Hypothetical protein	CAQ51300.1	NA

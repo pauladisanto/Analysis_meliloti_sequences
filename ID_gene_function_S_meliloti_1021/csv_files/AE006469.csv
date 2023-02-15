@@ -1,0 +1,1294 @@
+	gene	locus_tag	product	protein_id	EC_number
+0	fdoG	SMa0002	formate dehydrogenase, major subunit (formate 	AAK64659.1	1.2.1.2
+1	fdoH	SMa0005	formate dehydrogenase-O, iron-sulfur subunit	AAK64660.1	1.2.1.2
+2	fdoI	SMa0007	formate dehydrogenase, cytochrome B556 (FDO) 	AAK64661.1	1.2.1.2
+3	fdhE	SMa0009	Formate dehydrogenase accessory protein FdhE	AAK64662.1	NA
+4	selA	SMa0011	L-seryl-tRNA selenium transferase	AAK64663.1	2.9.1.1
+5	NA	SMa0013	hypothetical protein	AAK64664.2	NA
+6	selB	SMa0015	Selenocysteine-specific elongation factor	AAK64665.1	NA
+7	NA	SMa0017	hypothetical protein	AAK64666.1	NA
+8	NA	SMa3000	hypothetical protein	ACF07957.1	NA
+9	NA	SMa0018	TRm2011-2a transposase	AAK64667.1	NA
+10	NA	SMa0020	TRm2011-2b transposase	AAK64668.1	NA
+11	NA	SMa0021	hypothetical protein	AAK64669.1	NA
+12	selC	SMa0022	tRNA-Sec	NA	NA
+13	NA	SMa5014	hypothetical protein	ACF07958.1	NA
+14	NA	SMa0025	hypothetical protein	AAK64670.2	NA
+15	NA	SMa0026	hypothetical protein predicted by Glimmer	AAK64671.1	NA
+16	selD	SMa0028	selenide, water dikinase	AAK64672.1	2.7.9.3
+17	NA	SMa0031	conserved hypothetical protein	AAK64673.1	NA
+18	NA	SMa0034	Serralysin-like metalloprotease	AAK64674.1	3.4.24.40
+19	NA	SMa0036	ABC transporter, ATP-binding protein	AAK64675.1	NA
+20	NA	SMa0039	Transcriptional regulator, LysR family	AAK64676.2	NA
+21	NA	SMa0041	zinc dependent oxidoreductase-releated quinone 	AAK64677.2	NA
+22	NA	SMa0044	conserved hypothetical protein	AAK64678.1	NA
+23	cah	SMa0045	NA	AAK64679.1	4.2.1.1
+24	NA	SMa5015	hypothetical protein	ACF07959.1	NA
+25	NA	SMa0050	hypothetical protein	AAK64681.1	NA
+26	NA	SMa0052	hypothetical protein	AAK64682.1	NA
+27	NA	SMa0056	dehydratase/enolase	AAK64683.1	NA
+28	NA	SMa0058	N-acylglucosamine 2-epimerase family protein	AAK64684.1	5.-.-.-
+29	NA	SMa0059	short chain alcohol dehydrogenase-related 	AAK64685.1	NA
+30	NA	SMa0060	gluconolactonase/regucalcin homolog	AAK64686.1	NA
+31	NA	SMa0062	Transcriptional regulator, GntR family	AAK64687.1	NA
+32	NA	SMa0063	Transcriptional regulator, GntR family	AAK64688.2	NA
+33	NA	SMa0064	dehydratase/enolase	AAK64689.2	NA
+34	NA	SMa0065	Transcriptional regulator, GntR family	AAK64690.1	NA
+35	NA	SMa0067	ABC transporter, periplasmic solute-binding 	AAK64691.1	NA
+36	NA	SMa0070	ABC transporter permease	AAK64692.1	NA
+37	NA	SMa0072	ABC transporter, ATP-binding protein	AAK64693.1	NA
+38	NA	SMa0074	short chain alcohol dehydrogenase-related 	AAK64694.1	NA
+39	NA	SMa0077	conserved hypothetical protein	AAK64695.1	NA
+40	NA	SMa0078	Transcriptional regulator, LacI family	AAK64696.1	NA
+41	NA	SMa0079	ABC transporter, permease	AAK64697.1	NA
+42	NA	SMa0081	ABC transporter, permease	AAK64698.1	NA
+43	NA	SMa0082	ABC transporter, periplasmic solute-binding 	AAK64699.1	NA
+44	NA	SMa0083	ABC transporter, ATP-binding protein	AAK64700.1	NA
+45	NA	SMa0085	dehydrogenase	AAK64701.1	NA
+46	NA	SMa0087	conserved hypothetical protein	AAK64702.1	NA
+47	NA	SMa0089	conserved hypothetical protein	AAK64703.1	NA
+48	NA	SMa0091	conserved hypothetical protein	AAK64704.1	NA
+49	NA	SMa0093	Branched-chain amino acid aminotransferase	AAK64705.1	2.6.1.21
+50	NA	SMa0095	D-aminopeptidase	AAK64706.1	3.4.11.19
+51	NA	SMa0097	Transcriptional regulator, LysR family	AAK64707.1	NA
+52	NA	SMa0101	Amidohydrolase, may be involved in metabolism of 	AAK64708.1	NA
+53	NA	SMa0104	ABC transporter, periplasmic solute-binding 	AAK64709.1	NA
+54	NA	SMa0105	ABC transporter, permease, likely involved in 	AAK64710.1	NA
+55	NA	SMa0106	ABC transporter, permease, likely involved in 	AAK64711.1	NA
+56	NA	SMa0108	ABC transporter, ATP-binding protein, likely 	AAK64712.1	NA
+57	NA	SMa0110	ABC transporter, ATP-binding protein, likely 	AAK64713.1	NA
+58	NA	SMa5001	hypothetical protein	ACF07960.1	NA
+59	NA	SMa0112	conserved hypothetical protein	AAK64714.1	NA
+60	NA	SMa0113	Sensor histidine kinase	AAK64715.1	NA
+61	NA	SMa0114	two-component response regulator	AAK64716.1	NA
+62	NA	SMa0116	DnaJ/CbpA-type protein	AAK64717.2	NA
+63	NA	SMa0117	hypothetical protein	AAK64718.1	NA
+64	NA	SMa0118	hypothetical protein	AAK64719.1	NA
+65	NA	SMa0121	hypothetical protein	AAK64720.1	NA
+66	NA	SMa0123	hypothetical protein	AAK64721.1	NA
+67	groEL3	SMa0124	60 kDa chaperonin	AAK64722.1	NA
+68	groES3	SMa0125	10 kDa chaperonin	AAK64723.1	NA
+69	cspA8	SMa0126	CspA8 Cold shock family protein	AAK64724.1	NA
+70	NA	SMa0128	hypothetical protein	AAK64725.1	NA
+71	NA	SMa0130	Fatty acid desaturase	AAK64726.1	1.14.99.-
+72	NA	SMa0132	hypothetical protein	AAK64727.1	NA
+73	NA	SMa0134	conserved hypothetical protein	AAK64728.1	NA
+74	NA	SMa5002	conserved hypothetical protein	ACF07961.1	NA
+75	NA	SMa0136	conserved hypothetical protein	AAK64729.2	NA
+76	NA	SMa0137	Diguanylate cyclase/phosphodiesterase	AAK64730.2	NA
+77	NA	SMa0139	conserved hypothetical protein	AAK64731.1	NA
+78	NA	SMa0142	extracellular serine protease	AAK64732.1	3.4.21.-
+79	rpoE6	SMa0143	RNA polymerase ECF sigma factor	AAK64733.2	NA
+80	NA	SMa0144	hypothetical protein	AAK64734.1	NA
+81	NA	SMa0146	hypothetical protein	AAK64735.1	NA
+82	NA	SMa0148	conserved hypothetical protein	AAK64736.1	NA
+83	NA	SMa0149	conserved hypothetical protein	AAK64737.1	NA
+84	NA	SMa0150	fatty acid CoA ligase	AAK64738.1	6.2.1.-
+85	NA	SMa0151	TRAP-type uncharacterized transport system, 	AAK64739.2	NA
+86	NA	SMa0155	Putative ATP- independent periplasmic 	AAK64740.1	NA
+87	NA	SMa0157	ABC transporter, periplasmic solute-binding 	AAK64741.1	NA
+88	NA	SMa0160	Transcriptional regulator, GntR family	AAK64742.1	NA
+89	NA	SMa0162	hypothetical protein	AAK64743.2	NA
+90	pilQ2	SMa0163	PilQ2 pilus assembly protein	AAK64744.2	NA
+91	NA	SMa0164	hypothetical protein	AAK64745.1	NA
+92	NA	SMa0166	conserved hypothetical protein	AAK64746.1	NA
+93	NA	SMa0168	conserved hypothetical protein	AAK64747.1	NA
+94	NA	SMa0169	putative methyltransferase	AAK64748.1	NA
+95	NA	SMa0171	conserved hypothetical protein	AAK64749.1	NA
+96	NA	SMa0172	conserved hypothetical protein	AAK64750.1	NA
+97	NA	SMa0175	conserved hypothetical protein	AAK64751.1	NA
+98	NA	SMa0179	Transcriptional regulator, LysR family	AAK64752.1	NA
+99	NA	SMa0180	epimerase	AAK64753.1	NA
+100	cspA7	SMa0181	CspA7 cold shock protein	AAK64754.1	NA
+101	NA	SMa0185	conserved hypothetical protein	AAK64755.1	NA
+102	NA	SMa0187	short chain alcohol dehydrogenase-related 	AAK64756.2	NA
+103	NA	SMa0189	hypothetical protein	AAK64757.1	NA
+104	NA	SMa0190	putative transcriptional regulator	AAK64758.1	NA
+105	NA	SMa0191	conserved hypothetical protein	AAK64759.1	NA
+106	NA	SMa0193	conserved hypothetical protein	AAK64760.2	NA
+107	NA	SMa0196	gluconolactonase	AAK64761.1	3.1.1.17
+108	NA	SMa0197	ABC transporter, permease, likely transports 	AAK64762.2	NA
+109	NA	SMa0198	ABC transporter, permease, likely transports 	AAK64763.1	NA
+110	NA	SMa0199	ABC transporter, ATP-binding protein, likely 	AAK64764.1	NA
+111	NA	SMa0203	ABC transporter, periplasmic solute-binding 	AAK64765.2	NA
+112	NA	SMa0204	sensor histidine kinase	AAK64766.1	NA
+113	NA	SMa0206	Response regulator	AAK64767.1	NA
+114	NA	SMa0209	conserved hypothetical protein	AAK64768.1	NA
+115	NA	SMa0210	hypothetical protein	AAK64769.2	NA
+116	NA	SMa0211	hypothetical protein	AAK64770.1	NA
+117	kduI	SMa0214	putative KduI DKI isomerase	AAK64771.2	NA
+118	NA	SMa0216	ABC transporter, ATP-binding protein	AAK64772.1	NA
+119	NA	SMa0217	ABC transporter, permease	AAK64773.2	NA
+120	NA	SMa0218	ABC transporter, periplasmic solute-binding 	AAK64774.2	NA
+121	NA	SMa0220	NAD-dependent aldehyde dehydrogenase	AAK64775.1	NA
+122	NA	SMa0222	Transcriptional regulator, GntR family	AAK64776.1	NA
+123	NA	SMa0223	Transcriptional regulator, TetR family	AAK64777.2	NA
+124	NA	SMa0224	Permease, MFS	AAK64778.2	NA
+125	NA	SMa0226	dehydrogenase	AAK64779.2	NA
+126	gdhA	SMa0228	NADP-specific glutamate dehydrogenase	AAK64780.1	1.4.1.4
+127	NA	SMa0229	conserved hypothetical protein	AAK64781.1	NA
+128	NA	SMa0232	conserved hypothetical protein	AAK64782.2	NA
+129	otsA	SMa0233	OtsA trehalose-6-phosphate synthase	AAK64783.1	2.4.1.15
+130	NA	SMa0235	dihydroxy-acid dehydratase	AAK64784.1	4.2.1.9
+131	NA	SMa0237	dehydrogenase	AAK64785.1	NA
+132	NA	SMa0241	epimerase	AAK64786.1	NA
+133	NA	SMa0244	Dehydrogenase, FAD-dependent	AAK64787.1	NA
+134	NA	SMa0246	Transcriptional regulator, GntR family	AAK64788.2	NA
+135	NA	SMa0247	conserved hypothetical protein	AAK64789.1	NA
+136	NA	SMa0249	TRAP-type small permease component, may 	AAK64790.1	NA
+137	NA	SMa0250	TRAP-type large permease component, may 	AAK64791.1	NA
+138	NA	SMa0252	TRAP-type periplasmic solute-binding protein, 	AAK64792.1	NA
+139	NA	SMa0254	conserved hypothetical protein	AAK64793.1	NA
+140	NA	SMa0255	conserved hypothetical protein	AAK64794.1	NA
+141	NA	SMa0257	oxidoreductase	AAK64795.1	NA
+142	NA	SMa0259	conserved hypothetical protein	AAK64796.1	NA
+143	gabD3	SMa0260	GabD3 succinate-semialdehyde dehdyrogenase	AAK64797.1	1.2.1.16
+144	NA	SMa0263	alcohol dehydrogenase	AAK64798.1	1.1.1.-
+145	NA	SMa0265	dehydrogenase	AAK64799.1	NA
+146	NA	SMa0267	Transcriptional regulator, GntR family	AAK64800.1	NA
+147	NA	SMa0270	ABC transporter, ATP-binding protein	AAK64801.1	NA
+148	NA	SMa0271	ABC transporter, permease	AAK64802.1	NA
+149	NA	SMa0273	ABC transporter, periplasmic solute-binding 	AAK64803.1	NA
+150	NA	SMa0275	conserved hypothetical protein	AAK64804.1	NA
+151	NA	SMa0277	conserved hypothetical protein	AAK64805.1	NA
+152	NA	SMa5016	hypothetical protein	ACF07962.1	NA
+153	NA	SMa0279	conserved hypothetical protein	AAK64807.1	NA
+154	NA	SMa0280	conserved hypothetical protein	AAK64808.1	NA
+155	NA	SMa0281	Transcriptional regulator, MerR/CueR family	AAK64809.1	NA
+156	NA	SMa0285	conserved hypothetical protein	AAK64810.2	NA
+157	NA	SMa0286	hypothetical protein	AAK64811.1	NA
+158	NA	SMa0287	conserved hypothetical protein	AAK64812.1	NA
+159	NA	SMa0288	conserved hypothetical protein	AAK64813.1	NA
+160	NA	SMa0291	conserved hypothetical protein	AAK64814.1	NA
+161	NA	SMa0293	conserved hypothetical protein	AAK64816.2	NA
+162	NA	SMa0298	ABC transporter, ATP-binding protein	AAK64817.1	NA
+163	NA	SMa0299	ABC transporter, permease	AAK64818.1	NA
+164	NA	SMa0300	ABC transporter, permease	AAK64819.1	NA
+165	NA	SMa0301	hypothetical protein	AAK64820.1	NA
+166	NA	SMa0302	ABC transporter, periplasmic solute-binding 	AAK64821.1	NA
+167	NA	SMa0303	Transcriptional regulator, LysR family	AAK64822.1	NA
+168	NA	SMa0306	histidine ammonia-lyase	AAK64823.1	4.3.1.3
+169	NA	SMa0307	Transcriptional regulator, LysR family	AAK64824.1	NA
+170	NA	SMa0308	conserved hypothetical protein	AAK64825.1	NA
+171	NA	SMa0310	hypothetical protein	AAK64826.1	NA
+172	NA	SMa0312	hypothetical protein	AAK64827.1	NA
+173	NA	SMa0314	conserved hypothetical protein	AAK64828.1	NA
+174	NA	SMa0316	conserved hypothetical protein	AAK64829.1	NA
+175	NA	SMa0319	Transcriptional regulator, AraC family	AAK64830.1	NA
+176	NA	SMa0320	short chain alcohol dehydrogenase-related 	AAK64831.1	NA
+177	NA	SMa0322	conserved hypothetical protein	AAK64832.1	NA
+178	NA	SMa0323	conserved hypothetical protein	AAK64833.1	NA
+179	NA	SMa0325	conserved hypothetical protein	AAK64834.1	NA
+180	NA	SMa0326	short chain alcohol dehydrogenase-related 	AAK64835.1	NA
+181	NA	SMa0329	short chain alcohol dehydrogenase-related 	AAK64836.1	NA
+182	NA	SMa5017	hypothetical protein	ACF07963.1	NA
+183	NA	SMa0333	conserved hypothetical protein	AAK64837.1	NA
+184	NA	SMa0335	short chain alcohol dehydrogenase-related 	AAK64838.1	NA
+185	NA	SMa0337	hypothetical protein	AAK64839.1	NA
+186	NA	SMa0339	short chain alcohol dehydrogenase-related 	AAK64840.1	NA
+187	wrbA2	SMa0340	WrbA2 flavoprotein	AAK64841.1	NA
+188	NA	SMa0341	conserved hypothetical protein	AAK64842.1	NA
+189	NA	SMa0343	conserved hypothetical protein	AAK64843.1	NA
+190	NA	SMa0346	NAD(P)H dehydrogenase	AAK64844.1	NA
+191	NA	SMa0347	Transcriptional regulator, LysR family	AAK64845.1	NA
+192	NA	SMa0349	conserved hypothetical protein	AAK64846.1	NA
+193	NA	SMa0352	conserved hypothetical protein	AAK64847.1	NA
+194	NA	SMa0353	Transcriptional regulator, LysR family	AAK64848.1	NA
+195	NA	SMa0355	Transcriptional regulator, LysR family	AAK64849.2	NA
+196	NA	SMa0357	conserved hypothetical protein	AAK64851.1	NA
+197	NA	SMa0359	conserved hypothetical protein	AAK64852.1	NA
+198	NA	SMa0360	putative transposase	AAK64853.2	NA
+199	NA	SMa0364	hypothetical protein	AAK64854.1	NA
+200	NA	SMa0367	conserved hypothetical protein	AAK64855.1	NA
+201	NA	SMa0369	hypothetical protein	AAK64856.1	NA
+202	NA	SMa0372	Transcriptional regulator, LysR family	AAK64858.1	NA
+203	NA	SMa0374	dioxygenase/lyase	AAK64859.1	NA
+204	NA	SMa0376	hydrolase	AAK64860.1	NA
+205	NA	SMa5018	Conserved hypothetical protein	ACF07964.1	NA
+206	NA	SMa0380	hydrolase	AAK64861.1	NA
+207	NA	SMa5019	conserved hypothetical protein	ACF07965.1	NA
+208	NA	SMa3002	conserved hypothetical protein	AAK64862.1	NA
+209	NA	SMa0384	TRm3 transposase	AAK64863.1	NA
+210	hisC3	SMa0387	HisC3 histidinol-phosphate aminotransferase	AAK64864.1	2.6.1.9
+211	NA	SMa0389	short chain alcohol dehydrogenase-related 	AAK64865.2	NA
+212	NA	SMa0391	ABC transporter, ATP-binding protein	AAK64866.1	NA
+213	NA	SMa0392	ABC transporter, periplasmic solute-binding 	AAK64867.1	NA
+214	NA	SMa0394	ABC transporter, permease	AAK64868.1	NA
+215	NA	SMa0396	ABC transporter, permease	AAK64869.1	NA
+216	hisD2	SMa0398	HisD2 histidinol dehydrogenase	AAK64870.1	1.1.1.23
+217	NA	SMa0400	Dehydrogenase, Zn-dependent	AAK64871.1	NA
+218	NA	SMa0402	Transcriptional regulator, GntR family	AAK64872.1	NA
+219	NA	SMa0403	hypothetical protein	AAK64873.1	NA
+220	NA	SMa0404	FMN-dependent dehydrogenase	AAK64874.1	NA
+221	NA	SMa0405	transposase, fragment	AAK64875.2	NA
+222	NA	SMa0407	conserved hypothetical protein	AAK64876.1	NA
+223	NA	SMa0412	conserved hypothetical protein	AAK64878.2	NA
+224	NA	SMa0414	conserved hypothetical protein	AAK64879.1	NA
+225	NA	SMa0417	conserved hypothetical protein	AAK64880.1	NA
+226	NA	SMa5020	conserved hypothetical protein	ACF07966.1	NA
+227	NA	SMa0421	conserved hypothetical protein	AAK64881.1	NA
+228	NA	SMa5021	hypothetical protein	ACF07967.1	NA
+229	NA	SMa0424	ATP-dependent DNA ligase	AAK64882.1	NA
+230	NA	SMa0426	conserved hypothetical protein	AAK64883.1	NA
+231	NA	SMa0429	conserved hypothetical protein	AAK64884.1	NA
+232	NA	SMa0431	conserved hypothetical protein	AAK64885.1	NA
+233	NA	SMa0433	hypothetical protein	AAK64886.1	NA
+234	NA	SMa0436	hypothetical protein	AAK64887.1	NA
+235	NA	SMa5022	hypothetical protein	ACF07968.1	NA
+236	NA	SMa3003	conserved hypothetical protein	ACF07969.1	NA
+237	NA	SMa0444	TRm1b transposase	AAK64890.2	NA
+238	NA	SMa0445	TRm1a transposase	AAK64891.1	NA
+239	NA	SMa0447	conserved hypothetical protein	AAK64892.1	NA
+240	NA	SMa0448	hypothetical protein	AAK64893.1	NA
+241	NA	SMa0450	hypothetical protein	AAK64894.1	NA
+242	NA	SMa3004	Yle homolog	AAK64896.1	NA
+243	NA	SMa0461	TRm3 transposase	AAK64898.1	NA
+244	NA	SMa0462	conserved hypothetical protein	AAK64899.1	NA
+245	cyaI2	SMa0464	adenylate/guanylate cyclase	AAK64900.1	4.6.1.1
+246	NA	SMa0466	ABC transporter, periplasmic solute-binding 	AAK64901.1	NA
+247	NA	SMa0467	ABC transporter, permease	AAK64902.1	NA
+248	NA	SMa0469	ABC transporter, permease	AAK64903.2	NA
+249	NA	SMa0470	ABC transporter, ATP-binding protein	AAK64904.2	NA
+250	NA	SMa0471	conserved hypothetical protein	AAK64905.1	NA
+251	NA	SMa4001	conserved hypothetical protein	AAK64906.1	NA
+252	NA	SMa0475	TRm17a transposase	AAK64907.1	NA
+253	NA	SMa0476	TRm17b transposase	AAK64908.1	NA
+254	NA	SMa0478	Dehydrogenase, NAD-dependent	AAK64909.1	NA
+255	NA	SMa5024	hypothetical protein	ACF07970.1	NA
+256	NA	SMa0483	Phosphatase	AAK64912.1	NA
+257	thrC2	SMa0485	ThrC2 threonine synthase	AAK64913.1	4.2.3.1
+258	NA	SMa0486	putative cyclodeaminase	AAK64914.1	NA
+259	NA	SMa0489	ABC transporter, ATP-binding protein	AAK64915.1	NA
+260	NA	SMa0492	ABC transporter, permease	AAK64916.1	NA
+261	NA	SMa0493	ABC transporter, permease	AAK64917.1	NA
+262	NA	SMa0495	ABC transporter, periplasmic solute-binding 	AAK64918.1	NA
+263	NA	SMa0496	conserved hypothetical protein	AAK64919.1	NA
+264	NA	SMa0498	Transcriptional regulator, LysR family	AAK64920.1	NA
+265	NA	SMa0499	hypothetical protein	AAK64921.1	NA
+266	NA	SMa0501	ABC transporter, permease	AAK64922.1	NA
+267	NA	SMa0503	ABC transporter, permease	AAK64923.1	NA
+268	NA	SMa0506	ABC transporter, periplasmic solute-binding 	AAK64924.1	NA
+269	NA	SMa0508	ABC transporter, ATP-binding protein	AAK64925.1	NA
+270	NA	SMa0510	putative D-isomer specific 2-hydroxyacid 	AAK64926.1	NA
+271	idnD	SMa0512	IdnD L-idonate 5-dehydrogenase	AAK64927.1	NA
+272	idnO1	SMa0513	IdnO1 gluconate 5-dehydrogenase	AAK64928.1	1.1.1.69
+273	idnK	SMa0514	IdnK gluconate kinase IdnK	AAK64929.1	2.7.1.12
+274	NA	SMa0516	dehydrogenase	AAK64930.1	NA
+275	NA	SMa0518	conserved hypothetical protein	AAK64931.1	NA
+276	NA	SMa0520	Transcriptional regulator, RpiR family	AAK64932.1	NA
+277	NA	SMa0522	ABC transporter, periplasmic solute-binding 	AAK64933.1	NA
+278	NA	SMa0523	ABC transporter, periplasmic solute-binding 	AAK64934.1	NA
+279	NA	SMa0525	ABC transporter, permease	AAK64935.1	NA
+280	NA	SMa0526	ABC transporter, ATP-binding protein	AAK64936.1	NA
+281	NA	SMa0527	phosphatase	AAK64937.1	NA
+282	NA	SMa5025	hypothetical protein	ACF07971.1	NA
+283	NA	SMa0535	hypothetical protein	AAK64938.2	NA
+284	NA	SMa0537	conserved hypothetical protein	AAK64939.1	NA
+285	NA	SMa0538	conserved hypothetical protein	AAK64940.1	NA
+286	NA	SMa0541	conserved hypothetical protein	AAK64941.2	NA
+287	NA	SMa0543	hypothetical protein	AAK64942.1	NA
+288	NA	SMa0545	conserved hypothetical protein	AAK64943.1	NA
+289	NA	SMa0548	conserved hypothetical protein	AAK64944.1	NA
+290	NA	SMa0551	hydrolase	AAK64945.2	NA
+291	NA	SMa0552	putative cyclic amidohydrolase	AAK64946.2	NA
+292	NA	SMa0554	hypothetical protein	AAK64947.1	NA
+293	NA	SMa0557	Transcriptional regulator, LysR family	AAK64948.1	NA
+294	NA	SMa0558	conserved hypothetical protein	AAK64949.2	NA
+295	NA	SMa0559	4-carboxymuconolactone decarboxylase	AAK64950.2	NA
+296	NA	SMa0561	conserved hypothetical protein	AAK64951.1	NA
+297	NA	SMa0563	aldo/keto reductase	AAK64952.1	NA
+298	NA	SMa0564	dehydrogenase	AAK64953.2	NA
+299	NA	SMa5026	conserved hypothetical protein	ACF07972.1	NA
+300	NA	SMa0567	hypothetical protein	AAK64955.1	NA
+301	cyaF4	SMa0570	CyaF4 adenylate cyclase	AAK64956.1	NA
+302	NA	SMa0572	conserved hypothetical protein	AAK64957.1	NA
+303	NA	SMa0574	conserved hypothetical protein	AAK64958.2	NA
+304	NA	SMa0575	hypothetical protein	AAK64959.2	NA
+305	NA	SMa0576	ABC transporter, periplasmic solute-binding 	AAK64960.1	NA
+306	cyaN	SMa0579	adenylate/guanylate cyclase	AAK64961.2	NA
+307	nrtC	SMa0581	Nitrate transporter, ATP binding protein	AAK64963.1	NA
+308	nrtB	SMa0583	Nitrate transporter, permease	AAK64964.1	NA
+309	nrtA	SMa0585	Nitrate transporter, periplasmic nitrate binding 	AAK64965.1	NA
+310	NA	SMa4002	hypothetical protein	AAK64966.1	NA
+311	NA	SMa0591	transposase, fragment	AAK64967.1	NA
+312	NA	SMa0592	conserved hypothetical protein	AAK64968.1	NA
+313	NA	SMa0594	conserved hypothetical protein	AAK64969.1	NA
+314	NA	SMa0599	conserved hypothetical protein	AAK64971.2	NA
+315	NA	SMa0601	conserved hypothetical protein	AAK64972.2	NA
+316	NA	SMa0604	conserved hypothetical protein	AAK64973.2	NA
+317	NA	SMa0606	hypothetical protein	AAK64974.1	NA
+318	NA	SMa0607	conserved hypothetical protein	AAK64975.1	NA
+319	NA	SMa0609	hypothetical protein	AAK64976.1	NA
+320	NA	SMa0610	hypothetical protein	AAK64977.1	NA
+321	fixN3	SMa0612	FixN3 cytochrome c oxidase subunit 1	AAK64978.1	1.9.3.1
+322	fixO3	SMa0615	FixO3 cytochrome-c oxidase subunit	AAK64979.1	1.9.3.1
+323	fixQ3	SMa0616	FixQ3 nitrogen fixation protein	AAK64980.1	1.9.3.1
+324	fixP3	SMa0617	FixP3 Diheme c-type cytochrome	AAK64981.1	1.9.3.1
+325	NA	SMa0620	conserved hypothetical protein	AAK64982.1	NA
+326	fixI2	SMa0621	FixI2 E1-E2 type cation ATPase	AAK64983.1	NA
+327	fixS2	SMa0622	FixS2 nitrogen fixation protein	AAK64984.1	NA
+328	NA	SMa0625	hypothetical protein	AAK64985.1	NA
+329	NA	SMa0626	outer membrane protein	AAK64986.1	NA
+330	aqpZ2	SMa0627	AqpZ2 aquaporin	AAK64987.1	NA
+331	NA	SMa0629	hypothetical protein	AAK64988.1	NA
+332	NA	SMa0630	conserved hypothetical membrane protein	AAK64989.1	NA
+333	NA	SMa0631	hypothetical protein	AAK64990.1	NA
+334	NA	SMa0633	hypothetical protein	AAK64991.1	NA
+335	NA	SMa0636	conserved hypothetical protein	AAK64992.1	NA
+336	NA	SMa0637	hypothetical protein	AAK64993.1	NA
+337	NA	SMa0638	hypothetical protein	AAK64994.1	NA
+338	NA	SMa0639	conserved hypothetical protein	AAK64995.1	NA
+339	NA	SMa0640	hypothetical protein	AAK64996.1	NA
+340	NA	SMa0643	transposase, fragment	AAK64997.1	NA
+341	NA	SMa0645	hypothetical protein	AAK64998.1	NA
+342	NA	SMa0647	hypothetical protein	AAK64999.1	NA
+343	NA	SMa0649	hypothetical protein	AAK65000.2	NA
+344	NA	SMa4003	hypothetical protein	ACF07973.1	NA
+345	NA	SMa0656	TRm24 transposase	AAK65002.1	NA
+346	NA	SMa0657	cytochrome c binding protein, amino terminus	AAK65003.1	NA
+347	NA	SMa0659	cytochrome c binding protein, carboxyl terminus	AAK65004.1	NA
+348	NA	SMa0661	conserved hypothetical protein	AAK65005.1	NA
+349	NA	SMa0662	Transcriptional regulator, CAP/Crp family	AAK65006.1	NA
+350	NA	SMa0663	hypothetical protein	AAK65007.1	NA
+351	NA	SMa0664	conserved hypothetical protein	AAK65008.1	NA
+352	NA	SMa0665	conserved hypothetical protein	AAK65009.2	NA
+353	NA	SMa0667	conserved hypothetical protein	AAK65010.1	NA
+354	NA	SMa0669	HlyD-family protein	AAK65011.1	NA
+355	NA	SMa3006	conserved hypothetical protein	AAK65012.1	NA
+356	NA	SMa0673	TRm3 transposase	AAK65013.1	NA
+357	NA	SMa0674	hypothetical protein	AAK65014.1	NA
+358	NA	SMa0675	Ca2+/H+ antiporter	AAK65015.2	NA
+359	NA	SMa0677	ABC transporter, periplasmic solute-binding 	AAK65016.2	NA
+360	NA	SMa0678	amino acid transporter	AAK65017.1	NA
+361	NA	SMa0680	decarboxylase (lysine, ornithine, arginine)	AAK65018.1	4.1.1.17;4.1.1.19
+362	NA	SMa0682	decarboxylase (lysine, ornithine, arginine)	AAK65019.2	4.1.1.17;4.1.1.19
+363	NA	SMa0683	Cation efflux protein	AAK65020.2	NA
+364	NA	SMa0684	amino acid transporter	AAK65021.1	NA
+365	NA	SMa0687	hypothetical protein	AAK65022.2	NA
+366	NA	SMa0689	conserved hypothetical protein	AAK65023.1	NA
+367	NA	SMa0690	conserved hypothetical protein	AAK65024.1	NA
+368	arcA1	SMa0693	ArcA1 arginine deiminase	AAK65025.1	3.5.3.6
+369	arcB	SMa0695	ArcB, ornithine carbamoyltransferase, catabolic	AAK65026.1	2.1.3.3
+370	arcC	SMa0697	ArcC carbamate kinase	AAK65027.1	2.7.2.2
+371	NA	SMa0699	hypothetical protein	AAK65028.1	NA
+372	NA	SMa0702	hypothetical protein	AAK65029.1	NA
+373	dgoK2	SMa0705	DgoK2 2-dehydro-3-deoxygalactonokinase	AAK65030.2	2.7.1.58
+374	NA	SMa0707	dihydrodipicolinate synthase family protein	AAK65031.1	NA
+375	NA	SMa0708	enolase	AAK65032.1	NA
+376	NA	SMa0709	ABC transporter, periplasmic solute-binding 	AAK65033.1	NA
+377	NA	SMa0710	ABC transporter, permease	AAK65034.2	NA
+378	NA	SMa0711	ABC transporter, permease	AAK65035.1	NA
+379	NA	SMa0713	ABC transporter, ATP-binding protein, amino 	AAK65036.1	NA
+380	NA	SMa0714	ABC transporter, ATP-binding protein, carboxyl 	AAK65037.1	NA
+381	NA	SMa0715	Nucleoside-diphosphate-sugar epimerase	AAK65038.1	NA
+382	NA	SMa0717	conserved hypothetical protein	AAK65039.1	NA
+383	NA	SMa0719	short chain alcohol dehydrogenase-related 	AAK65040.1	NA
+384	NA	SMa0722	transposase, fragment	AAK65041.1	NA
+385	NA	SMa0723	conserved hypothetical protein	AAK65042.1	NA
+386	NA	SMa0726	hypothetical protein	AAK65044.2	NA
+387	NA	SMa0728	hypothetical protein	AAK65045.1	NA
+388	NA	SMa0731	hypothetical protein	AAK65046.1	NA
+389	NA	SMa0734	hypothetical protein	AAK65047.1	NA
+390	NA	SMa0736	hypothetical protein	AAK65048.1	NA
+391	cspA6	SMa0738	CspA6 cold shock protein	AAK65049.1	NA
+392	NA	SMa0739	hypothetical protein	AAK65050.1	NA
+393	NA	SMa0740	hypothetical protein	AAK65051.1	NA
+394	NA	SMa0742	hypothetical protein	AAK65052.1	NA
+395	groEL2	SMa0744	groEL2 chaperonin	AAK65053.1	1.3.1.-
+396	groES2	SMa0745	groES2 chaperonin	AAK65054.1	NA
+397	NA	SMa0747	hypothetical protein	AAK65055.1	NA
+398	NA	SMa0748	Transcriptional regulator, MucR family	AAK65056.2	NA
+399	NA	SMa5003	hypothetical protein	ACF07974.1	NA
+400	NA	SMa0750	Transcriptional regulator, LysR family	AAK65057.1	NA
+401	NA	SMa0751	Ring-hydroxylating dioxygenase, likely required 	AAK65058.1	NA
+402	NA	SMa0752	oxidoreductase, likely required for utilization 	AAK65059.1	NA
+403	NA	SMa0753	oxidoreductase	AAK65060.1	NA
+404	NA	SMa0754	hypothetical protein	AAK65061.1	NA
+405	nodD2	SMa0757	NodD2 nod box-dependent transcription activator	AAK65062.1	NA
+406	NA	SMa0758	conserved hypothetical protein	AAK65063.2	NA
+407	NA	SMa0759	hypothetical protein	AAK65064.1	NA
+408	fixT2	SMa0760	FixT2 anti-kinase protein	AAK65065.1	NA
+409	fixK2	SMa0762	FixK2 transcriptional regulator	AAK65066.1	NA
+410	NA	SMa0763	hypothetical protein	AAK65067.1	NA
+411	fixN2	SMa0765	FixN2 cytochrome c oxidase subunit I	AAK65068.1	1.9.3.1
+412	fixO2	SMa0766	FixO2 cytochrome c oxidase subunit	AAK65069.1	1.9.3.1
+413	fixQ2	SMa0767	FixQ2 nitrogen fixation protein	AAK65070.1	1.9.3.1
+414	fixP2	SMa0769	FixP2 Diheme c-type cytochrome	AAK65071.1	1.9.3.1
+415	NA	SMa0771	hypothetical protein	AAK65072.1	NA
+416	nodL	SMa0772	NodL Nod factor acetyltransferase	AAK65073.1	NA
+417	noeA	SMa0773	NoeA host specific nodulation protein	AAK65074.1	NA
+418	noeB	SMa0774	NoeB host specific nodulation protein	AAK65075.1	NA
+419	NA	SMa4004	hypothetical protein	AAK65076.1	NA
+420	NA	SMa0776	TRm23b IS ATP-binding protein	AAK65077.1	NA
+421	NA	SMa0779	transposase, fragment	AAK65078.1	NA
+422	NA	SMa4015	hypothetical protein	ACF07975.1	NA
+423	NA	SMa0781	conserved hypothetical protein	AAK65079.1	NA
+424	NA	SMa0783	conserved hypothetical protein	AAK65080.1	NA
+425	NA	SMa0785	Recombinase	AAK65081.1	NA
+426	NA	SMa4005	transposase, fragment	AAK65082.1	NA
+427	NA	SMa0789	Transcriptional regulator, GntR family	AAK65083.2	NA
+428	NA	SMa0791	conserved hypothetical protein	AAK65085.1	NA
+429	NA	SMa0792	conserved hypothetical protein	AAK65086.1	NA
+430	NA	SMa0793	conserved hypothetical protein	AAK65087.2	NA
+431	NA	SMa0794	Monoxygenase	AAK65088.1	NA
+432	NA	SMa0796	aldehyde dehydrogenase	AAK65089.1	NA
+433	NA	SMa0797	conserved hypothetical protein	AAK65090.1	NA
+434	NA	SMa0799	ABC transporter, periplasmic solute-binding 	AAK65091.2	NA
+435	NA	SMa0800	ABC transporter, permease	AAK65092.1	NA
+436	NA	SMa0802	ABC transporter, permease	AAK65093.1	NA
+437	NA	SMa0803	ABC transporter, ATP-binding protein	AAK65094.1	NA
+438	gabD4	SMa0805	GabD4 succinate-semialdehyde dehdyrogenase	AAK65095.1	1.2.1.16
+439	syrB3	SMa0806	SyrB3 regulator	AAK65096.1	NA
+440	NA	SMa0809	hypothetical protein	AAK65097.2	NA
+441	fixU	SMa0810	FixU nitrogen fixation protein	AAK65098.1	NA
+442	fdxN	SMa0811	FdxN ferredoxin	AAK65099.1	NA
+443	nifB	SMa0814	NifB FeMo cofactor biosynthesis protein	AAK65100.1	NA
+444	nifA	SMa0815	NifA transcriptional activator	AAK65101.2	NA
+445	fixX	SMa0816	FixX ferredoxin-like protein	AAK65102.1	NA
+446	fixC	SMa0817	FixC oxidoreductase	AAK65103.1	NA
+447	fixB	SMa0819	FixB electron transfer flavoprotein alpha chain	AAK65104.1	NA
+448	fixA	SMa0822	FixA electron transfer flavoprotein beta chain	AAK65105.1	NA
+449	NA	SMa0824	hypothetical protein	AAK65106.1	NA
+450	nifH	SMa0825	NifH nitrogenase iron protein	AAK65107.1	1.18.6.1
+451	nifD	SMa0827	NifD nitrogenase molybdenum-iron protein alpha 	AAK65108.1	1.18.6.1
+452	nifK	SMa0829	NifK nitrogenase molybdenum-iron protein beta 	AAK65109.1	1.18.6.1
+453	nifE	SMa0830	NifE nitrogenase molybdenum-cofactor synthesis 	AAK65110.1	1.18.6.1
+454	nifX	SMa0831	NifX iron-molybdenum cluster-binding protein	AAK65111.1	NA
+455	NA	SMa0833	conserved hypothetical protein	AAK65112.1	NA
+456	fdxB	SMa0834	FdxB ferredoxin III	AAK65113.1	NA
+457	NA	SMa5036	Hypothetical protein	ACF07976.1	NA
+458	NA	SMa0835	hypothetical 10.5 kDa ORF	AAK65114.1	NA
+459	syrA	SMa0838	SyrA protein involved in EPS production	AAK65115.1	NA
+460	nodD3	SMa0840	NodD3 nod box-dependent transcriptional 	AAK65116.1	NA
+461	NA	SMa4006	transposase, fragment	AAK65117.1	NA
+462	NA	SMa5004	transposase, fragment	ACF07977.1	NA
+463	NA	SMa5029	transposase, fragment	ACF07978.1	NA
+464	NA	SMa0846	transposase, fragment	AAK65118.1	NA
+465	NA	SMa0848	hypothetical protein	AAK65119.1	NA
+466	syrM	SMa0849	SyrM transcriptional regulator	AAK65120.1	NA
+467	NA	SMa0850	hypothetical protein	AAK65121.1	NA
+468	nodH	SMa0851	NodH sulfotransferase	AAK65122.1	1.8.4.8
+469	nodF	SMa0852	NodF acyl carrier protein	AAK65123.1	NA
+470	nodE	SMa0853	NodE beta ketoacyl ACP synthase	AAK65124.1	NA
+471	nodG	SMa0854	NodG 3-oxoacyl-(acyl carrier protein) reductase	AAK65125.1	NA
+472	nodP1	SMa0855	NodP1 ATP-sulfurylase small subunit	AAK65126.1	2.7.7.4
+473	nodQ1	SMa4007	NodQ1 ATP-sulfurylase large subunit-APS kinase	AAK65127.1	2.7.1.25
+474	NA	SMa0861	transposase, fragment	AAK65128.2	NA
+475	nodJ	SMa0863	NodJ ABC transporter, permease	AAK65129.1	NA
+476	nodI	SMa0864	NodI ABC transporter, ATP-binding protein	AAK65130.1	NA
+477	nodC	SMa0866	NodC N-acetylglucosaminyltransferase	AAK65131.1	NA
+478	nodB	SMa0868	NodB chitooligosaccharide deacetylase	AAK65132.1	NA
+479	nodA	SMa0869	NodA N-acyltransferase	AAK65133.1	NA
+480	nodD1	SMa0870	NodD1 nod-box dependent transcriptional 	AAK65134.1	NA
+481	NA	SMa0872	hypothetical protein ORF 110	AAK65135.1	NA
+482	nifN	SMa0873	NifN Nitrogenase Fe-Mo cofactor biosynthesis 	AAK65136.1	1.18.6.1
+483	nodN	SMa0874	NodN dehydratase	AAK65137.1	NA
+484	nolG	SMa0875	NolG efflux transporter	AAK65138.1	NA
+485	nolF	SMa0876	NolF secretion protein	AAK65139.1	NA
+486	nodM	SMa0878	NodM Glucosamine--fructose-6-phosphate 	AAK65140.1	NA
+487	NA	SMa0882	conserved hypothetical protein	AAK65141.1	NA
+488	NA	SMa0883	conserved hypothetical protein	AAK65142.1	NA
+489	NA	SMa0886	hypothetical protein	AAK65143.1	NA
+490	NA	SMa5005	hypothetical protein	ACF07979.1	NA
+491	NA	SMa0887	hypothetical protein	AAK65144.1	NA
+492	NA	SMa0888	conserved hypothetical protein	AAK65145.2	NA
+493	NA	SMa0890	conserved hypothetical protein	AAK65146.1	NA
+494	dnaE3	SMa0892	DnaE3 DNA polymerase III alpha chain	AAK65147.1	2.7.7.6
+495	NA	SMa0894	hypothetical protein	AAK65148.1	NA
+496	NA	SMa0896	conserved hypothetical protein	AAK65149.1	NA
+497	NA	SMa0900	conserved hypothetical protein	AAK65150.1	NA
+498	NA	SMa0903	conserved hypothetical protein	AAK65151.2	NA
+499	NA	SMa0905	hypothetical protein	AAK65152.1	NA
+500	NA	SMa0907	conserved hypothetical protein	AAK65153.1	NA
+501	NA	SMa0909	hypothetical protein	AAK65154.1	NA
+502	NA	SMa0911	conserved hypothetical protein	AAK65155.2	NA
+503	NA	SMa0914	conserved hypothetical protein	AAK65156.1	NA
+504	NA	SMa0917	conserved hypothetical protein	AAK65157.1	NA
+505	NA	SMa5006	conserved hypothetical protein	ACF07980.1	NA
+506	NA	SMa0922	conserved hypothetical protein	AAK65159.2	NA
+507	traG	SMa0929	TraG conjugal transfer protein	AAK65160.1	NA
+508	traD	SMa0930	TraD conjugal transfer protein	AAK65161.1	NA
+509	traC	SMa0933	TraC conjugal transfer protein	AAK65162.1	NA
+510	traA1	SMa0934	TraA1 conjugal transfer protein	AAK65163.1	NA
+511	NA	SMa0937	conserved hypothetical protein	AAK65164.1	NA
+512	NA	SMa0939	Sensory histidine kinase	AAK65165.1	NA
+513	NA	SMa0940	Response regulator	AAK65166.2	NA
+514	NA	SMa0941	conserved hypothetical protein	AAK65167.2	NA
+515	NA	SMa0943	arylsulfatase	AAK65168.1	NA
+516	NA	SMa0945	conserved hypothetical protein	AAK65169.1	NA
+517	NA	SMa0947	hypothetical protein	AAK65170.1	NA
+518	NA	SMa0950	ABC transporter, periplasmic solute-binding 	AAK65171.1	NA
+519	NA	SMa0951	ABC transporter, permease	AAK65172.1	NA
+520	NA	SMa0952	ABC transporter, permease	AAK65173.1	NA
+521	NA	SMa0953	ABC transporter, ATP-binding protein	AAK65174.1	NA
+522	NA	SMa0955	Transcriptional regulator, GntR family	AAK65175.1	NA
+523	NA	SMa0956	Aminotransferase, class III	AAK65176.1	NA
+524	NA	SMa0958	Thiamine pyrophosphate-requiring protein	AAK65177.1	NA
+525	NA	SMa0959	short chain alcohol dehydrogenase-related 	AAK65178.1	NA
+526	NA	SMa0961	Response regulator	AAK65179.1	NA
+527	NA	SMa0964	hypothetical protein	AAK65180.1	NA
+528	NA	SMa0967	conserved hypothetical protein	AAK65181.2	NA
+529	NA	SMa0969	Response regulator	AAK65182.1	NA
+530	NA	SMa0972	putative aminotransferase	AAK65183.1	NA
+531	NA	SMa3008	hypothetical protein	AAK65184.1	NA
+532	NA	SMa4008	TRm3 transposase fragment	AAK65185.1	NA
+533	NA	SMa0977	TRm24 transposase	AAK65186.1	NA
+534	ntrR2	SMa0981	NtrR2 PIN domain protein	AAK65187.1	NA
+535	NA	SMa0983	hypothetical protein	AAK65188.1	NA
+536	NA	SMa0985	Transcriptional regulator, LysR family	AAK65189.2	NA
+537	NA	SMa0988	hypothetical protein	AAK65190.1	NA
+538	NA	SMa0990	hypothetical protein	AAK65191.1	NA
+539	NA	SMa0992	hypothetical protein	AAK65192.1	NA
+540	NA	SMa3009	Possible transcriptional regulator	ACF07981.1	NA
+541	NA	SMa4009	TRm5 transposase	AAK65194.1	NA
+542	NA	SMa0997	transposase, fragment	AAK65195.1	NA
+543	NA	SMa0998	ISRm25b transposase	AAK65196.1	NA
+544	NA	SMa1001	conserved hypothetical protein	AAK65197.2	NA
+545	NA	SMa1002	hypothetical protein	AAK65198.1	NA
+546	NA	SMa1004	hypothetical protein	AAK65199.1	NA
+547	NA	SMa1005	hypothetical protein	AAK65200.1	NA
+548	NA	SMa1007	conserved hypothetical protein	AAK65201.1	NA
+549	NA	SMa1008	conserved hypothetical protein	AAK65202.2	NA
+550	NA	SMa1009	Heavy metal binding protein	AAK65203.2	NA
+551	NA	SMa1010	hypothetical protein	AAK65204.1	NA
+552	NA	SMa1011	conserved hypothetical protein	AAK65205.1	NA
+553	actP	SMa1013	ActP Copper translocating P-type ATPase	AAK65206.1	3.6.3.4
+554	hmrR	SMa1014	HmrR	AAK65207.1	NA
+555	NA	SMa1016	acyltransferase	AAK65208.1	NA
+556	NA	SMa1017	hypothetical protein	AAK65209.1	NA
+557	NA	SMa1018	hypothetical protein	AAK65210.1	NA
+558	NA	SMa1021	conserved hypothetical protein	AAK65211.2	NA
+559	NA	SMa1024	conserved hypothetical protein	AAK65212.2	NA
+560	NA	SMA3010	hypothetical protein	AAK65214.1	NA
+561	NA	SMa1029	TRm1b transposase	AAK65215.1	NA
+562	NA	SMa1030	TRm1a transposase	AAK65216.1	NA
+563	NA	SMa1032	hypothetical protein	AAK65217.1	NA
+564	NA	SMa1033	conserved hypothetical protein	AAK65218.1	NA
+565	NA	SMa1036	conserved hypothetical protein	AAK65219.1	NA
+566	NA	SMa1037	outer membrane protein	AAK65220.1	NA
+567	NA	SMa1038	Multicopper oxidase	AAK65221.1	NA
+568	NA	SMa1041	Copper binding protein	AAK65222.1	NA
+569	NA	SMa1043	conserved hypothetical protein	AAK65223.1	NA
+570	NA	SMa1045	hypothetical protein	AAK65224.1	NA
+571	cyaE2	SMa1046	CyaE2 adenylate/guanylate cyclase	AAK65225.1	4.6.1.1
+572	NA	SMa1050	Hypothetical protein	AAK65226.1	NA
+573	NA	SMa1052	Conserved hypothetical protein	AAK65227.1	NA
+574	NA	SMa1053	Conserved hypothetical protein	AAK65228.1	NA
+575	NA	SMa1056	Transcriptional regulator, ArsR family	AAK65229.1	NA
+576	NA	SMa1057	Conserved hypothetical protein	AAK65230.1	NA
+577	NA	SMa1058	conserved hypothetical protein	AAK65231.2	NA
+578	NA	SMa1060	conserved hypothetical protein	AAK65232.2	NA
+579	NA	SMa1062	conserved hypothetical protein	AAK65233.2	NA
+580	NA	SMa1063	hypothetical protein	AAK65234.2	NA
+581	NA	SMa1065	conserved hypothetical protein	AAK65235.1	NA
+582	NA	SMa4010	Transcriptional regulator, CAP/Crp family	AAK65236.1	NA
+583	NA	SMa1070	TRm23a transposase	AAK65237.1	NA
+584	NA	SMa1073	TRm23b IS ATP-binding protein	AAK65238.1	NA
+585	NA	SMa1076	conserved hypothetical protein	AAK65239.2	NA
+586	nex18	SMa1077	Nex18 Symbiotically induced conserved protein	AAK65240.1	NA
+587	NA	SMa1078	Conserved hypothetical protein	AAK65241.1	NA
+588	tspO	SMa1079	TspO Tryptophan rich sensory protein	AAK65242.1	NA
+589	NA	SMa1081	hypothetical protein	AAK65243.1	NA
+590	NA	SMa1082	conserved hypothetical protein	AAK65244.2	NA
+591	NA	SMa1084	phosphoketolase	AAK65245.1	NA
+592	NA	SMa1086	Conserved hypothetical protein	AAK65246.1	NA
+593	NA	SMa1087	Cation transport ATPase	AAK65247.1	NA
+594	NA	SMa1089	hypothetical protein	AAK65248.1	NA
+595	NA	SMa1091	hypothetical protein	AAK65249.1	NA
+596	NA	SMa1092	hypothetical protein	AAK65250.1	NA
+597	NA	SMa1093	hypothetical protein	AAK65251.2	NA
+598	NA	SMa1095	hypothetical protein	AAK65252.1	NA
+599	NA	SMa1096	Conserved hypothetical protein	AAK65253.1	NA
+600	NA	SMa1097	hypothetical protein	AAK65254.1	NA
+601	NA	SMa1099	conserved hypothetical protein	AAK65255.1	NA
+602	NA	SMa1100	hypothetical protein	AAK65256.2	NA
+603	NA	SMa1101	hypothetical protein	AAK65257.1	NA
+604	cyaP	SMa1103	Adenylate/guanylate cyclase	AAK65258.1	4.6.1.1
+605	NA	SMa1104	hypothetical protein fragment	AAK65259.1	NA
+606	NA	SMa1111	hypothetical protein	AAK65260.1	NA
+607	NA	SMa1113	conserved hypothetical protein	AAK65261.1	NA
+608	NA	SMa1115	Mn2+/Fe2+ transporter, NRAMP family	AAK65262.2	NA
+609	hspC2	SMa1118	HspC2 heat shock protein	AAK65263.1	NA
+610	NA	SMa1120	ABC transporter, ATP-binding protein	AAK65264.1	NA
+611	NA	SMa1122	Putative permease	AAK65265.1	NA
+612	NA	SMa1124	Membrane protein	AAK65266.1	NA
+613	NA	SMa1126	Protease	AAK65267.1	NA
+614	degP4	SMa1128	DegP4 protease like protein	AAK65268.2	3.4.21.-
+615	NA	SMa1131	Metallo-beta-lactamase superfamily protein	AAK65269.1	NA
+616	NA	SMa1132	hypothetical protein	AAK65270.1	NA
+617	NA	SMa1134	hypothetical protein	AAK65271.1	NA
+618	NA	SMa1136	hypothetical protein	AAK65272.1	NA
+619	NA	SMa1138	Response regulator, truncated	AAK65273.1	NA
+620	NA	SMa1139	Response regulator, truncated	AAK65274.1	NA
+621	NA	SMa1141	Transcriptional regulator, CAP/Crp family	AAK65275.1	NA
+622	NA	SMa1142	FixL-related histidine kinase	AAK65276.1	NA
+623	NA	SMa1146	conserved hypothetical protein	AAK65277.1	NA
+624	NA	SMa1147	Conserved hypothetical protein	AAK65278.1	NA
+625	NA	SMa1149	Conserved hypothetical protein	AAK65279.1	NA
+626	NA	SMa1151	Conserved hypothetical protein	AAK65280.1	NA
+627	NA	SMa1153	conserved hypothetical protein	AAK65281.1	NA
+628	NA	SMa1154	conserved hypothetical protein	AAK65282.1	NA
+629	NA	SMa1155	Cation transport P-type ATPase	AAK65283.1	NA
+630	NA	SMa1156	Alcohol dehydrogenase, Zn-dependent class III	AAK65284.1	1.1.1.1
+631	NA	SMa1158	Conserved hypothetical protein	AAK65285.2	NA
+632	NA	SMa1159	hypothetical protein	AAK65286.1	NA
+633	NA	SMa1160	hypothetical protein	AAK65287.1	NA
+634	NA	SMa1161	hypothetical protein	AAK65288.1	NA
+635	NA	SMa1162	Conserved hypothetical protein	AAK65289.2	NA
+636	NA	SMa1163	Cation transport P-type ATPase	AAK65290.2	NA
+637	NA	SMa1166	Protein containing an alpha/beta hydrolase fold	AAK65291.1	NA
+638	NA	SMa1168	Dehydrogenase, FAD-dependent	AAK65292.1	NA
+639	NA	SMa1169	hypothetical protein	AAK65293.1	NA
+640	NA	SMa1170	conserved hypothetical protein	AAK65294.1	NA
+641	NA	SMa1171	Hypothetical protein	AAK65295.1	NA
+642	NA	SMa1172	Hypothetical protein	AAK65296.1	NA
+643	NA	SMa1174	Hypothetical protein	AAK65297.1	NA
+644	NA	SMa1176	Hypothetical protein	AAK65298.2	NA
+645	NA	SMa1178	conserved hypothetical protein	AAK65299.2	NA
+646	nosR	SMa1179	NosR regulatory protein	AAK65300.1	NA
+647	nosZ	SMa1182	NosZ nitrous oxide reductase	AAK65301.1	1.7.99.6
+648	nosD	SMa1183	NosD nitrous oxidase accessory protein	AAK65302.1	NA
+649	nosF	SMa1184	NosF ATPase	AAK65303.1	NA
+650	nosY	SMa1185	NosY permease	AAK65304.1	NA
+651	nosL	SMa1186	NosL copper chaperone	AAK65305.1	NA
+652	nosX	SMa1188	NosX accesory protein	AAK65306.1	NA
+653	fhp	SMa1191	flavohemoprotein	AAK65307.1	1.14.12.17
+654	NA	SMa1192	hypothetical protein	AAK65308.2	NA
+655	nnrS	SMa1194	NnrS dehydrogenase	AAK65309.1	NA
+656	NA	SMa1195	conserved hypothetical protein	AAK65310.2	NA
+657	NA	SMa1197	hypothetical protein	AAK65311.1	NA
+658	NA	SMa1198	Copper binding protein	AAK65312.1	NA
+659	NA	SMa1200	conserved hypothetical protein	AAK65313.2	NA
+660	NA	SMa1201	hypothetical protein	AAK65314.1	NA
+661	NA	SMa1207	Transcriptional regulator, CAP/Crp family	AAK65315.2	NA
+662	fixS1	SMa1208	FixS1 nitrogen fixation protein	AAK65316.1	NA
+663	fixI1	SMa1209	FixI1 ATPase	AAK65317.1	NA
+664	fixH	SMa1210	FixH nitrogen fixation protein	AAK65318.1	NA
+665	fixG	SMa1211	FixG iron sulfur membrane protein	AAK65319.1	NA
+666	fixP1	SMa1213	FixP1 di-heme c-type cytochrome	AAK65320.1	1.9.3.1
+667	fixQ1	SMa1214	FixQ1 nitrogen fixation protein	AAK65321.1	1.9.3.1
+668	fixO1	SMa1216	FixO1 cytochrome C oxidase subunit	AAK65322.1	1.9.3.1
+669	fixN1	SMa1220	FixN1 cytochrome c oxidase subunit 1	AAK65323.1	1.9.3.1
+670	fixM	SMa1223	FixM flavoprotein oxidoreductase	AAK65324.1	NA
+671	fixK1	SMa1225	FixK1 transcriptional regulator	AAK65325.1	NA
+672	fixT1	SMa1226	FixT 1 antikinase protein	AAK65326.1	NA
+673	fixJ	SMa1227	FixJ response regulator	AAK65327.1	NA
+674	fixL	SMa1229	FixL oxygen-regulated histidine kinase	AAK65328.1	NA
+675	NA	SMa1231	conserved hypothetical protein	AAK65329.1	NA
+676	napC	SMa1232	NapC membrane-bound tetraheme cytochrome c 	AAK65330.1	NA
+677	napB	SMa1233	NapB periplasmic nitrate reductase cytochrome 	AAK65331.1	NA
+678	napA	SMa1236	NapA periplasmic nitrate reductase	AAK65332.1	1.7.99.4
+679	napD	SMa1239	NapD component of periplasmic nitrate reductase	AAK65333.1	NA
+680	napF	SMa1240	NapF component of periplasmic nitrate reductase	AAK65334.1	NA
+681	napE	SMa1241	NapE component of periplasmic nitrate reductase	AAK65335.1	NA
+682	azu1	SMa1243	Azu1 pseudoazurin	AAK65336.1	NA
+683	nnrR	SMa1245	NnrR transcriptional regulator, likely involved 	AAK65337.1	NA
+684	nirV	SMa1247	NirV protein	AAK65338.1	NA
+685	nirK	SMa1250	NirK nitrite reductase	AAK65339.1	1.7.2.1
+686	nnrS	SMa1252	NnrS family protein	AAK65340.1	NA
+687	NA	SMa1253	Hypothetical protein	AAK65342.1	NA
+688	NA	SMa1255	Conserved hypothetical protein	AAK65343.1	NA
+689	NA	SMa1256	conserved hypothetical protein	AAK65344.1	NA
+690	NA	SMa1259	conserved hypothetical protein	AAK65345.1	NA
+691	NA	SMa1261	conserved hypothetical protein	AAK65346.2	NA
+692	NA	SMa1262	Conserved hypothetical protein	AAK65347.2	NA
+693	NA	SMa1264	Conserved hypothetical protein	AAK65348.2	NA
+694	hemN	SMa1266	HemN coproporphyrinogen III oxidase	AAK65349.1	1.3.3.3
+695	norD	SMa1269	NorD accessory protein for nitric oxide 	AAK65350.1	NA
+696	norQ	SMa1272	NorQ accessory protein for nitric oxide 	AAK65351.1	NA
+697	norB	SMa1273	NorB nitric oxide reductase, large subunit	AAK65352.1	1.7.99.7
+698	norC	SMa1276	NorC nitric oxide reductase, small subunit	AAK65353.1	1.7.99.7
+699	norE	SMa1279	NorE accessory protein for nitric oxide 	AAK65354.1	NA
+700	nnrU	SMa1283	NnrU-like protein	AAK65355.1	NA
+701	NA	SMa1285	Aromatic acid decarboxylase	AAK65356.1	NA
+702	NA	SMa1288	Carboxylase	AAK65357.2	NA
+703	NA	SMa1289	conserved hypothetical protein	AAK65358.1	NA
+704	NA	SMa1291	Protease	AAK65359.1	NA
+705	NA	SMa1292	Peptidase	AAK65360.1	NA
+706	NA	SMa1294	conserved hypothetical protein	AAK65361.2	NA
+707	adhA1	SMa1296	Alcohol dehydrogenase, Zn-dependent class III	AAK65362.1	1.1.1.1
+708	NA	SMa1297	conserved hypothetical protein	AAK65363.2	NA
+709	NA	SMa1299	Transcriptional regulator, TetR family	AAK65365.1	NA
+710	NA	SMa1301	Permease	AAK65366.2	NA
+711	virB11	SMa1302	VirB11-like ATPase	AAK65367.1	NA
+712	virB10	SMa1303	VirB10-like transmembrane secretion protein	AAK65368.1	NA
+713	virB9	SMa1306	VirB9 type IV secretion protein	AAK65369.1	NA
+714	virB8	SMa1308	VirB8 type IV secretion protein	AAK65370.1	NA
+715	virB7	SMa1310	VirB7-like protein	AAK65371.2	NA
+716	virB6	SMa1311	VirB6 type IV secretion protein	AAK65372.1	NA
+717	virB5	SMa1313	VirB5 type IV secretion protein	AAK65373.2	NA
+718	virB4	SMa1315	VirB4 type IV secretion protein	AAK65374.1	NA
+719	virB3	SMa1318	VirB3 type IV secretion protein	AAK65375.2	NA
+720	virB2	SMa1319	VirB2 type IV secretion protein	AAK65376.1	NA
+721	virB1	SMa1321	VirB1 type IV secretion protein	AAK65377.1	NA
+722	NA	SMa1322	conserved hypothetical protein	AAK65378.1	NA
+723	rctA	SMa1323	Transcription regulator	AAK65379.1	NA
+724	NA	SMa1325	Hypothetical protein	AAK65380.1	NA
+725	NA	SMa1326	Conserved hypothetical protein	AAK65381.1	NA
+726	NA	SMa1327	conserved hypothetical protein	AAK65382.1	NA
+727	NA	SMa1328	Permease	AAK65383.1	NA
+728	NA	SMa1329	Peptidase	AAK65384.2	NA
+729	NA	SMa1331	conserved hypothetical protein	AAK65385.1	NA
+730	NA	SMa1332	Conserved hypothetical protein	AAK65386.1	NA
+731	NA	SMa1334	conserved hypothetical protein	AAK65387.1	NA
+732	NA	SMa5030	Transcriptional regulator, TetR family	ACF07982.1	NA
+733	NA	SMa1337	ABC transporter, periplasmic solute-binding 	AAK65389.2	NA
+734	NA	SMa1339	ABC transporter, permease, involved in amino 	AAK65390.2	NA
+735	NA	SMa1341	ABC transporter, permease, involved in amino 	AAK65391.1	NA
+736	NA	SMa1344	ABC transporter, ATP-binding protein, involved 	AAK65392.1	NA
+737	NA	SMa1345	ABC transporter ATP-binding protein, involved in 	AAK65393.1	NA
+738	NA	SMa1347	dehydrogenase	AAK65394.2	NA
+739	NA	SMa1349	Transcriptional regulator, GntR family	AAK65395.1	NA
+740	NA	SMa1351	enolase	AAK65396.1	NA
+741	NA	SMa1353	Isomerase	AAK65397.1	NA
+742	NA	SMa1354	Isomerase	AAK65398.2	NA
+743	NA	SMa3011	Conserved hypothetical protein	AAK65399.1	NA
+744	NA	SMa1356	TRm3 transposase	AAK65400.1	NA
+745	NA	SMa1358	Lyase	AAK65401.2	NA
+746	NA	SMa1361	conserved hypothetical protein	AAK65402.1	NA
+747	NA	SMa1362	ABC transporter, permease	AAK65403.1	NA
+748	NA	SMa1363	ABC transporter, permease	AAK65404.1	NA
+749	NA	SMa1364	ABC transporter, periplasmic solute-binding 	AAK65405.1	NA
+750	NA	SMa5008	hypothetical protein	ACF07983.1	NA
+751	NA	SMa1365	hypothetical protein	AAK65406.1	NA
+752	NA	SMa1367	short chain alcohol dehydrogenase-related 	AAK65407.2	NA
+753	NA	SMa1368	conserved hypothetical protein	AAK65408.1	NA
+754	NA	SMa1370	ABC transporter, ATP-binding protein	AAK65409.1	NA
+755	NA	SMa1371	ABC transporter, ATP-binding protein	AAK65410.1	NA
+756	NA	SMa1374	ABC transporter, permease	AAK65411.1	NA
+757	NA	SMa1373	ABC transporter, permease	AAK65412.2	NA
+758	NA	SMa1375	ABC transporter, periplasmic solute-binding 	AAK65413.2	NA
+759	NA	SMa1377	Amidase	AAK65414.1	NA
+760	NA	SMa1379	ABC transporter, periplasmic solute-binding 	AAK65415.1	NA
+761	NA	SMa1381	Possible oxidase	AAK65416.1	NA
+762	NA	SMa5031	conserved hypothetical protein	ACF07984.1	NA
+763	NA	SMa1386	oxidoreductase	AAK65417.2	NA
+764	NA	SMa1387	Transcriptional regulator, LysR family	AAK65418.1	NA
+765	etfA2	SMa1389	EtfA2 electron-transport flavoprotein, 	AAK65419.1	NA
+766	etfB2	SMa1391	EtfB2 electron transport flavoprotein, beta 	AAK65420.1	NA
+767	NA	SMa1394	Conserved hypothetical protein	AAK65421.1	NA
+768	NA	SMa1397	Conserved hypothetical protein	AAK65422.1	NA
+769	NA	SMa1398	short chain alcohol dehydrogenase-related 	AAK65423.1	NA
+770	NA	SMa1400	Acyl-CoA dehydrogenase	AAK65424.2	NA
+771	NA	SMa1403	oxidoreductase	AAK65425.1	NA
+772	ttuD3	SMa1406	TtuD3 hydroxypyruvate reductase	AAK65426.1	1.1.1.81
+773	NA	SMa1408	Hydratase/isomerase	AAK65427.1	NA
+774	NA	SMa1409	Acyl-CoA transferase	AAK65428.1	2.8.3.-
+775	NA	SMa1410	Oxidoreductase	AAK65429.1	NA
+776	NA	SMa1413	conserved hypothetical protein	AAK65430.1	NA
+777	NA	SMa1414	Dehydrogenase, FAD-dependent	AAK65431.1	NA
+778	NA	SMa1415	aldehyde dehydrogenase, NAD(P)-dependent	AAK65432.1	NA
+779	NA	SMa1417	Dehydrogenase, Zn-dependent	AAK65433.1	NA
+780	NA	SMa1418	ABC transporter, permease, involved in transport 	AAK65434.1	NA
+781	NA	SMa1421	ABC transporter, ATP-binding protein, involved 	AAK65435.1	NA
+782	NA	SMa1424	ABC transporter, permease, involved in transport 	AAK65436.2	NA
+783	NA	SMa1427	ABC transporter, periplasmic solute-binding 	AAK65437.1	NA
+784	NA	SMa1428	Transcriptional regulator, TetR family	AAK65438.1	NA
+785	NA	SMa1430	Dehydrogenase, Zn-dependent	AAK65439.2	NA
+786	NA	SMa1431	conserved hypothetical protein	AAK65440.1	NA
+787	NA	SMa1434	ABC transporter, ATP-binding protein	AAK65441.1	NA
+788	NA	SMa1435	ABC transporter, permease	AAK65442.1	NA
+789	NA	SMa1437	ABC transporter, permease	AAK65443.1	NA
+790	NA	SMa1438	ABC transporter, periplasmic solute-binding 	AAK65444.1	NA
+791	NA	SMa1440	5-dehydro-4-deoxyglucarate dehydratase	AAK65445.1	4.2.1.41
+792	NA	SMa1442	Transcriptional regulator, GntR family	AAK65446.1	NA
+793	NA	SMa1445	hypothetical protein	AAK65447.2	NA
+794	NA	SMa1447	Permease, MFS	AAK65448.2	NA
+795	NA	SMa1450	Thiolase	AAK65449.1	NA
+796	NA	SMa1452	short chain alcohol dehydrogenase-related 	AAK65450.1	NA
+797	NA	SMa1454	Transcriptional regulator, AraC family	AAK65451.2	NA
+798	NA	SMa1455	conserved hypothetical protein	AAK65452.1	NA
+799	NA	SMa1456	conserved hypothetical protein	AAK65453.1	NA
+800	NA	SMa1459	Dehydrogenase, malate/L-lactate family	AAK65454.1	NA
+801	NA	SMa1461	Mandelate racemase/muconate lactonizing enzyme 	AAK65455.1	5.5.1.1
+802	NA	SMa1462	ABC transporter, periplasmic solute-binding 	AAK65456.1	NA
+803	NA	SMa1465	ABC transporter permease	AAK65457.1	NA
+804	NA	SMa1466	ABC transporter, ATP binding protein	AAK65458.1	NA
+805	NA	SMa1467	ABC transporter, permease	AAK65459.1	NA
+806	NA	SMa1471	conserved hypothetical protein	AAK65460.1	NA
+807	NA	SMa1473	proline dipeptidase	AAK65461.1	3.4.13.9
+808	NA	SMa1476	Transcriptional regulator, AraC family	AAK65462.2	NA
+809	NA	SMa1478	Trimethylamine methyltransferase	AAK65463.1	NA
+810	NA	SMa1480	Transcriptional regulator, LysR family	AAK65464.2	NA
+811	NA	SMa1483	dehydrogenase	AAK65465.1	NA
+812	NA	SMa5009	hypothetical protein	ACF07985.1	NA
+813	NA	SMa1485	Permease, MFS	AAK65466.2	NA
+814	NA	SMa1487	Cytochrome C	AAK65467.1	NA
+815	NA	SMa1488	oxidoreductase	AAK65468.1	NA
+816	NA	SMa1491	Oxidoreductase	AAK65469.2	NA
+817	NA	SMa1493	Transcriptional regulator, LysR family	AAK65470.1	NA
+818	NA	SMa1494	Hypothetical protein	AAK65471.1	NA
+819	NA	SMa1495	Aminotransferase	AAK65472.1	2.6.1.51
+820	gst12	SMa1497	Gst12 glutathione-S-transferase	AAK65473.1	2.5.1.18
+821	NA	SMa1500	oxidoreductase	AAK65474.1	NA
+822	NA	SMa1501	conserved hypothetical protein	AAK65475.1	NA
+823	NA	SMa1503	conserved hypothetical protein	AAK65476.1	NA
+824	NA	SMa1505	Transcriptional regulator, GntR family	AAK65477.1	NA
+825	NA	SMa1507	Conserved hypothetical protein	AAK65478.1	NA
+826	NA	SMa1509	ABC transporter, ATP-binding protein	AAK65479.1	NA
+827	NA	SMa1513	ABC transporter, permease	AAK65480.1	NA
+828	NA	SMa1514	ABC transporter, permease	AAK65481.1	NA
+829	NA	SMa1515	conserved hypothetical protein	AAK65482.2	NA
+830	nuoH2	SMa1516	NuoH2 NADH:ubiquinone oxidoreductase subunit 1 	AAK65483.1	1.6.5.3
+831	nuoI2	SMa1519	NADH:ubiquinone oxidoreductase subunit 6 (chain 	AAK65484.1	1.6.5.3
+832	NA	SMa1521	conserved hypothetical protein	AAK65485.1	NA
+833	nuoG2	SMa1523	NuoG2 NADH:quinone oxidoreductase subunit 7 	AAK65486.1	1.6.5.3
+834	nuoF2	SMa1525	NuoF2 NADH:quinone oxidoreductase (chain F)	AAK65487.1	1.6.5.3
+835	nuoE2	SMa1526	NuoE2 NADH:quinone oxidoreductase (chain E)	AAK65488.1	1.6.5.3
+836	nuoD2	SMa1529	NuoD2 NADH:quinone oxidoreductase subunit 7 	AAK65489.1	1.6.5.3
+837	nuoC2	SMa1531	NuoC2 NADH:quinone oxidoreductase (chain C)	AAK65490.1	1.6.5.3
+838	nuoB2	SMa1532	NuoB2 NADH:quinone oxidoreductase (chain B)	AAK65491.1	1.6.5.3
+839	nuoA2	SMa1533	NuoA2 NADH:quinone oxidoreductase subunit 3 	AAK65492.1	1.6.5.3
+840	nuoN2	SMa1535	NuoN2 NADH:quinone oxidoreductase subunit 2 	AAK65493.1	1.6.5.3
+841	nuoM2	SMa1536	NuoM2 NADH:quinone oxidoreductase subunit 4 	AAK65494.1	1.6.5.3
+842	NA	SMa1538	oxidoreductase	AAK65495.2	NA
+843	NA	SMa1539	conserved hypothetical protein	AAK65496.1	NA
+844	NA	SMa1541	oxidoreductase	AAK65497.1	NA
+845	nuoK2	SMa1544	NuoK2 NADH:quinone oxidoreductase subunit 11 	AAK65498.1	1.6.5.3
+846	nuoJ2	SMa1545	NuoJ2 NADH:quinone oxidoreductase subunit 6 	AAK65499.2	1.6.5.3
+847	pcm	SMa1547	protein-L-isoaspartate O-methyltransferase	AAK65500.1	2.1.1.77
+848	NA	SMa1548	Diguanylate cyclase/phosphodiesterase	AAK65501.2	NA
+849	NA	SMa1550	Response regulator	AAK65502.1	NA
+850	NA	SMa1552	MCP methyltransferase, CheR-type	AAK65503.1	NA
+851	NA	SMa1554	Putative chemotaxis protein	AAK65504.1	NA
+852	mcpS	SMa1556	Methyl-accepting chemotaxis protein	AAK65505.1	NA
+853	NA	SMa1558	Sensor histidine kinase	AAK65506.1	NA
+854	cheB2	SMa1561	CheB2 chemotaxis methylesterase	AAK65507.1	NA
+855	NA	SMa1562	Pilus assembly protein	AAK65508.2	NA
+856	NA	SMa1564	Pilus assembly protein	AAK65509.1	NA
+857	cpaF2	SMa1568	CpaF2 pilus assembly protein	AAK65510.1	NA
+858	pilA2	SMa1570	PilA2 pilus assembly protein	AAK65511.1	NA
+859	NA	SMa1572	conserved hypothetical protein	AAK65512.1	NA
+860	cpaE2	SMa1573	CpaE2 pilus assembly protein	AAK65513.1	NA
+861	cpaB2	SMa1576	CpaB2 pilus assembly protein	AAK65514.1	NA
+862	cpaA2	SMa1578	CpaA2 prepilin peptidase	AAK65515.1	3.4.23.43
+863	NA	SMa1579	conserved hypothetical protein	AAK65516.2	NA
+864	NA	SMa1580	conserved hypothetical protein	AAK65517.1	NA
+865	NA	SMa1582	conserved hypothetical protein	AAK65518.1	NA
+866	cyaF5	SMa1583	CyaF5 adenylate cyclase	AAK65519.2	4.6.1.1
+867	NA	SMa1585	conserved hypothetical protein	AAK65520.1	NA
+868	syrB2	SMa1586	SyrB2 regulator	AAK65521.1	NA
+869	eglC	SMa1587	EglC Endo-1,3-1,4-beta-glycanase	AAK65522.1	3.2.1.-
+870	NA	SMa1589	conserved hypothetical protein	AAK65523.2	NA
+871	cyaI3	SMa1591	CyaI3 adenylate/guanylate cyclase	AAK65524.1	4.6.1.1
+872	NA	SMa1592	oxidoreductase, fragment	AAK65525.1	NA
+873	NA	SMa1593	oxidoreductase, fragment	AAK65526.1	NA
+874	NA	SMa1594	hypothetical protein	AAK65527.1	NA
+875	NA	SMa1595	hypothetical protein	AAK65528.1	NA
+876	NA	SMa1597	Pilus assembly chaperone	AAK65529.1	NA
+877	NA	SMa1600	Potassium efflux protein	AAK65530.1	NA
+878	NA	SMa1602	Transcriptional regulator, LysR family	AAK65531.2	NA
+879	NA	SMa1604	NADH:flavin oxidoreductase / NADH oxidase	AAK65532.1	NA
+880	NA	SMa4016	conserved hypothetical protein	AAK65533.1	NA
+881	NA	SMa1608	conserved hypothetical protein	AAK65534.1	NA
+882	NA	SMa1610	transposase, fragment	AAK65535.1	NA
+883	NA	SMa1612	transposase, fragment	AAK65536.1	NA
+884	NA	SMa3012	transposase, fragment	AAK65537.1	NA
+885	NA	SMa1614	TRm1b transposase	AAK65538.1	NA
+886	NA	SMa1615	TRm1a transposase	AAK65539.1	NA
+887	NA	SMa1617	integrase/recombinase	AAK65540.1	NA
+888	NA	SMa1619	integrase/recombinase	AAK65541.1	NA
+889	NA	SMa1620	integrase/recombinase	AAK65542.1	NA
+890	NA	SMa1623	transposase, fragment	AAK65543.1	NA
+891	NA	SMa1625	Transcriptional regulator, LysR family	AAK65544.1	NA
+892	NA	SMa1626	conserved hypothetical protein	AAK65545.1	NA
+893	NA	SMa1629	short chain alcohol dehydrogenase-related 	AAK65546.1	1.1.1.-
+894	NA	SMa5038	hypothetical protein	ACF07986.1	NA
+895	NA	SMa1630	hypothetical protein	AAK65547.2	NA
+896	NA	SMa1632	Transcriptional regulator, LysR family	AAK65548.1	NA
+897	NA	SMa4011	hypothetical protein	AAK65549.1	NA
+898	NA	SMa1636	TRm17a transposase fragment	AAK65550.1	NA
+899	NA	SMa1637	TRm17b transposase fragment	AAK65551.1	NA
+900	NA	SMa1639	hypothetical protein	AAK65553.2	NA
+901	NA	SMa1641	Permease, MFS	AAK65554.1	NA
+902	NA	SMa1643	hypothetical protein	AAK65555.2	NA
+903	NA	SMa1644	ABC transporter permease	AAK65556.1	NA
+904	NA	SMa5010	hypothetical protein	ACF07987.1	NA
+905	NA	SMa1646	ABC transporter, ATP-binding protein, involved 	AAK65557.2	NA
+906	NA	SMa1647	ABC transporter, ATP-binding protein, involved 	AAK65558.1	NA
+907	NA	SMa1649	ABC transporter, permease, involved in amino 	AAK65559.1	NA
+908	NA	SMa1650	ABC transporter, permease, involved in amino 	AAK65560.1	NA
+909	NA	SMa1651	ABC transporter, periplasmic solute-binding 	AAK65561.1	NA
+910	NA	SMa1652	racemase	AAK65562.1	NA
+911	NA	SMa1653	conserved hypothetical protein	AAK65563.1	NA
+912	NA	SMa1654	Transcriptional regulator, GntR family	AAK65564.1	NA
+913	NA	SMa1657	hypothetical protein	AAK65565.1	NA
+914	NA	SMa1658	hypothetical protein	AAK65566.1	NA
+915	NA	SMa1660	conserved hypothetical protein	AAK65567.1	NA
+916	NA	SMa1662	Cation/multidrug efflux pump	AAK65568.1	NA
+917	NA	SMa1664	HlyD-family protein	AAK65569.1	NA
+918	NA	SMa1666	hypothetical protein	AAK65570.1	NA
+919	arcD1	SMa1667	ArcD1 arginine/ornithine antiporter	AAK65571.1	NA
+920	arcD2	SMa1668	ArcD2 arginine/ornithine antiporter	AAK65572.1	NA
+921	arcA2	SMa1670	ArcA2 arginine deiminase	AAK65573.1	3.5.3.6
+922	NA	SMa1672	conserved hypothetical protein	AAK65574.2	NA
+923	NA	SMa1674	hypothetical protein	AAK65575.1	NA
+924	NA	SMa1675	conserved hypothetical protein	AAK65576.1	NA
+925	NA	SMa1676	conserved hypothetical protein	AAK65577.2	NA
+926	NA	SMa1677	Metallo-dependent hydrolase	AAK65578.2	NA
+927	NA	SMa1678	hypothetical protein	AAK65579.1	NA
+928	NA	SMa1680	conserved hypothetical protein	AAK65580.1	NA
+929	NA	SMa1682	nonspecific acid phosphatase precursor	AAK65581.1	NA
+930	NA	SMa1683	Arylsulfatase	AAK65582.1	NA
+931	NA	SMa1684	Sensory histidine kinase	AAK65583.1	NA
+932	NA	SMa1686	Two-component response regulator	AAK65584.1	NA
+933	NA	SMa1688	Two-component response regulator	AAK65585.1	NA
+934	NA	SMa1691	Cation transport ATPase	AAK65586.1	NA
+935	NA	SMa5033	hypothetical protein	ACF07988.1	NA
+936	NA	SMa1696	Sensor histidine kinase	AAK65589.1	NA
+937	NA	SMa1697	conserved hypothetical protein	AAK65590.1	NA
+938	syrB1	SMa1698	SyrB1 regulator	AAK65591.1	NA
+939	NA	SMa1700	conserved hypothetical protein	AAK65593.1	NA
+940	NA	SMa1702	conserved hypothetical protein	AAK65594.1	NA
+941	NA	SMa1704	conserved hypothetical protein	AAK65595.2	NA
+942	NA	SMa1705	Transcriptional regulator, MucR family	AAK65596.1	NA
+943	NA	SMa1706	hypothetical protein	AAK65597.1	NA
+944	NA	SMa1711	Arginase/agmatinase/formimionoglutamate 	AAK65599.1	NA
+945	adeC3	SMa1715	AdeC3 adenine deaminase	AAK65600.1	3.5.4.2
+946	NA	SMa1717	Permease	AAK65601.2	NA
+947	adeC4	SMa1718	AdeC4 adenine deaminase	AAK65602.1	3.5.4.2
+948	NA	SMa1720	Transcriptional regulator, LysR family	AAK65603.1	NA
+949	NA	SMa1724	Isochorismatase family protein	AAK65605.2	NA
+950	NA	SMa1725	Transcriptional regulator	AAK65606.2	NA
+951	NA	SMa1726	Transcriptional regulator, TetR family	AAK65607.2	NA
+952	NA	SMa1727	alpha/beta hydrolase fold protein	AAK65608.1	NA
+953	proX	SMa1729	ABC transporter, periplasmic solute-binding 	AAK65609.1	NA
+954	betB2	SMa1731	BetB2 betaine aldehyde dehydrogenase	AAK65610.1	1.2.1.8
+955	NA	SMa1732	conserved hypothetical protein	AAK65611.1	NA
+956	NA	SMa1734	conserved hypothetical protein	AAK65612.2	NA
+957	NA	SMa1735	oxidoreductase	AAK65613.1	NA
+958	NA	SMa1736	Transcriptional regulator, LysR family	AAK65614.1	NA
+959	NA	SMa1737	conserved hypothetical protein	AAK65615.1	NA
+960	NA	SMa1740	Siderophore-interacting protein	AAK65616.1	NA
+961	NA	SMa1741	ABC transporter, ATP-binding protein	AAK65617.1	NA
+962	NA	SMa1742	ABC transporter, permease, Fe3+-siderophore 	AAK65618.1	NA
+963	NA	SMa1745	ABC transporter, permease, Fe3+-siderophore 	AAK65619.1	NA
+964	NA	SMa1746	ABC transporter, periplasmic solute-binding 	AAK65620.2	NA
+965	NA	SMa1747	TonB-dependent siderophore receptor	AAK65621.1	NA
+966	NA	SMa1749	putative transcriptional regulator	AAK65622.1	NA
+967	NA	SMa1750	conserved hypothetical protein	AAK65623.2	NA
+968	NA	SMa1751	ABC transporter, permease	AAK65624.1	NA
+969	NA	SMa1753	ABC transporter, permease	AAK65625.2	NA
+970	NA	SMa1754	ABC transporter, ATP-binding protein	AAK65626.1	NA
+971	NA	SMa1755	ABC transporter, periplasmic solute-binding 	AAK65627.1	NA
+972	NA	SMa1757	short chain alcohol dehydrogenase-related 	AAK65628.1	NA
+973	NA	SMa1759	Transcriptional regulator, GntR family	AAK65629.1	NA
+974	NA	SMa1760	phosphotransferase	AAK65630.1	NA
+975	NA	SMa1761	Aminotransferase	AAK65631.1	NA
+976	NA	SMa1765	conserved hypothetical protein	AAK65632.1	NA
+977	NA	SMa1766	conserved hypothetical protein	AAK65633.1	NA
+978	NA	SMa1767	Hypothetical protein	AAK65634.1	NA
+979	NA	SMa1769	conserved hypothetical protein	AAK65635.1	NA
+980	NA	SMa1770	Hypothetical protein	AAK65636.1	NA
+981	NA	SMa1776	conserved hypothetical protein	AAK65638.1	NA
+982	NA	SMa1779	Hypothetical protein	AAK65639.1	NA
+983	NA	SMa1780	conserved hypothetical protein	AAK65640.1	NA
+984	NA	SMa1782	Transcriptional regulator, LysR family	AAK65641.1	NA
+985	NA	SMa1783	Hypothetical protein	AAK65642.1	NA
+986	NA	SMa1784	conserved hypothetical protein	AAK65643.1	NA
+987	NA	SMa1787	transposase, fragment	AAK65644.2	NA
+988	cyaI4	SMa1789	CyaI4 adenylate/guanylate cyclase	AAK65645.1	NA
+989	NA	SMa5032	hypothetical protein	ACF07989.1	NA
+990	NA	SMa1793	conserved hypothetical protein	AAK65647.1	NA
+991	NA	SMa1797	Hypothetical protein	AAK65648.1	NA
+992	kup2	SMa3014	Kup2 Potassium uptake protein	AAK65649.1	NA
+993	NA	SMa1799	TRm2011-2b transposase	AAK65650.2	NA
+994	NA	SMa3015	Reverse transcriptase, maturase	AAK65651.1	NA
+995	NA	SMa1803	TRm2011-2a transposase	AAK65652.1	NA
+996	NA	SMa1808	Hypothetical protein	AAK65654.1	NA
+997	NA	SMa1809	Non-heme haloperoxidase	AAK65655.2	NA
+998	NA	SMa1811	conserved hypothetical protein	AAK65656.1	NA
+999	NA	SMa1814	conserved hypothetical protein	AAK65657.1	NA
+1000	NA	SMa1817	conserved hypothetical protein	AAK65658.1	NA
+1001	NA	SMa1819	Conserved hypothetical protein	AAK65659.1	NA
+1002	NA	SMa1820	conserved hypothetical protein	AAK65660.1	NA
+1003	NA	SMa1821	hydrolase	AAK65661.2	NA
+1004	NA	SMa1822	conserved hypothetical protein	AAK65662.2	NA
+1005	NA	SMa1823	Transcriptional regulator	AAK65663.1	NA
+1006	NA	SMa1825	Transcriptional regulator	AAK65664.1	NA
+1007	NA	SMa1828	Transcriptional regulator, LysR family	AAK65665.1	NA
+1008	NA	SMa1831	conserved hypothetical protein	AAK65666.1	NA
+1009	NA	SMa1832	Hypothetical protein	AAK65667.1	NA
+1010	NA	SMa1833	dehydrogenase	AAK65668.1	1.1.1.-
+1011	NA	SMa1835	conserved hypothetical protein	AAK65669.2	NA
+1012	argE	SMa1836	ArgE acetylornithine deacetylase	AAK65670.1	3.5.1.16
+1013	NA	SMa1838	dehydrogenase	AAK65671.2	NA
+1014	NA	SMa1840	conserved hypothetical protein	AAK65672.1	NA
+1015	NA	SMa1844	aldehyde dehydrogenase, NAD(P)-dependent	AAK65673.1	1.2.1.3
+1016	NA	SMa1846	dehydrogenase	AAK65674.1	1.1.1.93
+1017	gabD5	SMa1848	GabD5 succinate semialdehyde dehdyrogenase	AAK65675.1	1.2.1.16
+1018	NA	SMa1850	oxidoreductase	AAK65676.1	NA
+1019	NA	SMa1851	hydrolase	AAK65677.1	3.8.1.2
+1020	NA	SMa1853	conserved hypothetical protein	AAK65678.1	NA
+1021	NA	SMa1855	Aminotransferase	AAK65679.1	NA
+1022	NA	SMa1857	hydrolase	AAK65680.1	NA
+1023	NA	SMa1860	ABC transporter, periplasmic solute-binding 	AAK65681.1	NA
+1024	NA	SMa1862	ABC transporter permease	AAK65682.1	NA
+1025	NA	SMa1863	ABC transporter, permease	AAK65683.1	NA
+1026	NA	SMa1864	ABC transporter, ATP-binding protein	AAK65684.1	NA
+1027	NA	SMa1867	Transcriptional regulator, AsnC/Lrp family	AAK65685.1	NA
+1028	NA	SMa1869	amino acid oxidase	AAK65686.1	NA
+1029	NA	SMa1871	cyclodeaminase	AAK65687.2	NA
+1030	NA	SMa1872	Threonine dehydratase	AAK65688.1	NA
+1031	NA	SMa1874	Hypothetical protein	AAK65689.1	NA
+1032	NA	SMa4012	reverse transcriptase	AAK65690.1	NA
+1033	NA	SMa1878	transposase, fragment	AAK65691.1	NA
+1034	NA	SMa1881	Hypothetical protein	AAK65692.1	NA
+1035	NA	SMa1882	Transcriptional regulator	AAK65693.1	NA
+1036	NA	SMa1884	Cation/multidrug efflux protein	AAK65694.2	NA
+1037	NA	SMa1885	HlyD-family protein	AAK65695.1	NA
+1038	NA	SMa1887	Transcriptional regulator	AAK65696.1	NA
+1039	NA	SMa1890	hypothetical protein	AAK65697.1	NA
+1040	NA	SMa1891	hypothetical protein	AAK65698.1	NA
+1041	NA	SMa1893	Transcriptional regulator, LysR family	AAK65699.1	NA
+1042	NA	SMa1894	conserved hypothetical protein	AAK65700.1	NA
+1043	msrA3	SMa1896	Peptide methionine sulfoxide reductase	AAK65701.1	1.8.4.11
+1044	NA	SMa1898	conserved hypothetical protein	AAK65702.1	NA
+1045	NA	SMa1900	Hypothetical protein	AAK65703.1	NA
+1046	NA	SMa1902	Hypothetical protein	AAK65704.1	NA
+1047	NA	SMa1903	serine protease	AAK65705.1	3.4.21.-
+1048	mrcB	SMa1905	MrcB penicillin binding protein B	AAK65706.1	NA
+1049	NA	SMa1907	Hypothetical protein	AAK65707.1	NA
+1050	NA	SMa1910	conserved hypothetical protein	AAK65708.2	NA
+1051	NA	SMa1913	Na+/H+ antiporter	AAK65709.2	NA
+1052	NA	SMa1916	Permease	AAK65710.1	NA
+1053	NA	SMa1917	conserved hypothetical protein	AAK65711.1	NA
+1054	NA	SMa1918	conserved hypothetical protein	AAK65712.1	NA
+1055	NA	SMa1919	Hypothetical protein	AAK65713.1	NA
+1056	NA	SMa1921	Hypothetical protein	AAK65714.1	NA
+1057	NA	SMa1924	Conserved hypothetical protein	AAK65715.1	NA
+1058	NA	SMa1927	Conserved hypothetical protein	AAK65716.1	NA
+1059	NA	SMa1929	conserved hypothetical protein	AAK65717.1	NA
+1060	NA	SMa1933	Transcriptional regulator, LysR family	AAK65718.2	NA
+1061	wrbA3	SMa1935	WrbA3 flavoprotein	AAK65719.1	NA
+1062	NA	SMa1937	Membrane protein	AAK65720.1	NA
+1063	NA	SMa1939	oxidoreductase	AAK65721.1	NA
+1064	NA	SMa1943	hypothetical protein	AAK65722.1	NA
+1065	NA	SMa1945	Hypothetical protein	AAK65723.1	NA
+1066	NA	SMa1948	Transcriptional regulator, CAP/Crp family	AAK65724.1	NA
+1067	NA	SMa1951	Hypothetical protein	AAK65725.1	NA
+1068	NA	SMa1952	Beta-lactamase	AAK65726.1	NA
+1069	NA	SMa1953	conserved hypothetical protein	AAK65727.1	NA
+1070	NA	SMa1954	Transcriptional regulator, LysR family	AAK65728.1	NA
+1071	NA	SMa1956	conserved hypothetical protein	AAK65729.2	NA
+1072	NA	SMa1957	conserved hypothetical protein	AAK65730.1	NA
+1073	NA	SMa1959	conserved hypothetical protein	AAK65731.2	NA
+1074	NA	SMa1960	Conserved hypothetical protein	AAK65732.2	NA
+1075	NA	SMa1961	polyhydroxybutyrate depolymerase	AAK65733.2	3.1.1.-
+1076	NA	SMa1963	O-Methyltransferase	AAK65734.1	2.2.1.-
+1077	NA	SMa1965	Hypothetical protein	AAK65735.1	NA
+1078	NA	SMa1966	Transcriptional regulator, LysR family	AAK65736.1	NA
+1079	NA	SMa1967	hypothetical protein	AAK65737.1	NA
+1080	NA	SMa1968	amidotransferase	AAK65738.2	NA
+1081	NA	SMa1969	amidotransferase	AAK65739.1	NA
+1082	NA	SMa1971	conserved hypothetical protein	AAK65740.1	NA
+1083	NA	SMa1973	Hypothetical protein	AAK65741.1	NA
+1084	NA	SMa1974	Hypothetical protein	AAK65742.1	NA
+1085	NA	SMa1976	epimerase/aldolase	AAK65743.2	NA
+1086	NA	SMa1978	hydrolase	AAK65744.2	NA
+1087	NA	SMa1979	Transcriptional regulator, LysR family	AAK65745.1	NA
+1088	NA	SMa1985	epimerase	AAK65746.1	NA
+1089	NA	SMa1987	Transcriptional regulator, LysR family	AAK65747.1	NA
+1090	NA	SMa1990	Conserved hypothetical protein	AAK65749.1	NA
+1091	NA	SMa1993	hydrolase	AAK65750.2	NA
+1092	NA	SMa1995	ABC transporter, permease	AAK65751.1	NA
+1093	NA	SMa1996	ABC transporter, permease	AAK65752.1	NA
+1094	NA	SMa1998	ABC transporter, ATP-binding protein	AAK65753.1	NA
+1095	NA	SMa2000	ABC transporter, periplasmic solute-binding 	AAK65754.1	NA
+1096	NA	SMa2002	hydrolase	AAK65755.1	NA
+1097	NA	SMa2004	Transcriptional regulator, ROK family	AAK65756.1	NA
+1098	NA	SMa2008	Transcriptional regulator, TetR family	AAK65757.1	NA
+1099	NA	SMa2009	conserved hypothetical protein	AAK65758.1	NA
+1100	NA	SMa2011	Hypothetical protein	AAK65759.1	NA
+1101	NA	SMa2012	conserved hypothetical protein	AAK65760.2	NA
+1102	NA	SMa2014	hypothetical protein	AAK65761.1	NA
+1103	NA	SMa2015	hypothetical protein	AAK65762.1	NA
+1104	NA	SMa2019	hypothetical protein	AAK65763.1	NA
+1105	NA	SMa2020	Transcriptional regulator	AAK65764.1	NA
+1106	NA	SMa2023	Conserved hypothetical protein	AAK65765.2	NA
+1107	NA	SMa2025	oxidoreductase	AAK65766.2	NA
+1108	NA	SMa2027	Transcriptional regulator, LysR family	AAK65767.1	NA
+1109	NA	SMa2029	Amidohydrolase	AAK65768.2	NA
+1110	NA	SMa2031	hypothetical protein	AAK65769.1	NA
+1111	NA	SMa2032	hypothetical protein	AAK65770.1	NA
+1112	NA	SMa2033	Transglycosylase	AAK65771.1	NA
+1113	NA	SMa2034	conserved hypothetical protein	AAK65772.1	NA
+1114	NA	SMa2037	Oxidoreductase	AAK65773.2	NA
+1115	NA	SMa5011	oxidoreductase	ACF07990.1	NA
+1116	NA	SMa3016	Oxidoreductase	AAK65774.1	NA
+1117	NA	SMa2043	TRm2011-2a transposase	AAK65775.1	NA
+1118	NA	SMa4013	TRm2011-2b transposase	AAK65776.1	NA
+1119	NA	SMa2047	TRm24 transposase	AAK65777.1	NA
+1120	NA	SMa2049	conserved hypothetical protein	AAK65778.1	NA
+1121	NA	SMa2051	desaturase	AAK65779.1	NA
+1122	NA	SMa2053	MocE-like protein	AAK65780.1	NA
+1123	NA	SMa2055	hypothetical protein	AAK65781.1	NA
+1124	NA	SMa2057	hypothetical protein	AAK65782.1	NA
+1125	NA	SMa2059	hypothetical protein	AAK65783.1	NA
+1126	NA	SMa2061	conserved hypothetical protein	AAK65784.1	NA
+1127	NA	SMa2063	sensor histidine kinase	AAK65785.1	NA
+1128	NA	SMa2065	conserved hypothetical protein	AAK65786.1	NA
+1129	cysA1	SMa2067	ABC transporter, ATP-binding protein	AAK65787.1	NA
+1130	cysP1	SMa2069	NA	AAK65788.1	NA
+1131	NA	SMa2071	conserved hypothetical protein	AAK65789.2	NA
+1132	NA	SMa2073	conserved hypothetical protein	AAK65790.1	NA
+1133	NA	SMa2075	ABC transporter, periplasmic solute-binding 	AAK65791.1	NA
+1134	NA	SMa2077	Oxidoreductase	AAK65792.1	NA
+1135	NA	SMa2079	ABC transporter, ATP-binding protein	AAK65793.1	NA
+1136	NA	SMa2081	ABC transporter, ATP-binding protein	AAK65794.1	NA
+1137	NA	SMa2083	ABC transporter, permease	AAK65795.1	NA
+1138	NA	SMa2085	ABC transporter, permease	AAK65796.1	NA
+1139	NA	SMa2087	desulfurization enzyme	AAK65797.1	NA
+1140	NA	SMa2089	hypothetical protein	AAK65798.1	NA
+1141	NA	SMa2091	hypothetical protein	AAK65799.1	NA
+1142	NA	SMa2093	desulfurization enzyme	AAK65800.1	NA
+1143	NA	SMa2095	conserved hypothetical protein	AAK65801.1	NA
+1144	NA	SMa2097	oxidoreductase	AAK65802.2	NA
+1145	NA	SMa2099	NAD-dependent epimerase/dehydratase	AAK65803.2	NA
+1146	NA	SMa2101	Nitrilotriacetate monooxygenase component A	AAK65804.1	1.14.13.-
+1147	NA	SMa2103	oxidoreductase	AAK65805.2	NA
+1148	NA	SMa2105	conserved hypothetical protein	AAK65806.1	NA
+1149	NA	SMa2107	Transcriptional regulator, LysR family	AAK65807.1	NA
+1150	NA	SMa2109	conserved hypothetical protein	AAK65808.2	NA
+1151	NA	SMa2111	hypothetical protein	AAK65809.2	NA
+1152	adhC2	SMa2113	AdhC2 glutathione-dependent dehydrogenase	AAK65810.1	1.1.1.1
+1153	gst13	SMa2115	Gst13 glutathione S-transferase	AAK65811.1	2.5.1.18
+1154	NA	SMa2117	oxidoreductase	AAK65812.1	NA
+1155	NA	SMa2119	conserved hypothetical protein	AAK65813.1	NA
+1156	NA	SMa2121	conserved hypothetical protein	AAK65814.1	NA
+1157	NA	SMa2123	ABC transporter, permease	AAK65815.1	NA
+1158	NA	SMa2125	ABC transporter, permease	AAK65816.1	NA
+1159	NA	SMa2127	ABC transporter, ATP-binding protein	AAK65817.1	NA
+1160	NA	SMa2129	conserved hypothetical protein	AAK65818.2	NA
+1161	NA	SMa2131	conserved hypothetical protein	AAK65819.2	NA
+1162	NA	SMa2133	hypothetical protein	AAK65820.1	NA
+1163	glyA2	SMa2135	GlyA2 serine hydroxymethyltransferase	AAK65821.1	2.1.2.1
+1164	NA	SMa2137	dehydrogenase	AAK65822.1	NA
+1165	sgaA	SMa2139	SgaA serine-glyoxylate aminotransferase (SGAT)	AAK65823.1	2.6.1.45
+1166	purU3	SMa2141	formyltetrahydrofolate deformylase	AAK65824.1	3.5.1.10
+1167	metF	SMa2143	5,10-methylenetetrahydrofolate reductase	AAK65825.1	1.5.1.20
+1168	NA	SMa2145	aminomethyltransferase	AAK65826.1	NA
+1169	NA	SMa5035	hypothetical protein	ACF07991.1	NA
+1170	NA	SMa2147	hypothetical protein	AAK65827.1	NA
+1171	NA	SMa2151	putative DNA-binding protein	AAK65828.2	NA
+1172	NA	SMa2157	oxidoreductase	AAK65830.2	NA
+1173	NA	SMa2159	conserved hypothetical protein	AAK65831.1	NA
+1174	NA	SMa2163	Transcriptional regulator, AraC family	AAK65833.2	NA
+1175	NA	SMa2165	short chain alcohol dehydrogenase-related 	AAK65834.1	NA
+1176	NA	SMa2167	conserved hypothetical protein	AAK65835.1	NA
+1177	NA	SMa2168	tRNA-Met	NA	NA
+1178	NA	SMa4017	hypothetical protein	AAK65836.1	NA
+1179	NA	SMa2171	Transposase	AAK65837.1	NA
+1180	NA	SMa2175	Integrase/recombinase	AAK65838.1	NA
+1181	NA	SMa2187	Integrase/recombinase	AAK65839.1	NA
+1182	NA	SMa2189	Integrase/recombinase	AAK65840.1	NA
+1183	NA	SMa2191	transposase, fragment	AAK65841.1	NA
+1184	NA	SMa2193	Oxidoreductase	AAK65842.1	NA
+1185	NA	SMa2195	ABC transporter, ATP-binding protein	AAK65843.1	NA
+1186	NA	SMa2197	ABC transporter, permease	AAK65844.1	NA
+1187	NA	SMa2199	ABC transporter, periplasmic solute-binding 	AAK65845.1	NA
+1188	NA	SMa2201	conserved hypothetical protein	AAK65846.1	NA
+1189	NA	SMa2203	ABC transporter, permease	AAK65847.1	NA
+1190	NA	SMa2205	ABC transporter, permease	AAK65848.2	NA
+1191	NA	SMa2207	ABC transporter, ATP-binding protein	AAK65849.1	NA
+1192	NA	SMa2209	ABC transporter, periplasmic solute-binding 	AAK65850.1	NA
+1193	NA	SMa2211	Thiamine pyrophosphate-requiring protein	AAK65851.1	NA
+1194	NA	SMa2213	aldehyde dehydrogenase, NAD(P)-dependent	AAK65852.1	NA
+1195	NA	SMa2215	Transcriptional regulator, GntR family	AAK65853.1	NA
+1196	NA	SMa2217	decarboxylase	AAK65854.2	NA
+1197	NA	SMa2219	decarboxylase	AAK65855.1	NA
+1198	NA	SMa2221	conserved hypothetical protein	AAK65856.1	NA
+1199	NA	SMa2223	oxidoreductase	AAK65857.1	NA
+1200	NA	SMa2225	oxidoreductase	AAK65858.1	NA
+1201	NA	SMa2227	Transcriptional regulator, GntR family	AAK65859.2	NA
+1202	NA	SMa2229	conserved hypothetical protein	AAK65860.2	NA
+1203	NA	SMa2231	conserved hypothetical protein	AAK65861.1	NA
+1204	NA	SMa2233	hypothetical protein	AAK65862.2	NA
+1205	NA	SMa2235	hypothetical protein	AAK65863.1	NA
+1206	NA	SMa2237	hypothetical protein	AAK65864.1	NA
+1207	NA	SMa2239	conserved hypothetical protein	AAK65865.1	NA
+1208	NA	SMa2241	conserved hypothetical protein	AAK65866.1	NA
+1209	NA	SMa2243	conserved hypothetical protein	AAK65867.1	NA
+1210	NA	SMa2245	conserved hypothetical protein	AAK65868.1	NA
+1211	NA	SMa2249	hypothetical protein	AAK65870.1	NA
+1212	NA	SMa2251	hypothetical protein	AAK65871.1	NA
+1213	NA	SMa2253	conserved hypothetical protein	AAK65872.1	NA
+1214	NA	SMa2255	hypothetical protein	AAK65873.1	NA
+1215	NA	SMa2257	Integrase/recombinase	AAK65874.1	NA
+1216	NA	SMa2259	conserved hypothetical protein	AAK65875.1	NA
+1217	NA	SMa2263	hypothetical protein	AAK65877.1	NA
+1218	NA	SMa2265	hypothetical protein	AAK65878.1	NA
+1219	NA	SMa2267	conserved hypothetical protein	AAK65879.2	NA
+1220	NA	SMa2269	hypothetical protein	AAK65880.2	NA
+1221	NA	SMa2273	conserved hypothetical protein	AAK65882.1	NA
+1222	NA	SMa2275	conserved hypothetical protein	AAK65883.1	NA
+1223	NA	SMa2279	conserved hypothetical protein	AAK65885.1	NA
+1224	NA	SMa2281	conserved hypothetical protein	AAK65886.1	NA
+1225	NA	SMa2285	hypothetical protein	AAK65888.1	NA
+1226	NA	SMa2287	Transcriptional regulator, LysR family	AAK65889.2	NA
+1227	NA	SMa2289	conserved hypothetical protein	AAK65890.1	NA
+1228	NA	SMa2291	dehydrogenase	AAK65891.1	NA
+1229	NA	SMa2293	Transcriptional regulator, LysR family	AAK65892.1	NA
+1230	mrcA2	SMa2294	MrcA2 penicillin-binding protein	AAK65893.1	NA
+1231	NA	SMa2295	Penicillin-binding protein	AAK65894.1	NA
+1232	NA	SMa2297	hypothetical protein	AAK65895.2	NA
+1233	NA	SMa2299	hypothetical protein	AAK65896.1	NA
+1234	NA	SMa2301	Diguanylate cyclase	AAK65897.1	NA
+1235	NA	SMa2303	Transcriptional regulator, ROK family	AAK65898.1	NA
+1236	NA	SMa2305	ABC transporter, periplasmic solute-binding 	AAK65899.2	NA
+1237	NA	SMa2307	ABC transporter, permease, likely transports 	AAK65900.1	NA
+1238	NA	SMa2309	ABC transporter, permease, likely transports 	AAK65901.1	NA
+1239	NA	SMa2311	ABC transporter, ATP-binding protein, likely 	AAK65902.1	NA
+1240	NA	SMa2313	Oxidoreductase	AAK65903.1	NA
+1241	NA	SMa2315	hypothetical protein	AAK65904.1	NA
+1242	NA	SMa2317	hypothetical protein	AAK65905.1	NA
+1243	gst14	SMa2319	gst14 glutatione S-transferase	AAK65906.2	2.5.1.18
+1244	uvrD2	SMa2321	UvrD2 DNA helicase	AAK65907.1	3.6.1.-
+1245	NA	SMa2323	conserved hypothetical protein	AAK65908.2	NA
+1246	NA	SMa2325	Response regulator	AAK65909.1	NA
+1247	NA	SMa2327	KdpD histidine kinase	AAK65910.1	NA
+1248	kdpC	SMa2329	KdpC potassium-transporting ATPase C chain	AAK65911.1	3.6.3.12
+1249	kdpB	SMa2331	KdpB potassium-transporting ATPase B chain	AAK65912.1	3.6.3.12
+1250	kdpA	SMa2333	KdpA potassium-transporting ATPase A chain	AAK65913.1	NA
+1251	NA	SMa2335	hypothetical protein	AAK65914.1	NA
+1252	rhtX	SMa2337	RhtX rhizobactin transporter	AAK65915.1	NA
+1253	rhbA	SMa2400	RhbA rhizobactin biosynthesis protein	AAK65916.1	NA
+1254	rhbB	SMa2402	RhsB L-2,4-diaminobutyrate decarboxylase	AAK65917.1	4.1.1.-
+1255	rhbC	SMa2404	RhbC rhizobactin biosynthesis protein	AAK65918.1	NA
+1256	rhbD	SMa2406	RhbD rhizobactin biosynthesis protein	AAK65919.1	NA
+1257	rhbE	SMa2408	RhbE rhizobactin biosynthesis protein	AAK65920.1	NA
+1258	rhbF	SMa2410	RhbF rhizobactin biosynthesis protein	AAK65921.1	NA
+1259	rhrA	SMa2412	RhrA transcriptional activator	AAK65922.1	NA
+1260	rhtA	SMa2414	RhtA rhizobactin transporter	AAK65923.1	NA
+1261	NA	SMa2339	Siderophore biosynthesis protein	AAK65924.1	NA
+1262	NA	SMa2341	Transcriptional regulator, LysR family	AAK65925.2	NA
+1263	NA	SMa2343	oxidoreductase	AAK65926.1	NA
+1264	NA	SMa5012	conserved hypothetical protein	ACF07992.1	NA
+1265	NA	SMa5013	hypothetical protein	ACF07993.1	NA
+1266	NA	SMa2347	conserved hypothetical protein	AAK65928.2	NA
+1267	NA	SMa2349	oxidoreductase	AAK65929.1	NA
+1268	NA	SMa2351	oxidoreductase	AAK65930.1	NA
+1269	NA	SMa2353	oxidoreductase	AAK65931.2	NA
+1270	NA	SMa2355	Nucleotidyltransferase/DNA polymerase	AAK65932.2	NA
+1271	cyaO	SMa2357	adenylate/guanylate cyclase	AAK65933.2	NA
+1272	NA	SMa2359	conserved hypothetical protein	AAK65934.1	NA
+1273	NA	SMa2361	conserved hypothetical protein	AAK65935.1	NA
+1274	NA	SMa2363	Amidase	AAK65936.1	NA
+1275	NA	SMa2365	ABC transporter, ATP-binding protein	AAK65937.1	NA
+1276	NA	SMa2367	ABC transporter, permease	AAK65938.1	NA
+1277	NA	SMa2369	ABC transporter, permease	AAK65939.1	NA
+1278	codA	SMa2371	CodA cytosine deaminase	AAK65940.1	3.5.4.1
+1279	NA	SMa3018	conserved hypothetical protein	ACF07994.1	NA
+1280	NA	SMa2373	TRm2011-2a transposase	AAK65941.1	NA
+1281	NA	SMa2375	TRm2011-2b transposase	AAK65942.1	NA
+1282	NA	SMa2377	Permease, MFS	AAK65943.1	NA
+1283	katB	SMa2379	KatB catalase/peroxidase	AAK65944.1	1.11.1.6
+1284	NA	SMa2381	hypothetical protein	AAK65945.2	NA
+1285	NA	SMa2383	Dehydrogenase, Zn-dependent	AAK65946.1	NA
+1286	NA	SMa2385	ABC transporter ATP-binding protein	AAK65947.1	NA
+1287	NA	SMa2387	Transcriptional regulator, TetR family	AAK65948.2	NA
+1288	NA	SMa2389	OsmC-like protein	AAK65949.2	NA
+1289	repC2	SMa2391	RepC2 replication protein	AAK65950.1	NA
+1290	incA	SMa5039	NA	NA	NA
+1291	repB2	SMa2393	RepB2 replication protein	AAK65951.2	NA
+1292	repA2	SMa2395	RepA2 replication protein	AAK65952.1	NA

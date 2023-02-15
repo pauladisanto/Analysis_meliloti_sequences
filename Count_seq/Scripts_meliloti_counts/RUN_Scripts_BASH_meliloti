@@ -1,0 +1,23 @@
+#Script_BASH_Meliloti
+#Run the scripts using the following lines 
+#IMP!! you have to use your OWN path. 
+#In my case is "/home/paula/Back_up/pau/S_meliloti/Sequencias_meliloti_exp_1/Test_complete_sequences"
+=================================================DIRECTORY&QUALITY=============================================================
+
+./ycg_create_dirs.sh -p /home/paula/Back_up/pau/S_meliloti/Sequencias_meliloti_exp_1/Test_complete_sequences 
+
+./ycg_qc_trimming.sh -p /home/paula/Back_up/pau/S_meliloti/Sequencias_meliloti_exp_1/Test_complete_sequences 
+
+===============================================DEMULTIPLEXED===================================================================
+
+bash -i ./ycg_cutadapt.sh -p /home/paula/Back_up/pau/S_meliloti/Sequencias_meliloti_exp_1/Test_complete_sequences 
+
+bash -i ./ycg_cutadapt-a.sh -p /home/paula/Back_up/pau/S_meliloti/Sequencias_meliloti_exp_1/Test_complete_sequences
+
+bash -i ./ycg_qc_demultiplex.sh -p /home/paula/Back_up/pau/S_meliloti/Sequencias_meliloti_exp_1/Test_complete_sequences 
+
+bash -i ./ycg_qc_demultiplex-a.sh -p /home/paula/Back_up/pau/S_meliloti/Sequencias_meliloti_exp_1/Test_complete_sequences 
+
+=================================================SALMON========================================================================
+bash -i ./ycg_qc_salmon.sh -p /home/paula/Back_up/pau/S_meliloti/Sequencias_meliloti_exp_1/Test_complete_sequences 
+

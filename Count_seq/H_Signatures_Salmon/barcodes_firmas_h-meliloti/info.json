@@ -1,0 +1,22 @@
+{
+    "index_version": 4,
+    "reference_gfa": [
+        "barcodes_firmas_h-meliloti"
+    ],
+    "sampling_type": "dense",
+    "k": 5,
+    "num_kmers": 512,
+    "num_contigs": 512,
+    "seq_length": 2560,
+    "have_ref_seq": true,
+    "have_edge_vec": false,
+    "SeqHash": "d5d218aab13773bb7c88bb7d3d8b969f19ad640f572f1b0e2f48d73268dfefac",
+    "NameHash": "057eb6a2a22329a77d859aef89f105d40f526ff5c23eeef824648c5659b1f018",
+    "SeqHash512": "5349ccc41f44e9b3edcf6558cdd9fe89e5c33205559ac353c21c87b9d78dcd3eeeacad500d41b2e0a147129f74a07cac20b6a7cfe3d10f4e930e05ae90651a5c",
+    "NameHash512": "537e0f1275f2131ef28390ef4c3e5cd9694b7a4cd0dfcf2115389b6b6987a6027044ff3c39a6cb1030d7014695d2ff3d9540d0ee1f3d0b7304d8e2f0ed487e04",
+    "DecoySeqHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "DecoyNameHash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "num_decoys": 0,
+    "first_decoy_index": 18446744073709551615,
+    "keep_duplicates": true
+}

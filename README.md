@@ -8,3 +8,5 @@ You will also find three tables with the information of gene name, gene ID, Prot
 To run the BASH scripts follow the description file "RUN_Scripts_BASH_meliloti"
 
 If you need help, please contact me! I am not a bioinformatician but I will try to help you!
+
+Contact: unlpbiotec@gmail.com

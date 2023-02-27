@@ -27,7 +27,8 @@ echo ">>> Processing batch ${samp} <<<"
 
 echo -e "\n\n >>> DEMULTIPLEX BATCH <<< \n\n"
 
-files=${pdir}/demultiplexed_POOL/M*fastq.gz
+files=${pdir}/demultiplexed_POOL/*Forward*fastq.gz
+
 for f in $files
 do
   name_seq=`basename ${f}`

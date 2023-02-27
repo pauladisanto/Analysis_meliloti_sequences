@@ -27,7 +27,7 @@ echo ">>> Processing batch ${samp} <<<"
 #and the sequences you should see is just the signature of the mutants 
 
 echo -e "\n\n >>> REMOVE COMMON SEQUENCES <<< \n\n"
-for fn in ${pdir}/sequence_cutted/M*.fastq.gz;
+for fn in ${pdir}/sequence_cutted/*Reverse*.fastq.gz;
 do 
 name=`basename ${fn}`
 echo -e "\n\n >> Processing sample ${name} << \n\n"

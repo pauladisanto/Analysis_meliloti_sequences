@@ -35,8 +35,7 @@ echo ">>> Processing batch ${samp} <<<"
 # remove 5' adapter. 
 
 echo -e "\n\n >>> REMOVE COMMON SEQUENCES <<< \n\n"
-
-for fn in ${pdir}/demultiplexed_CONDITION/M*.fastq.gz;
+for fn in ${pdir}/demultiplexed_CONDITION/*Reverse*.fastq.gz;
 do 
 name=`basename ${fn}`
 echo -e "\n\n >> Processing sample ${name} << \n\n"

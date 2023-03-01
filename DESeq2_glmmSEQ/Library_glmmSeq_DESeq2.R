@@ -1,0 +1,126 @@
+library(glmmSeq)
+library(DESeq2)
+library(dplyr)
+library(ggplot2)
+
+
+#filename1 = "Col_data_POOL_1.csv"
+#filename2 = "POOL_1_C1_DMSO_t1_t2_t3_Count_matrix_DESeq.csv"
+#filename1 = "Col_data_POOL_2.csv"
+#filename2 = "POOL_2_C1_DMSO_t1_t2_t3_Count_matrix_DESeq.csv"
+filename1 = "Col_data_POOL_3.csv"
+filename2 = "POOL_3_C1_DMSO_t1_t2_t3_Count_matrix_DESeq.csv"
+
+coldata = read.table(filename1, header=TRUE, sep=",")
+countdata = read.table(filename2, header=TRUE, sep=",")
+
+rownames(coldata) <- coldata[,1]
+coldata= coldata[,2:ncol(coldata)]
+
+coldata$Replicate <- factor(coldata$Replicate)
+coldata$Condition <- factor(coldata$Condition)
+
+#Some GeneID are repeated in the data set. I add a number to the gene ID
+
+countdata$NewID <- paste(countdata$X, countdata$X.1, sep="_")
+
+countdata<- subset(countdata, select = -c(X, X.1))
+
+new_order = sort(colnames(countdata))
+
+#Data set oredered in a correct way
+countdata <- countdata[, new_order]
+
+rownames(countdata) <- countdata[,1]
+countdata = countdata[,2:ncol(countdata)]
+
+#if everything is TRUE is a good sign 
+rownames(coldata)==colnames(countdata)
+
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+#Eliminate values cero from coundata
+id <- which(apply(countdata, 1, function (x) all(abs(x) >= 1)))
+
+countdata <- countdata[id, ]
+
+#Dispersion
+
+ddsFullCountTable <- DESeqDataSetFromMatrix(
+countData = countdata,
+colData = coldata,
+design = ~1)
+
+dds <- DESeq(ddsFullCountTable)
+
+#add gene name
+
+#featureData <- data.frame(gene=rownames(countdata))
+#mcols(dds) <- DataFrame(mcols(dds), featureData)
+#mcols(dds)
+
+dispersions <- setNames(dispersions(dds), rownames(countdata))
+
+#to obtain the count matrix normalized by DESeq2
+#to have the csv file of the normalized counts
+dds <- estimateSizeFactors(dds)
+sizeFactors(dds)
+normalized_counts <- counts(dds, normalized=TRUE)
+write.csv(normalized_counts, file="normalized_counts_DESeq2_POOL3.csv")
+
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+file = "normalized_counts_DESeq2_POOL3.csv"
+countdata_norm_DESeq2 = read.table(file, header=TRUE, sep=",")
+rownames(countdata_norm_DESeq2) <- countdata_norm_DESeq2[,1]
+countdata_norm_DESeq2 = countdata_norm_DESeq2[,2:ncol(countdata_norm_DESeq2)]
+
+
+nrow(countdata_norm_DESeq2)
+length(dispersions)
+
+results <- glmmSeq(~ Time * Condition + (1 | Condition),
+                   countdata = countdata_norm_DESeq2,
+                   metadata = coldata,
+                   dispersion = dispersions,
+                   progress = TRUE)
+
+
+stats <- summary(results)
+
+#ordered list according to p values 
+
+stats_ordered = stats[order(stats[, 'P_Time:Condition']),]
+
+write.csv(stats_ordered, file="stats_ordered_POOL3_Norm_DESeq2.csv")
+
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~plots~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+#For variables such as time, which are matched according to an ID (the random effect), 
+#we can examine the fitted model using plots which show estimated means and confidence intervals 
+#based on coefficients for the fitted regression model, overlaid upon the underlying data. 
+#In this case the samples are matched longitudinally over time.
+#vector with the names of the genes ordered by P_Time:Condition (p-value)
+gene_name_ordered= rownames(stats_ordered)
+
+for(i in 1:length(gene_name_ordered)) {
+plotColours <- c("skyblue", "goldenrod1")
+modColours <- c("dodgerblue3", "goldenrod3")
+shapes <- c(17, 19)  
+myYlim= c(0, 10)
+
+ggmodelPlot(results,
+            geneName = gene_name_ordered[i],
+            x1var = "Time",
+            x2var="Condition",
+            xlab="Time",
+            colours = plotColours,
+            shapes = shapes,
+            lineColours = plotColours, 
+            modelColours = modColours,
+            modelSize = 10)
+file_name = gene_name_ordered[i]
+#file_name = paste(i,"_",file_name,".pdf", sep="")
+file_name = paste(i,"_",file_name,"POOL3",".png", sep="")
+
+ggsave(file_name)
+}
+

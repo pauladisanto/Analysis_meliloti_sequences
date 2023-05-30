@@ -30,6 +30,8 @@ samp=`basename ${pdir}`
 echo ">>> Processing batch ${samp} <<<"
 
 uptag_index=/home/paula/Back_up/pau/S_meliloti/Sequencias_meliloti_exp_1/Planillas_firmas/barcodes_firmas_h-meliloti
+#uptag_index=/home/paula/Back_up/pau/S_meliloti/Sequencias_meliloti_exp_1/Planillas_firmas/barcodes_firmas_h-meliloti_no_dup
+
 
 ##############################
 #######  COUNT MATRIX ########

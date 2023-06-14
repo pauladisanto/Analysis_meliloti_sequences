@@ -12,6 +12,8 @@
 #It is important to know that the signatures H4K4_2A and H4K4_5C are the same so you will have the same counts for both. 
 #You could generate a new index avoiding these two signatures or you can use this Salmon index taking into account that 
 #signatures H4K4_2A and H4K4_5C have the same DNA sequence
+#you can run this to create the salmon index without duplicates 
+#salmon index -t Firmas_h_no_duplicates.fasta -i barcodes_firmas_h-meliloti_no_dup -k 21 
 #(see manual https://salmon.readthedocs.io/en/latest/salmon.html#using-salmon)
 #https://combine-lab.github.io/salmon/getting_started/
 

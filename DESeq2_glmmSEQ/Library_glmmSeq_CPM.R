@@ -6,12 +6,8 @@ library(DESeq2)
 library(dplyr)
 library(ggplot2)
 
-#filename1 = "Col_data_POOL_1.csv"
-#filename2 = "POOL_1_C1_DMSO_t1_t2_t3_Count_matrix_DESeq.csv"
-#filename1 = "Col_data_POOL_2.csv"
-#filename2 = "POOL_2_C1_DMSO_t1_t2_t3_Count_matrix_DESeq.csv"
-filename1 = "Col_data_POOL_3.csv"
-filename2 = "POOL_3_C1_DMSO_t1_t2_t3_Count_matrix_DESeq.csv"
+filename1 = "Col_data_POOL_4_9.csv"
+filename2 = "Data_set_DSeq2_Count_matrix_DESeq.csv"
 
 coldata = read.table(filename1, header=TRUE, sep=",")
 countdata = read.table(filename2, header=TRUE, sep=",")
@@ -84,7 +80,7 @@ stats <- summary(results)
 
 stats_ordered = stats[order(stats[, 'P_Time:Condition']),]
 
-write.csv(stats_ordered, file="stats_ordered_POOL3_glmm_CPM.csv")
+write.csv(stats_ordered, file="stats_ordered_POOL4_9_glmm_CPM.csv")
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~plots~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #For variables such as time, which are matched according to an ID (the random effect), 

@@ -5,7 +5,8 @@ library(stringr)
 library(tidyverse)
 
 
-filename = c("stats_ordered_POOL1_Norm_DESeq2.csv", "stats_ordered_POOL2_Norm_DESeq2.csv", "stats_ordered_POOL3_Norm_DESeq2.csv")
+#filename = c("stats_ordered_POOL1_Norm_DESeq2.csv", "stats_ordered_POOL2_Norm_DESeq2.csv", "stats_ordered_POOL3_Norm_DESeq2.csv")
+filename = "stats_ordered_POOL4_9_Norm_DESeq2.csv"
 
 data = list()
 
@@ -18,9 +19,10 @@ data[[i]] = read.table(filename[i], header=TRUE, sep=",")
 #############################################################################################
 
 
-data1= rbind(data[[1]], data[[2]], data[[3]])
+#data1= rbind(data[[1]], data[[2]], data[[3]])
+data1= data[[1]]
 
-Tabla<-subset(data1, P_Time.Condition < 0.1, select=c(X, Time, Time:ConditionUntreated, P_Time,	P_Condition, P_Time.Condition))
+Tabla<-subset(data1, P_Time.Condition < 0.2, select=c(X, Time, Time:ConditionUntreated, P_Time,	P_Condition, P_Time.Condition))
 
 Increased_mutants = subset(Tabla, Time > 0, select=c(X, Time, Time:ConditionUntreated, P_Time,	P_Condition, P_Time.Condition))
 
@@ -40,9 +42,9 @@ Decreased_mutants = subset(Tabla, Time < 0, select=c(X, Time, Time:ConditionUntr
 
 
 
-Increased_mutants[c('Number', 'gene_ID')] <- str_split_fixed(Increased_mutants$X, '_', 2)
+Increased_mutants[c('gene_ID', 'Number')] <- str_split_fixed(Increased_mutants$X, '_', 2)
 
-Decreased_mutants[c('Number', 'gene_ID')] <- str_split_fixed(Decreased_mutants$X, '_', 2)
+Decreased_mutants[c('gene_ID', 'Number')] <- str_split_fixed(Decreased_mutants$X, '_', 2)
 
 filename = "data_unificado_funtion_ID_gene_protein_plus_proteins_from_fasta_2.csv"
 

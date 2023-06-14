@@ -3,13 +3,11 @@ library(DESeq2)
 library(dplyr)
 library(ggplot2)
 
+#filename1 = "Col_data_POOL_3.csv"
+#filename2 = "POOL_3_C1_DMSO_t1_t2_t3_Count_matrix_DESeq.csv"
 
-#filename1 = "Col_data_POOL_1.csv"
-#filename2 = "POOL_1_C1_DMSO_t1_t2_t3_Count_matrix_DESeq.csv"
-#filename1 = "Col_data_POOL_2.csv"
-#filename2 = "POOL_2_C1_DMSO_t1_t2_t3_Count_matrix_DESeq.csv"
-filename1 = "Col_data_POOL_3.csv"
-filename2 = "POOL_3_C1_DMSO_t1_t2_t3_Count_matrix_DESeq.csv"
+filename1 = "Col_data_POOL_4_9.csv"
+filename2 = "Data_set_DSeq2_Count_matrix_DESeq.csv"
 
 coldata = read.table(filename1, header=TRUE, sep=",")
 countdata = read.table(filename2, header=TRUE, sep=",")
@@ -66,10 +64,10 @@ dispersions <- setNames(dispersions(dds), rownames(countdata))
 dds <- estimateSizeFactors(dds)
 sizeFactors(dds)
 normalized_counts <- counts(dds, normalized=TRUE)
-write.csv(normalized_counts, file="normalized_counts_DESeq2_POOL3.csv")
+write.csv(normalized_counts, file="normalized_counts_DESeq2_POOL4_9.csv")
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-file = "normalized_counts_DESeq2_POOL3.csv"
+file = "normalized_counts_DESeq2_POOL4_9.csv"
 countdata_norm_DESeq2 = read.table(file, header=TRUE, sep=",")
 rownames(countdata_norm_DESeq2) <- countdata_norm_DESeq2[,1]
 countdata_norm_DESeq2 = countdata_norm_DESeq2[,2:ncol(countdata_norm_DESeq2)]
@@ -91,7 +89,7 @@ stats <- summary(results)
 
 stats_ordered = stats[order(stats[, 'P_Time:Condition']),]
 
-write.csv(stats_ordered, file="stats_ordered_POOL3_Norm_DESeq2.csv")
+write.csv(stats_ordered, file="stats_ordered_POOL4_9_Norm_DESeq2.csv")
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~plots~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #For variables such as time, which are matched according to an ID (the random effect), 

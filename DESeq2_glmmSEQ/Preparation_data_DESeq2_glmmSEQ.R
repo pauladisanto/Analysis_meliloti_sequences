@@ -28,9 +28,9 @@ data_unificado = merged_df %>%
 data_unificado <- data_unificado[!is.na(data_unificado$Replica),]
 
 #to save the dataframe and take a detailed check
-#output_file_name <- "/home/paula/Back_up/pau/S_meliloti/Normalizacion_Meliloti_primer_exp/otras_planillas/Planillas_intermedias/Data_counts_Experimento1_C1_DMSO_2.csv"
+#output_file_name <- "/home/paula/Back_up/pau/S_meliloti_pool_4_9/Data_preparation_merge_counts_information/data_unificado_NO_NA.csv"
 #write.table(data_unificado, file = output_file_name, 
-#           quote = FALSE, sep = "\t", row.names = FALSE)
+ #          quote = FALSE, sep = "\t", row.names = FALSE)
 
 #Second merge with the dataframe that contains the ID name. Merge by transposon_set(number of pool) and Name(signature)
 
@@ -143,101 +143,67 @@ for (i in 1:length(Tabla_Compound_C1_POOL4)) {
 
 }
 
-#--------------------------------------------------------------------------------------------------------------------------------
-#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~POOL4~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~POOL4-9~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+# Create a function to generate the desired expression
+generate_expression <- function(pool_num) {
+  # Create an empty list to store the data frames
+  data_frames <- list()
+  
+  # Loop through the desired data frames
+  for (i in 1:9) {
+    data_frames[[i]] <- get(paste0("my_dataframe_DMSO_POOL", pool_num, "_", i))
+    data_frames[[i+9]] <- get(paste0("my_dataframe_C1_POOL", pool_num, "_", i))
+  }
+  
+  # Add Tabla_time_0_POOLX at the beginning and end of the list
+  data_frames <- c(get(paste0("Tabla_time_0_POOL", pool_num)), data_frames, get(paste0("Tabla_time_0_POOL", pool_num)))
+  
+  # Combine all data frames horizontally using cbind
+  result <- do.call(cbind, data_frames)
+  
+  # Return the result
+  return(result)
+}
 
-POOL_4_C1_DMSO_t0_t1_t2_t3 =cbind(Tabla_time_0_POOL4, my_dataframe_DMSO_POOL4_1,my_dataframe_DMSO_POOL4_2,my_dataframe_DMSO_POOL4_3,my_dataframe_DMSO_POOL4_4,
-   my_dataframe_DMSO_POOL4_5, my_dataframe_DMSO_POOL4_6, my_dataframe_DMSO_POOL4_7, my_dataframe_DMSO_POOL4_8, my_dataframe_DMSO_POOL4_9,
-   my_dataframe_C1_POOL4_1, my_dataframe_C1_POOL4_2, my_dataframe_C1_POOL4_3, my_dataframe_C1_POOL4_4, my_dataframe_C1_POOL4_5, my_dataframe_C1_POOL4_6,
-   my_dataframe_C1_POOL4_7, my_dataframe_C1_POOL4_8, my_dataframe_C1_POOL4_9, Tabla_time_0_POOL4)
+# Generate the expressions for the different pools
+POOL4_C1_DMSO_t0_t1_t2_t3 <- generate_expression(4)
+POOL5_C1_DMSO_t0_t1_t2_t3 <- generate_expression(5)
+POOL6_C1_DMSO_t0_t1_t2_t3 <- generate_expression(6)
+POOL7_C1_DMSO_t0_t1_t2_t3 <- generate_expression(7)
+POOL8_C1_DMSO_t0_t1_t2_t3 <- generate_expression(8)
+POOL9_C1_DMSO_t0_t1_t2_t3 <- generate_expression(9)
 
-
-#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~POOL5~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-POOL_5_C1_DMSO_t0_t1_t2_t3 =cbind(Tabla_time_0_POOL5, my_dataframe_DMSO_POOL5_1,my_dataframe_DMSO_POOL5_2,my_dataframe_DMSO_POOL5_3,my_dataframe_DMSO_POOL5_4,
-   my_dataframe_DMSO_POOL5_5, my_dataframe_DMSO_POOL5_6, my_dataframe_DMSO_POOL5_7, my_dataframe_DMSO_POOL5_8, my_dataframe_DMSO_POOL5_9,
-   my_dataframe_C1_POOL5_1, my_dataframe_C1_POOL5_2, my_dataframe_C1_POOL5_3, my_dataframe_C1_POOL5_4, my_dataframe_C1_POOL5_5, my_dataframe_C1_POOL5_6,
-   my_dataframe_C1_POOL5_7, my_dataframe_C1_POOL5_8, my_dataframe_C1_POOL5_9, Tabla_time_0_POOL5)
-
-#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~POOL6~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-POOL_6_C1_DMSO_t0_t1_t2_t3 =cbind(Tabla_time_0_POOL6, my_dataframe_DMSO_POOL6_1,my_dataframe_DMSO_POOL6_2,my_dataframe_DMSO_POOL6_3,my_dataframe_DMSO_POOL6_4,
-   my_dataframe_DMSO_POOL6_5, my_dataframe_DMSO_POOL6_6, my_dataframe_DMSO_POOL6_7, my_dataframe_DMSO_POOL6_8, my_dataframe_DMSO_POOL6_9,
-   my_dataframe_C1_POOL6_1, my_dataframe_C1_POOL6_2, my_dataframe_C1_POOL6_3, my_dataframe_C1_POOL6_4, my_dataframe_C1_POOL6_5, my_dataframe_C1_POOL6_6,
-   my_dataframe_C1_POOL6_7, my_dataframe_C1_POOL6_8, my_dataframe_C1_POOL6_9, Tabla_time_0_POOL6)
-
-#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~POOL7~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-
-POOL_7_C1_DMSO_t0_t1_t2_t3 =cbind(Tabla_time_0_POOL7, my_dataframe_DMSO_POOL7_1,my_dataframe_DMSO_POOL7_2,my_dataframe_DMSO_POOL7_3,my_dataframe_DMSO_POOL7_4,
-   my_dataframe_DMSO_POOL7_5, my_dataframe_DMSO_POOL7_6, my_dataframe_DMSO_POOL7_7, my_dataframe_DMSO_POOL7_8, my_dataframe_DMSO_POOL7_9, 
-   my_dataframe_C1_POOL7_1, my_dataframe_C1_POOL7_2, my_dataframe_C1_POOL7_3, my_dataframe_C1_POOL7_4, my_dataframe_C1_POOL7_5, my_dataframe_C1_POOL7_6,
-   my_dataframe_C1_POOL7_7, my_dataframe_C1_POOL7_8, my_dataframe_C1_POOL7_9,Tabla_time_0_POOL7)
-
-#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~POOL8~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-POOL_8_C1_DMSO_t0_t1_t2_t3 =cbind(Tabla_time_0_POOL8, my_dataframe_DMSO_POOL8_1,my_dataframe_DMSO_POOL8_2,my_dataframe_DMSO_POOL8_3,my_dataframe_DMSO_POOL8_4,
-   my_dataframe_DMSO_POOL8_5, my_dataframe_DMSO_POOL8_6, my_dataframe_DMSO_POOL8_7, my_dataframe_DMSO_POOL8_8, my_dataframe_DMSO_POOL8_9,
-   my_dataframe_C1_POOL8_1, my_dataframe_C1_POOL8_2, my_dataframe_C1_POOL8_3, my_dataframe_C1_POOL8_4, my_dataframe_C1_POOL8_5, my_dataframe_C1_POOL8_6,
-   my_dataframe_C1_POOL8_7, my_dataframe_C1_POOL8_8, my_dataframe_C1_POOL8_9, Tabla_time_0_POOL8)
-
-#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~POOL9~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-POOL_9_C1_DMSO_t0_t1_t2_t3 =cbind(Tabla_time_0_POOL9, my_dataframe_DMSO_POOL9_1,my_dataframe_DMSO_POOL9_2,my_dataframe_DMSO_POOL9_3,my_dataframe_DMSO_POOL9_4,
-   my_dataframe_DMSO_POOL9_5, my_dataframe_DMSO_POOL9_6, my_dataframe_DMSO_POOL9_7, my_dataframe_DMSO_POOL9_8, my_dataframe_DMSO_POOL9_9, 
-   my_dataframe_C1_POOL9_1, my_dataframe_C1_POOL9_2, my_dataframe_C1_POOL9_3, my_dataframe_C1_POOL9_4, my_dataframe_C1_POOL9_5, my_dataframe_C1_POOL9_6,
-   my_dataframe_C1_POOL9_7, my_dataframe_C1_POOL9_8, my_dataframe_C1_POOL9_9,Tabla_time_0_POOL9)
-
-
-#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~POOL4~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~POOL4-9~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #Set the names and eliminate the coloumns that are repeated (gene_ID)
 
-POOL_4_C1_DMSO_t0_t1_t2_t3 = POOL_4_C1_DMSO_t0_t1_t2_t3 [,c(1,2,4,6,8,10,12,14,16,18,20,22,24,26,28,30,32,34,36,38,40)]
+pools <- c("POOL4_C1_DMSO_t0_t1_t2_t3", "POOL5_C1_DMSO_t0_t1_t2_t3","POOL6_C1_DMSO_t0_t1_t2_t3", "POOL7_C1_DMSO_t0_t1_t2_t3", "POOL8_C1_DMSO_t0_t1_t2_t3","POOL9_C1_DMSO_t0_t1_t2_t3" )
+data_frames <- list(POOL4_C1_DMSO_t0_t1_t2_t3, POOL5_C1_DMSO_t0_t1_t2_t3,POOL6_C1_DMSO_t0_t1_t2_t3, POOL7_C1_DMSO_t0_t1_t2_t3, POOL8_C1_DMSO_t0_t1_t2_t3,POOL9_C1_DMSO_t0_t1_t2_t3)
 
-POOL_4_C1_DMSO_t0_t1_t2_t3 <-  setNames(POOL_4_C1_DMSO_t0_t1_t2_t3, c("","Sample_0","Sample_01", "Sample_02", "Sample_03", "Sample_04", "Sample_05", 
-   "Sample_06", "Sample_07", "Sample_08", "Sample_09",  "Sample_10", "Sample_11", "Sample_12", "Sample_13", "Sample_14", "Sample_15", "Sample_16", "Sample_17","Sample_18","Sample_19"))
-
-#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~POOL5~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-POOL_5_C1_DMSO_t0_t1_t2_t3 = POOL_5_C1_DMSO_t0_t1_t2_t3 [,c(1,2,4,6,8,10,12,14,16,18,20,22,24,26,28,30,32,34,36,38,40)]
-
-POOL_5_C1_DMSO_t0_t1_t2_t3 <-  setNames(POOL_5_C1_DMSO_t0_t1_t2_t3, c("","Sample_0","Sample_01", "Sample_02", "Sample_03", "Sample_04", "Sample_05", 
-   "Sample_06", "Sample_07", "Sample_08", "Sample_09", "Sample_10", "Sample_11", "Sample_12", "Sample_13", "Sample_14", "Sample_15", "Sample_16", "Sample_17","Sample_18","Sample_19"))
-
-
-#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~POOL6~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-POOL_6_C1_DMSO_t0_t1_t2_t3 = POOL_6_C1_DMSO_t0_t1_t2_t3 [,c(1,2,4,6,8,10,12,14,16,18,20,22,24,26,28,30,32,34,36,38,40)]
-
-POOL_6_C1_DMSO_t0_t1_t2_t3 <-  setNames(POOL_6_C1_DMSO_t0_t1_t2_t3, c("","Sample_0","Sample_01", "Sample_02", "Sample_03", "Sample_04", "Sample_05", 
-   "Sample_06", "Sample_07", "Sample_08", "Sample_09", "Sample_10", "Sample_11", "Sample_12", "Sample_13", "Sample_14", "Sample_15", "Sample_16", "Sample_17","Sample_18","Sample_19"))
-
-#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~POOL7~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-POOL_7_C1_DMSO_t0_t1_t2_t3 = POOL_7_C1_DMSO_t0_t1_t2_t3 [,c(1,2,4,6,8,10,12,14,16,18,20,22,24,26,28,30,32,34,36,38,40)]
-
-POOL_7_C1_DMSO_t0_t1_t2_t3 <-  setNames(POOL_7_C1_DMSO_t0_t1_t2_t3, c("","Sample_0","Sample_01", "Sample_02", "Sample_03", "Sample_04", "Sample_05", 
-   "Sample_06", "Sample_07", "Sample_08", "Sample_09", "Sample_10", "Sample_11", "Sample_12", "Sample_13", "Sample_14", "Sample_15", "Sample_16", "Sample_17","Sample_18","Sample_19"))
-
-#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~POOL8~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-POOL_8_C1_DMSO_t0_t1_t2_t3 = POOL_8_C1_DMSO_t0_t1_t2_t3 [,c(1,2,4,6,8,10,12,14,16,18,20,22,24,26,28,30,32,34,36,38,40)]
-
-POOL_8_C1_DMSO_t0_t1_t2_t3 <-  setNames(POOL_8_C1_DMSO_t0_t1_t2_t3, c("","Sample_0","Sample_01", "Sample_02", "Sample_03", "Sample_04", "Sample_05", 
-   "Sample_06", "Sample_07", "Sample_08", "Sample_09",  "Sample_10", "Sample_11", "Sample_12", "Sample_13", "Sample_14", "Sample_15", "Sample_16", "Sample_17","Sample_18","Sample_19"))
-
-
-#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~POOL9~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-POOL_9_C1_DMSO_t0_t1_t2_t3 = POOL_9_C1_DMSO_t0_t1_t2_t3 [,c(1,2,4,6,8,10,12,14,16,18,20,22,24,26,28,30,32,34,36,38,40)]
-
-POOL_9_C1_DMSO_t0_t1_t2_t3 <-  setNames(POOL_9_C1_DMSO_t0_t1_t2_t3, c("","Sample_0","Sample_01", "Sample_02", "Sample_03", "Sample_04", "Sample_05", 
-   "Sample_06", "Sample_07", "Sample_08", "Sample_09", "Sample_10", "Sample_11", "Sample_12", "Sample_13", "Sample_14", "Sample_15", "Sample_16", "Sample_17","Sample_18","Sample_19"))
-
+# Loop over the pools
+for (i in seq_along(pools)) {
+  pool <- pools[i]
+  data_frame <- data_frames[[i]]
+  
+  # Eliminate repeated columns (gene_ID)
+  data_frame <- data_frame[, c(1, seq(2, ncol(data_frame), by = 2))]
+  
+  # Set column names
+  col_names <- c("", paste0("Sample_", seq(0, ncol(data_frame)-2)))
+  names(data_frame) <- col_names
+  
+  # Update the data frame in the list
+  data_frames[[i]] <- data_frame
+  
+  # Assign the updated data frame back to the original object name
+  assign(pool, data_frame)
+}
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #Since I have a complete dataset I will merge all the datasets into one
+Data_set_DSeq2 =  rbind(data_frames[[1]],data_frames[[2]],data_frames[[3]],data_frames[[4]],data_frames[[5]],data_frames[[6]])
 
-Data_set_DSeq2 =  rbind(POOL_4_C1_DMSO_t0_t1_t2_t3, POOL_5_C1_DMSO_t0_t1_t2_t3,POOL_6_C1_DMSO_t0_t1_t2_t3,POOL_7_C1_DMSO_t0_t1_t2_t3,POOL_8_C1_DMSO_t0_t1_t2_t3, POOL_9_C1_DMSO_t0_t1_t2_t3)
-#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+#~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 #Save the cvs files it will be the countMatrix input for DESeq2 _Count_matrix_DESeq.csv
  
@@ -246,13 +212,6 @@ write.table(Data_set_DSeq2, file = output_file_name,
            quote = FALSE, sep = "\t", row.names = FALSE)
 
 
-#output_file_name <- "/home/paula/Back_up/pau/S_meliloti/Normalizacion_Meliloti_primer_exp/otras_planillas/0_POOL_2_C1_DMSO_t1_t2_t3_Count_matrix_DESeq.csv"
-#write.table(POOL_2_C1_DMSO_t1_t2_t3, file = output_file_name, 
- #          quote = FALSE, sep = "\t", row.names = FALSE)
-
-#output_file_name <- "/home/paula/Back_up/pau/S_meliloti/Normalizacion_Meliloti_primer_exp/otras_planillas/0_POOL_3_C1_DMSO_t1_t2_t3_Count_matrix_DESeq.csv"
-#write.table(POOL_3_C1_DMSO_t1_t2_t3, file = output_file_name, 
- #          quote = FALSE, sep = "\t", row.names = FALSE)
 
 
 

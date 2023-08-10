@@ -52,6 +52,7 @@ outu2=${pdir}/merged/${name_seq}_trimmed_unmerged_2.fastq.gz
 #After running this script you will have new folders according to your 5'TAGs. After --rc all your sequences will have the same orientation  
 #IMP! it is important to set the parameters -e 0 and the parameter O 26 because the variations among primers is small (four nucleotides). 
 #Default settings are very relaxed. See manual cutadapt: https://cutadapt.readthedocs.io/en/stable/guide.html
+#It is important to change the name of metadata for  the name of the folder plus the metadata (Test_complete_sequences_metadata.fasta)
 
 echo -e "\n\n >>> DEMULTIPLEX BATCH <<< \n\n"
 cutadapt \

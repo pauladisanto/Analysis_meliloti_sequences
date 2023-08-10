@@ -22,11 +22,15 @@ data[[i]] = read.table(filename[i], header=TRUE, sep=",")
 #data1= rbind(data[[1]], data[[2]], data[[3]])
 data1= data[[1]]
 
-Tabla<-subset(data1, P_Time.Condition < 0.2, select=c(X, Time, Time:ConditionUntreated, P_Time,	P_Condition, P_Time.Condition))
 
-Increased_mutants = subset(Tabla, Time > 0, select=c(X, Time, Time:ConditionUntreated, P_Time,	P_Condition, P_Time.Condition))
+Tabla<-subset(data1, P_Time.Condition < 0.3, select=c(X, Time, Time:ConditionUntreated, P_Time,	P_Condition, P_Time.Condition))
+Tabla_C<-subset(Tabla, P_Condition < 0.2, select=c(X, Time, Time:ConditionUntreated, P_Time, P_Condition, P_Time.Condition))
+Tabla_T<-subset(Tabla_C, P_Time < 0.2, select=c(X, Time, Time:ConditionUntreated, P_Time, P_Condition, P_Time.Condition))
 
-Decreased_mutants = subset(Tabla, Time < 0, select=c(X, Time, Time:ConditionUntreated, P_Time,	P_Condition, P_Time.Condition))
+
+Increased_mutants = subset(Tabla_T, Time > 0, select=c(X, Time, Time:ConditionUntreated, P_Time,	P_Condition, P_Time.Condition))
+
+Decreased_mutants = subset(Tabla_T, Time < 0, select=c(X, Time, Time:ConditionUntreated, P_Time,	P_Condition, P_Time.Condition))
 
 
 
@@ -73,22 +77,22 @@ Protein_names_decreased = Protein_names_decreased[!is.na(Protein_names_decreased
 
 
 #####Retrieve the sequences using these lines in BASH#####
-write.csv(Protein_names_increased,file="Protein_names_increased_POOL_1_2_3.csv",row.names=F)
-write.csv(Protein_names_decreased,file="Protein_names_decreased_POOL_1_2_3.csv",row.names=F)
+write.csv(Protein_names_increased,file="Protein_names_increased_POOL_6_9_by_time_condition_timecondition.csv",row.names=F)
+write.csv(Protein_names_decreased,file="Protein_names_decreased_POOL_6_9_by_time_condition_timecondition",row.names=F)
 
 
-sort Protein_names_increased_POOL_1_2_3.csv | uniq | tr -d '"'>  Protein_names_increased_POOL_1_2_3.csv_unique.txt
+sort Protein_names_increased_POOL_6_9_by_time_condition_timecondition.csv | uniq | tr -d '"'>  Protein_names_increased_POOL_6_9.csv_unique.txt
 
-sort Protein_names_decreased_POOL_1_2_3.csv | uniq | tr -d '"'>  Protein_names_decreased_POOL_1_2_3.csv_unique.txt
+sort Protein_names_decreased_POOL_6_9_by_time_condition_timecondition | uniq | tr -d '"'>  Protein_names_decreased_POOL_6_9.csv_unique.txt
 
 mkdir protein_sequences
 cd protein_sequences
 
 
-seqtk subseq Sinorhizobium_meliloti_1021_gca_000006965.ASM696v1.pep.all.faa Protein_names_increased_POOL_1_2_3.csv_unique.txt > Protein_sequence_Increased_mutants
+seqtk subseq Sinorhizobium_meliloti_1021_gca_000006965.ASM696v1.pep.all.faa Protein_names_increased_POOL_6_9.csv_unique.txt > Protein_sequence_Increased_mutants
 
 
-seqtk subseq Sinorhizobium_meliloti_1021_gca_000006965.ASM696v1.pep.all.faa Protein_names_decreased_POOL_1_2_3.csv_unique.txt > Protein_sequence_Decreased_mutants
+seqtk subseq Sinorhizobium_meliloti_1021_gca_000006965.ASM696v1.pep.all.faa Protein_names_decreased_POOL_6_9.csv_unique.txt > Protein_sequence_Decreased_mutants
 
 
 

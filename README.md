@@ -4,7 +4,11 @@ This contains scripts to count the H signatures of the *S. meliloti* library fro
 
 In addition, the repository also contains three tables with the information of gene name, gene ID, Protein ID, and function. These tables were collected using the Ensembl repositories. The script to collect the data from Ensembl is also available in this repository.
 
-To run the BASH scripts, follow the description file `RUN_Scripts_BASH_meliloti`.
+To run the BASH scripts, follow the description file `RUN_Scripts_BASH_meliloti`. 
+
+Example plot of the output from `glmmSEQ`:
+
+<img src="demo_images/1_SMc03935_A_416POOL3.png" width="400"/>
 
 The BASH scripts were developed using a template script written by Sunniva Sigurdardóttir (GitHub: sunnivass) 
 
